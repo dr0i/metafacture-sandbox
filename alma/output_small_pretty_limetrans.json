@@ -1,0 +1,104 @@
+[
+   {
+      "CreatorStatement" : {
+         "creatorStatement" : "Tim Patrick"
+      },
+      "DateProper" : {
+         "date" : [
+            "c2010"
+         ]
+      },
+      "Description" : {
+         "description" : [
+            "Includes index"
+         ]
+      },
+      "Extent" : {
+         "extent" : "1 online resource (xxiii, 411 p.) : ill"
+      },
+      "IdentifierAlma" : {
+         "identifierMMS" : "990042506810206443"
+      },
+      "IdentifierISBN" : [
+         {
+            "identifierISBN" : [
+               "9780735638884"
+            ]
+         }
+      ],
+      "Language" : [
+         {
+            "language" : "Englisch",
+            "languageSource" : "eng"
+         }
+      ],
+      "OnlineAccess" : [
+         {
+            "publicnote" : "Connect to this resource online",
+            "uri" : "http://proquest.tech.safaribooksonline.de/?uiCode=Duesseldorf&xmlId=9780735656260"
+         }
+      ],
+      "Person" : [
+         {
+            "personName" : "Patrick, Tim"
+         }
+      ],
+      "PublisherName" : [
+         {
+            "chronology" : [
+               "c2010"
+            ],
+            "name" : [
+               "O'Reilly Media"
+            ],
+            "place" : [
+               "Sebastopol, Calif"
+            ]
+         }
+      ],
+      "RecordIdentifier" : {
+         "identifierForTheRecord" : "(DE-61)990042506810206443"
+      },
+      "Summary" : {
+         "abstract" : [
+            "Provides tutorials and examples on using ADO.NET 4 to create datacentric applications for Windows and the Web"
+         ]
+      },
+      "TitleStatement" : [
+         {
+            "titleMain" : "Microsoft ADO.NET 4 step by step"
+         }
+      ],
+      "TypeMedia" : "Elektronische Ressource",
+      "collection" : "DE-61",
+      "dc" : {
+         "date" : [
+            "2010"
+         ],
+         "format" : [
+            "Elektronische Ressource",
+            "Online-Ressource"
+         ],
+         "language" : [
+            "Englisch"
+         ],
+         "type" : [
+            "Monographie"
+         ]
+      },
+      "id" : "990042506810206443",
+      "introx" : {
+         "access" : [
+            "online"
+         ],
+         "carrier" : [
+            "Elektronische Ressource"
+         ]
+      },
+      "xbib" : [
+         {
+            "uid" : "(DE-61)990042506810206443"
+         }
+      ]
+   }
+]
