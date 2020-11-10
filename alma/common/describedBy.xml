@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rules xmlns="http://www.culturegraph.org/metamorph">
+  <!-- 7xx -->
+  <entity name="describedBy" flushWith="record">
+		<call-macro name="simplify-date" dname="dateCreated" source="MNG  .b"/>
+		<call-macro name="simplify-date" dname="dateModified" source="MNG  .d"/>
+		<data name="id" source="@id">
+			<regexp match="(.*)" format="https://lobid.org/resources/${1}"/>
+		</data>
+		<entity name="type[]">
+			<data name="" source="@id">
+				<constant value="BibliographicDescription"/>
+			</data>
+		</entity>
+		<entity name="modifiedBy">
+			<data name="id" source="MNG  .g">
+				<regexp match="(.*)" format="http://lobid.org/organisations/${1}_todo"/>
+			</data>
+			<data name="label" source="MNG  .g">
+				<constant value="lobid Organisation"/>
+			</data>
+		</entity>
+  </entity>
+</rules>

@@ -1151,7 +1151,7 @@
 			</data>
     </entity>
 
-    <entity name="date[]" flushWith="record">
+    <entity name="pchbz_date[]_wegmal" flushWith="record">
       <data name="" source="260[ 23] .c|264[ 23]1.c|@date[12]">
         <split delimiter="[,-]" />
         <regexp match="\d{4}" />

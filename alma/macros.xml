@@ -87,4 +87,11 @@
     </data>
   </macro>
 
+  <macro name="simplify-date">
+    <data name="$[dname]" source="$[source]">
+      <replace pattern="-" with="" />
+      <replace pattern=" .*" with="" />
+    </data>
+  </macro>
+
 </macros>

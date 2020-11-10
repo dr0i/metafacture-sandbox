@@ -31,7 +31,7 @@
   </rules>
   <xi:include href="common/facets.xml"/>
   <xi:include href="common/fields.xml"/>
-  <xi:include href="common/personCreator.xml"/>
+  <xi:include href="common/describedBy.xml"/>
   <xi:include href="common/titleOther.xml"/>
   <xi:include href="common/RSWK.xml"/>
 </metamorph>

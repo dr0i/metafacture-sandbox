@@ -1,7 +1,5 @@
 {
   "almaId" : "990042506810206443",
-  "hbzId" : "HT004250681DUE01",
-  "id" : "https://lobid.org/resources/HT004250681DUE01",
   "title" : "Microsoft ADO.NET 4 step by step",
   "contribution" : [ {
     "agent" : {
@@ -25,8 +23,12 @@
     "label" : "Online-Ressource"
   } ],
   "type" : [ "Book", "BibliographicResource" ],
-  "date" : [ "2010" ],
+  "pchbz_date[]_wegmal" : {
+    "" : "2010"
+  },
   "collection" : "DE-61",
+  "hbzId" : "ALMA990042506810206443",
+  "id" : "https://lobid.org/resources/ALMA990042506810206443#!",
   "language" : [ {
     "label" : "Englisch",
     "id" : "http://id.loc.gov/vocabulary/iso639-2/eng"
@@ -62,6 +64,15 @@
     "uri" : "http://proquest.tech.safaribooksonline.de/?uiCode=Duesseldorf&xmlId=9780735656260"
   } ],
   "xbib" : [ {
-    "uid" : "HT004250681DUE01"
-  } ]
+    "uid" : "ALMA990042506810206443"
+  } ],
+  "describedBy" : {
+    "modifiedBy" : {
+      "id" : "http://lobid.org/organisations/004250681-DUE01_todo",
+      "label" : "lobid Organisation"
+    },
+    "dateCreated" : "20200701",
+    "id" : "https://lobid.org/resources/ALMA990042506810206443",
+    "type" : [ "BibliographicDescription" ]
+  }
 }
