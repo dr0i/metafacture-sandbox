@@ -22,7 +22,7 @@
     <entity name="DateLast">
       <call-macro name="dynamic-filter" dname="date" source="POC  .c" filter="@portfolio" value="POC  .a"/>
     </entity>
-		<data source="001" name="id" />
+		<data source="001" name="almaId" />
     <entity name="IdentifierAlma" flushWith="record">
       <data name="identifierMMS" source="001"/>
       <data name="identifierMMSIZ" source="@mmsiz"/>

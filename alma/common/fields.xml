@@ -8,17 +8,16 @@
       <constant value="$[isil]" />
     </data>
   </choose>
-  <combine name="@id" value="(${isil})${id}">
-    <data name="id" source="001" />
-    <data name="isil" source="@_isil" />
+  <combine name="@id" value="HT${id}">
+    <data name="id" source="035  .a" >
+			<regexp match="\(DE-605\)(.*)" format="${1}"/>
+		</data>
   </combine>
   <data name="@uid" source="@id" />
-  <entity name="RecordIdentifier" flushWith="@id">
-    <data name="identifierForTheRecord" source="@id" />
-    <data name="isContextLocal" source="@id">
-      <regexp match="\(DE-836\).*" />
-    </data>
-  </entity>
+  <data name="hbzId" source="@id" />
+  <data name="id" source="@id" >
+		<regexp match="(.*)" format="https://lobid.org/resources/${1}"/>
+	</data>
 
   <data name="collection" source="@_isil" />
 
@@ -75,10 +74,12 @@
   <data name="@language_long" source="@language_source">
     <lookup in="ISO639-2-to-GND" />
   </data>
-  <entity name="Language[]" flushWith="record">
+  <entity name="language[]" flushWith="record">
     <entity name="" flushWith="@language_source" reset="true">
-      <data name="language" source="@language_long" />
-      <data name="languageSource" source="@language_source" />
+      <data name="id" source="@language_source" >
+				<regexp match="(.*)" format="http://id.loc.gov/vocabulary/iso639-2/${1}"/>
+			</data>
+      <data name="label" source="@language_long" />
     </entity>
   </entity>
 
@@ -100,7 +101,7 @@
     </entity>
   </entity>
 
-  <entity name="IdentifierISBN[]" flushWith="record">
+  <entity name="isbn[]" flushWith="record">
     <entity name="" flushWith="020  " sameEntity="true">
       <entity name="identifierISBN[]" flushWith="020  " sameEntity="true">
         <if>
@@ -207,17 +208,12 @@
       <replace pattern="\.?$" with="" />
     </data>
   </entity>
-  <entity name="TitleStatement[]" flushWith="record">
-    <entity name="" flushWith="record">
-      <call-macro name="regex-del-punctuation-end" dsource="245??.a" dname="titleMain" />
-    </entity>
-    <entity name="" flushWith="record">
-      <data name="titleMain" source="245??.p">
+
+      <call-macro name="regex-del-punctuation-end" dsource="245??.a" dname="title" />
+      <data name="title" source="245??.p">
         <occurrence only="1" />
         <replace pattern="\s?\.?\s?$" with="" />
       </data>
-    </entity>
-  </entity>
 
   <entity name="TitleAddendum">
     <data name="title" source="245??.b">
@@ -232,27 +228,29 @@
     </data>
   </entity>
 
-  <entity name="contribution">
-		<entity name="agent">
+  <entity name="contribution[]">
+		<entity name="" sameEntity="true" >
+			<entity name="agent">
+				<data name="type" source="245[01]?.c">
+					<constant value="Person" />
+				</data>
+				<data name="label" source="245[01]?.c">
+					<replace pattern="[.]$" with="" />
+				</data>
+			</entity>
 			<data name="type" source="245[01]?.c">
-				<constant value="Person" />
+				<constant value="Contribution" />
 			</data>
-			<data name="label" source="245[01]?.c">
-				<replace pattern="[.]$" with="" />
-			</data>
-		</entity>
-		<data name="type" source="245[01]?.c">
-			<constant value="Contribution" />
-		</data>
-		<entity name="role">
-			<data name="id" source="245[01]?.c">
-				<constant value="http://id.loc.gov/vocabulary/relators/cre" />
-			</data>
-			<data name="label" source="245[01]?.c">
-				<constant value="Autor/in" />
-			</data>
-		</entity>
-  </entity>
+			<entity name="role">
+				<data name="id" source="245[01]?.c">
+					<constant value="http://id.loc.gov/vocabulary/relators/cre" />
+				</data>
+				<data name="label" source="245[01]?.c">
+					<constant value="Autor/in" />
+				</data>
+			</entity>
+	  </entity>
+	</entity>
 
   <entity name="Edition">
     <entity name="edition[]" flushWith="record">
@@ -275,10 +273,17 @@
       </entity>
     </entity>
   </entity>
-  <entity name="DateProper">
-    <entity name="date[]" flushWith="record">
-      <call-macro name="regex-del-punctuation-end" dsource="260[ 23] .c|264[ 23][ 1].c" dname="" />
-    </entity>
+  <entity name="publication[]">
+		<entity name="" flushWith="record">
+      <call-macro name="regex-del-punctuation-end" dsource="260[ 23] .c|264[ 23][ 1].c" dname="startDate" />
+			<entity name="type[]" >
+			<data name="" source="260[ 23] .c|264[ 23][ 1].c">
+				<constant value="PublicationEvent"/>
+			</data>
+			</entity>
+			      <call-macro name="regex-del-punctuation-end" dsource="260[ 23] .a|264[ 23][ 1].a" dname="location" />
+			      <call-macro name="regex-del-punctuation-end" dsource="260[ 23] .b|264[ 23][ 1].b" dname="publishedBy" />
+		</entity>
   </entity>
 
   <!-- 300 -->
@@ -664,15 +669,5 @@
       </data>
     </entity>
   </entity>
-  <choose name="TypeMedia" flushWith="record">
-    <data source="@facet_format">
-      <!-- matches: Bild; Audio; Film, Dia, Video; Elektronische Ressource -->
-      <regexp match="^[BAFE].*" />
-    </data>
-    <data source="@facet_format">
-      <equals string="Online-Ressource" />
-      <constant value="Elektronische Ressource" />
-    </data>
-  </choose>
 
 </rules>

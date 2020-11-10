@@ -163,7 +163,7 @@
     </if>
     <data source="001" />
   </combine>
-  <combine name="@facet_format" value="Bild">
+  <combine name="@facet_format" value="Image">
     <if>
       <any>
         <all>
@@ -213,7 +213,7 @@
     </if>
     <data source="001" />
   </combine>
-  <combine name="@facet_format" value="Elektronische Ressource">
+  <combine name="@facet_format" value="http://rdaregistry.info/termList/RDAMediaType/1003">
     <if>
       <any>
         <data source="@LeaderPos06">
@@ -273,7 +273,7 @@
     </if>
     <data source="001" />
   </combine>
-  <combine name="@facet_format" value="Film, Dia, Video">
+  <combine name="@facet_format" value="http://rdaregistry.info/termList/RDAMediaType/1008">
     <if>
       <any>
         <data source="@007Pos00">
@@ -311,7 +311,7 @@
     </if>
     <data source="001" />
   </combine>
-  <combine name="@facet_format" value="Gedruckte Ressource">
+  <combine name="@facet_format" value="Print">
     <if>
       <any>
         <data source="@LeaderPos06|@006Pos00">
@@ -388,7 +388,7 @@
     </if>
     <data source="001" />
   </combine>
-  <combine name="@facet_format" value="Landkarte">
+  <combine name="@facet_format" value="Map">
     <if>
       <any>
         <data source="@LeaderPos06">
@@ -404,7 +404,7 @@
     </if>
     <data source="001" />
   </combine>
-  <combine name="@facet_format" value="Mikroform">
+  <combine name="@facet_format" value="http://rdaregistry.info/termList/RDAMediaType/1002">
     <if>
       <any>
         <data source="@007Pos00">
@@ -458,7 +458,7 @@
     </if>
     <data source="001" />
   </combine>
-  <combine name="@facet_format" value="Online-Ressource">
+  <combine name="@facet_format" value="http://rdaregistry.info/termList/RDACarrierType/1018">
     <if>
       <any>
         <all>
@@ -503,7 +503,7 @@
     </if>
     <data source="001" />
   </combine>
-  <combine name="@facet_format" value="Sonstiges">
+  <combine name="@facet_format" value="Miscellaneous">
     <if>
       <any>
         <all>
@@ -572,7 +572,7 @@
     </if>
     <data source="001" />
   </combine>
-  <combine name="@facet_format" value="Spiel">
+  <combine name="@facet_format" value="Game">
     <if>
       <any>
         <all>
@@ -630,7 +630,7 @@
   <!-- END @facet_format -->
 
   <!-- @facet_type -->
-  <combine name="@facet_type" value="Amtliche Druckschrift">
+  <combine name="@facet_type" value="OfficialPublication">
     <if>
       <any>
         <all>
@@ -653,7 +653,7 @@
     </if>
     <data source="001" />
   </combine>
-  <combine name="@facet_type" value="Aufsatz">
+  <combine name="@facet_type" value="Article">
     <if>
       <any>
         <all>
@@ -692,7 +692,7 @@
     </if>
     <data source="001" />
   </combine>
-  <combine name="@facet_type" value="Bibliografie">
+  <combine name="@facet_type" value="Bibliography">
     <if>
       <any>
         <all>
@@ -731,7 +731,7 @@
     </if>
     <data source="001" />
   </combine>
-  <combine name="@facet_type" value="Biografie">
+  <combine name="@facet_type" value="Biography">
     <if>
       <any>
         <all>
@@ -809,7 +809,7 @@
     </if>
     <data source="001" />
   </combine>
-  <combine name="@facet_type" value="Gesetz">
+  <combine name="@facet_type" value="Legislation">
     <if>
       <any>
         <all>
@@ -832,7 +832,7 @@
     </if>
     <data source="001" />
   </combine>
-  <combine name="@facet_type" value="Hochschulschrift">
+  <combine name="@facet_type" value="Thesis">
     <if>
       <any>
         <all>
@@ -855,7 +855,7 @@
     </if>
     <data source="001" />
   </combine>
-  <combine name="@facet_type" value="Konferenzschrift">
+  <combine name="@facet_type" value="Proceedings">
     <if>
       <any>
         <all>
@@ -894,7 +894,7 @@
     </if>
     <data source="001" />
   </combine>
-  <combine name="@facet_type" value="Monographie">
+  <combine name="@facet_type" value="Book">
     <if>
       <data source="@LeaderPos07">
         <regexp match="[adm]" />
@@ -902,7 +902,7 @@
     </if>
     <data source="001" />
   </combine>
-  <combine name="@facet_type" value="Musikalia">
+  <combine name="@facet_type" value="PublishedScore">
     <if>
       <any>
         <data source="@LeaderPos06">
@@ -918,7 +918,7 @@
     </if>
     <data source="001" />
   </combine>
-  <combine name="@facet_type" value="Nachschlagewerk">
+  <combine name="@facet_type" value="ReferenceSource">
     <if>
       <any>
         <all>
@@ -941,7 +941,7 @@
     </if>
     <data source="001" />
   </combine>
-  <combine name="@facet_type" value="Norm">
+  <combine name="@facet_type" value="Standard">
     <if>
       <any>
         <all>
@@ -964,7 +964,7 @@
     </if>
     <data source="001" />
   </combine>
-  <combine name="@facet_type" value="Schriftenreihe">
+  <combine name="@facet_type" value="Series">
     <if>
       <any>
         <data source="@LeaderPos07">
@@ -992,7 +992,7 @@
   </combine>
   <!-- <combine name="@facet_type" value="Schulbuch">
   </combine> -->
-  <combine name="@facet_type" value="Sonstiges">
+  <combine name="@facet_type" value="Miscellaneous">
     <if>
       <any>
         <all>
@@ -1087,7 +1087,7 @@
     </if>
     <data source="001" />
   </combine>
-  <combine name="@facet_type" value="Zeitschrift">
+  <combine name="@facet_type" value="Periodical">
     <if>
       <any>
         <all>
@@ -1128,66 +1128,27 @@
   </combine>
   <!-- END @facet_type -->
 
-  <entity name="dc" flushWith="record">
-    <entity name="format[]" flushWith="record">
-      <data name="" source="@facet_format">
-        <unique/>
-      </data>
-      <combine name="" value="Elektronische Ressource">
-        <if>
-          <all>
-            <any>
+  <entity name="medium[]" flushWith="record">
+    <entity name="" reset="true" flushWith="@facet_format">
+      <data name="id" source="@facet_format"/>
+      <combine name="label" value="Online-Ressource">
               <data source="@facet_format">
-                <equals string="Online-Ressource" />
+                <equals string="http://rdaregistry.info/termList/RDACarrierType/1018" />
               </data>
-            </any>
-            <none>
+      </combine>
+       <combine name="label" value="Datenträger">
               <data source="@facet_format">
-                <equals string="Elektronische Ressource" />
+                <equals string="http://rdaregistry.info/termList/RDAMediaType/1003" />
               </data>
-            </none>
-          </all>
-        </if>
-        <data source="001" />
       </combine>
     </entity>
-    <entity name="format[]">
-      <if>
-        <none>
-          <data source="@facet_format" />
-        </none>
-      </if>
-      <data name="" source="001">
-        <constant value="keine Angabe" />
-      </data>
-    </entity>
+  </entity>
 
     <entity name="type[]" flushWith="record">
       <data name="" source="@facet_type" />
-    </entity>
-    <entity name="type[]">
-      <if>
-        <none>
-          <data source="@facet_type" />
-        </none>
-      </if>
-      <data name="" source="001">
-        <constant value="keine Angabe" />
-      </data>
-    </entity>
-
-    <entity name="language[]" flushWith="record">
-      <data name="" source="@language_long" />
-    </entity>
-    <entity name="language[]">
-      <if>
-        <none>
-          <data source="@language_long" />
-        </none>
-      </if>
-      <data name="" source="001">
-        <constant value="keine Angabe" />
-      </data>
+      <data name="" source="001" >
+				<constant value="BibliographicResource" />
+			</data>
     </entity>
 
     <entity name="date[]" flushWith="record">
@@ -1197,44 +1158,5 @@
         <unique />
       </data>
     </entity>
-  </entity>
-
-  <entity name="introx" flushWith="record">
-    <entity name="access[]" flushWith="record">
-      <data name="" source="@facet_format">
-        <equals string="Online-Ressource" />
-        <constant value="online" />
-        <unique/>
-      </data>
-    </entity>
-    <entity name="access[]">
-      <if>
-        <none>
-          <data source="@facet_format">
-            <equals string="Online-Ressource" />
-          </data>
-        </none>
-      </if>
-      <data name="" source="001">
-        <constant value="local" />
-      </data>
-    </entity>
-
-    <entity name="carrier[]" flushWith="record">
-      <data name="" source="@facet_format">
-        <not-equals string="Online-Ressource" />
-      </data>
-    </entity>
-    <entity name="carrier[]">
-      <if>
-        <none>
-          <data source="@facet_format" />
-        </none>
-      </if>
-      <data name="" source="001">
-        <constant value="keine Angabe" />
-      </data>
-    </entity>
-  </entity>
 
 </rules>

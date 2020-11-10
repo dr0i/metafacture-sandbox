@@ -1,8 +1,8 @@
 default outfile = "output.json";
 //default infile = FLUX_DIR + "input.xml";
 default infile = FLUX_DIR + "input_990042506810206443.xml";
-//default morphfile1 = FLUX_DIR + "alma.xml";
-default morphfile1 = FLUX_DIR + "alma-supplements.xml";
+default morphfile1 = FLUX_DIR + "alma.xml";
+//default morphfile1 = FLUX_DIR + "alma-supplements.xml";
 default isil="DE-69";
 default member="DE-605";
 default catalogid="pchbz";

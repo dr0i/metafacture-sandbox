@@ -1,6 +1,9 @@
 {
-  "id" : "990042506810206443",
-  "contribution" : {
+  "almaId" : "990042506810206443",
+  "hbzId" : "HT004250681DUE01",
+  "id" : "https://lobid.org/resources/HT004250681DUE01",
+  "title" : "Microsoft ADO.NET 4 step by step",
+  "contribution" : [ {
     "agent" : {
       "type" : "Person",
       "label" : "Tim Patrick"
@@ -10,45 +13,41 @@
       "id" : "http://id.loc.gov/vocabulary/relators/cre",
       "label" : "Autor/in"
     }
-  },
+  } ],
   "IdentifierAlma" : {
     "identifierMMS" : "990042506810206443"
   },
-  "dc" : {
-    "format" : [ "Elektronische Ressource", "Online-Ressource" ],
-    "type" : [ "Monographie" ],
-    "language" : [ "Englisch" ],
-    "date" : [ "2010" ]
-  },
-  "introx" : {
-    "access" : [ "online" ],
-    "carrier" : [ "Elektronische Ressource" ]
-  },
-  "RecordIdentifier" : {
-    "identifierForTheRecord" : "(DE-61)990042506810206443"
-  },
-  "collection" : "DE-61",
-  "Language" : [ {
-    "language" : "Englisch",
-    "languageSource" : "eng"
+  "medium" : [ {
+    "id" : "http://rdaregistry.info/termList/RDAMediaType/1003",
+    "label" : "Datenträger"
+  }, {
+    "id" : "http://rdaregistry.info/termList/RDACarrierType/1018",
+    "label" : "Online-Ressource"
   } ],
-  "IdentifierISBN" : [ {
+  "type" : [ "Book", "BibliographicResource" ],
+  "date" : [ "2010" ],
+  "collection" : "DE-61",
+  "language" : [ {
+    "label" : "Englisch",
+    "id" : "http://id.loc.gov/vocabulary/iso639-2/eng"
+  } ],
+  "isbn" : [ {
     "identifierISBN" : [ "9780735638884" ]
   } ],
   "Person" : [ {
     "personName" : "Patrick, Tim"
-  } ],
-  "TitleStatement" : [ {
-    "titleMain" : "Microsoft ADO.NET 4 step by step"
   } ],
   "PublisherName" : [ {
     "place" : [ "Sebastopol, Calif" ],
     "name" : [ "O'Reilly Media" ],
     "chronology" : [ "c2010" ]
   } ],
-  "DateProper" : {
-    "date" : [ "c2010" ]
-  },
+  "publication" : [ {
+    "location" : "Sebastopol, Calif",
+    "publishedBy" : "O'Reilly Media",
+    "startDate" : "c2010",
+    "type" : [ "PublicationEvent" ]
+  } ],
   "Extent" : {
     "extent" : "1 online resource (xxiii, 411 p.) : ill"
   },
@@ -63,7 +62,6 @@
     "uri" : "http://proquest.tech.safaribooksonline.de/?uiCode=Duesseldorf&xmlId=9780735656260"
   } ],
   "xbib" : [ {
-    "uid" : "(DE-61)990042506810206443"
-  } ],
-  "TypeMedia" : "Elektronische Ressource"
+    "uid" : "HT004250681DUE01"
+  } ]
 }
