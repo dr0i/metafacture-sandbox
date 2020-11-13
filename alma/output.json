@@ -33,9 +33,7 @@
     "label" : "Englisch",
     "id" : "http://id.loc.gov/vocabulary/iso639-2/eng"
   } ],
-  "isbn" : [ {
-    "identifierISBN" : [ "9780735638884" ]
-  } ],
+  "isbn" : [ "9780735638884" ],
   "Person" : [ {
     "personName" : "Patrick, Tim"
   } ],
