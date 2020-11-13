@@ -107,8 +107,6 @@
   </entity>
 
   <entity name="isbn[]" flushWith="record">
-    <entity name="" flushWith="020  " sameEntity="true">
-      <entity name="identifierISBN[]" flushWith="020  " sameEntity="true">
         <if>
           <data source="020  .a" />
         </if>
@@ -117,28 +115,22 @@
         <data name="" source="020  .q">
           <replace pattern="^\(|\s?[):;,]\s?$" with="" />
         </data>
-      </entity>
-    </entity>
   </entity>
-  <entity name="IdentifierISSN[]" flushWith="record">
-    <entity name="" flushWith="022? " sameEntity="true">
-      <data name="identifierISSN" source="022? .a" />
-    </entity>
+  <entity name="issn[]" flushWith="record">
+      <data name="" source="022? .a" />
   </entity>
 
   <entity name="IdentifierDOI[]" flushWith="record">
-    <entity name="" flushWith="0247?" sameEntity="true">
       <if>
         <data source="0247?.2">
           <equals string="doi" />
         </data>
       </if>
-      <data name="standardNumber" source="0247?.a" />
-    </entity>
+      <data name="" source="0247?.a" />
   </entity>
 
-  <!-- 1xx -->
-  <entity name="Person[]" flushWith="record">
+  <!-- 1xx TODO: mit anderen contribution mergen -->
+  <entity name="contribution[]" flushWith="record">
     <entity name="" flushWith="100[013] " sameEntity="true">
       <if>
         <any flushWith="100[013] ">
@@ -233,6 +225,7 @@
     </data>
   </entity>
 
+<!-- TODO: mit anderen contribution mergen. Ist das überhaupt ein creator? -->
   <entity name="contribution[]">
 		<entity name="" sameEntity="true" >
 			<entity name="agent">
@@ -482,8 +475,8 @@
 
   <!-- 6xx -->
 
-  <!-- 7xx -->
-  <entity name="PersonContributor[]" flushWith="record">
+  <!-- 7xx TODO: mit anderen contribution mergen-->
+  <entity name="contribution[]" flushWith="record">
     <entity name="" flushWith="record">
       <if>
         <all flushWith="record">
