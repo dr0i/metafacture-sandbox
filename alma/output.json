@@ -34,11 +34,6 @@
   "contribution" : [ {
     "personName" : "Patrick, Tim"
   } ],
-  "PublisherName" : [ {
-    "place" : [ "Sebastopol, Calif" ],
-    "name" : [ "O'Reilly Media" ],
-    "chronology" : [ "c2010" ]
-  } ],
   "publication" : [ {
     "location" : "Sebastopol, Calif",
     "publishedBy" : "O'Reilly Media",

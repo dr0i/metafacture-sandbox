@@ -258,19 +258,6 @@
     </entity>
   </entity>
 
-  <entity name="PublisherName[]" flushWith="record">
-    <entity name="" flushWith="260[ 23] |264[ 23][ 1]" sameEntity="true">
-      <entity name="place[]" flushWith="260[ 23] |264[ 23][ 1]" sameEntity="true">
-        <call-macro name="regex-del-punctuation-end" dsource="260[ 23] .a|264[ 23][ 1].a" dname="" />
-      </entity>
-      <entity name="name[]" flushWith="260[ 23] |264[ 23][ 1]" sameEntity="true">
-        <call-macro name="regex-del-punctuation-end" dsource="260[ 23] .b|264[ 23][ 1].b" dname="" />
-      </entity>
-      <entity name="chronology[]" flushWith="260[ 23] |264[ 23][ 1]" sameEntity="true">
-        <call-macro name="regex-del-punctuation-end" dsource="260[ 23] .c|264[ 23][ 1].c" dname="" />
-      </entity>
-    </entity>
-  </entity>
   <entity name="publication[]">
 		<entity name="" flushWith="record">
       <call-macro name="regex-del-punctuation-end" dsource="260[ 23] .c|264[ 23][ 1].c" dname="startDate" />
@@ -455,11 +442,9 @@
       <data name="" source="500  .a" />
     </entity>
   </entity>
-  <entity name="Abstract">
     <entity name="abstract[]" flushWith="record">
       <data name="" source="5203 .[ab]" />
     </entity>
-  </entity>
   <entity name="Recension">
     <entity name="abstract[]" flushWith="record">
       <data name="" source="5201 .[ab]" />
