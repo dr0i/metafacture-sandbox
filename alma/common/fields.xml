@@ -616,7 +616,7 @@
     </entity>
   </entity>
 
-  <entity name="OnlineAccess[]" flushWith="record">
+  <entity name="hasVersion[]" flushWith="record">
     <entity name="" flushWith="856??" sameEntity="true">
       <if>
         <any flushWith="856??">
@@ -628,18 +628,31 @@
           </data>
         </any>
       </if>
-      <data name="uri" source="856??.u">
+      <data name="id" source="856??.u">
         <occurrence only="1" sameEntity="true" />
         <unique />
       </data>
-      <data name="nonpublicnote" source="856??.x">
+      <data name="label" source="856??.z">
         <occurrence only="1" sameEntity="true" />
       </data>
-      <data name="publicnote" source="856??.z">
-        <occurrence only="1" sameEntity="true" />
-      </data>
-      <data name="relatedto" source="856??.3" />
     </entity>
   </entity>
+
+	<entity name="related[]" flushWith="record">
+		<entity name="" flushWith="856??" sameEntity="true">
+       <if>
+        <any flushWith="856??">
+          <none flushWith="856??" sameEntity="true">
+            <data source="856??.M" />
+          </none>
+          <data source="856??.M">
+            <equals string="$[member]" />
+          </data>
+        </any>
+      </if>
+      <data name="id" source="856??.3" />
+		</entity>
+  </entity>
+
 
 </rules>

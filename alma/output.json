@@ -47,9 +47,9 @@
   "Summary" : {
     "abstract" : [ "Provides tutorials and examples on using ADO.NET 4 to create datacentric applications for Windows and the Web" ]
   },
-  "OnlineAccess" : [ {
-    "publicnote" : "Connect to this resource online",
-    "uri" : "http://proquest.tech.safaribooksonline.de/?uiCode=Duesseldorf&xmlId=9780735656260"
+  "hasVersion" : [ {
+    "label" : "Connect to this resource online",
+    "id" : "http://proquest.tech.safaribooksonline.de/?uiCode=Duesseldorf&xmlId=9780735656260"
   } ],
   "describedBy" : {
     "modifiedBy" : {
