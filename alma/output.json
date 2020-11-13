@@ -1,5 +1,5 @@
 {
-  "almaId" : "990042506810206443",
+  "almaIdMMS" : "990042506810206443",
   "title" : "Microsoft ADO.NET 4 step by step",
   "contribution" : [ {
     "agent" : {
@@ -12,9 +12,6 @@
       "label" : "Autor/in"
     }
   } ],
-  "IdentifierAlma" : {
-    "identifierMMS" : "990042506810206443"
-  },
   "medium" : [ {
     "id" : "http://rdaregistry.info/termList/RDAMediaType/1003",
     "label" : "Datenträger"
@@ -26,7 +23,7 @@
   "pchbz_date[]_wegmal" : {
     "" : "2010"
   },
-  "collection" : "DE-61",
+  "collection_pchbz_eher_zu_item" : "DE-61",
   "hbzId" : "ALMA990042506810206443",
   "id" : "https://lobid.org/resources/ALMA990042506810206443#!",
   "language" : [ {
@@ -34,7 +31,7 @@
     "id" : "http://id.loc.gov/vocabulary/iso639-2/eng"
   } ],
   "isbn" : [ "9780735638884" ],
-  "Person" : [ {
+  "contribution" : [ {
     "personName" : "Patrick, Tim"
   } ],
   "PublisherName" : [ {
@@ -60,9 +57,6 @@
   "OnlineAccess" : [ {
     "publicnote" : "Connect to this resource online",
     "uri" : "http://proquest.tech.safaribooksonline.de/?uiCode=Duesseldorf&xmlId=9780735656260"
-  } ],
-  "xbib" : [ {
-    "uid" : "ALMA990042506810206443"
   } ],
   "describedBy" : {
     "modifiedBy" : {

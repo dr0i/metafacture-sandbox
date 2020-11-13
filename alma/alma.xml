@@ -22,12 +22,9 @@
     <entity name="DateLast">
       <call-macro name="dynamic-filter" dname="date" source="POC  .c" filter="@portfolio" value="POC  .a"/>
     </entity>
-		<data source="001" name="almaId" />
-    <entity name="IdentifierAlma" flushWith="record">
-      <data name="identifierMMS" source="001"/>
-      <data name="identifierMMSIZ" source="@mmsiz"/>
-      <data name="identifierPID" source="@portfolio"/>
-    </entity>
+		<data name="almaIdMMS" source="001"/>
+    <data name="almaIdMMSIZ" source="@mmsiz"/>
+    <data name="almaIdPID" source="@portfolio"/>
   </rules>
   <xi:include href="common/facets.xml"/>
   <xi:include href="common/fields.xml"/>

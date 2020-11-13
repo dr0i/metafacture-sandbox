@@ -24,7 +24,7 @@
 		<regexp match="(.*)" format="https://lobid.org/resources/${1}#!"/>
 	</data>
 
-  <data name="collection" source="@_isil" />
+  <data name="collection_pchbz_eher_zu_item" source="@_isil" />
 
   <combine name="@date1" value="${date1}">
     <if>
@@ -656,15 +656,6 @@
         <occurrence only="1" sameEntity="true" />
       </data>
       <data name="relatedto" source="856??.3" />
-    </entity>
-  </entity>
-
-  <!-- Other -->
-  <entity name="xbib[]" flushWith="record">
-    <entity name="" flushWith="@uid" reset="true">
-      <data name="uid" source="@uid">
-        <unique />
-      </data>
     </entity>
   </entity>
 
