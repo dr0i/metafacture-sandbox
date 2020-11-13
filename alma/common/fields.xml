@@ -372,7 +372,6 @@
     <data name="e" source="@300e" />
   </combine>
 
-  <entity name="Extent">
     <combine name="extent" value="${a1}${b}${c1}${e}${a2}${c2}">
       <choose name="a1">
         <data source="@300a1" />
@@ -414,7 +413,6 @@
         </data>
       </choose>
     </combine>
-  </entity>
   <!-- END 300 -->
 
   <!-- 301-399 -->
