@@ -8,7 +8,7 @@
   </macro>
 
   <macro name="personName">
-    <data name="$[name]" source="$[field][013] .a">
+    <data name="$[dname]" source="$[field][013] .a">
       <replace pattern="(?&lt;!\p{Upper})\.$|[,]$" with="" />
     </data>
   </macro>
@@ -42,9 +42,9 @@
   </macro>
 
   <macro name="personIdentifier">
-    <entity name="$[name][]" flushWith="$[field][013] " sameEntity="true">
+    <entity name="$[dname][]" flushWith="$[field][013] " sameEntity="true">
       <data name="" source="$[field][013] .0">
-        <regexp match="^\(DE-588\).*$" />
+        <regexp match="^\(DE-588\).*$"/>
       </data>
     </entity>
   </macro>

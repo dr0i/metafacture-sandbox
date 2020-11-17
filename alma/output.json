@@ -1,17 +1,112 @@
+{ }
 {
-  "almaIdMMS" : "990042506810206443",
-  "title" : "Microsoft ADO.NET 4 step by step",
+  "almaIdMMS" : "990042506090206443",
+  "title" : "Microsoft ASP.NET and Ajax",
+  "otherTitleInformation" : [ "architecting Web applications" ],
+  "note" : "Title from resource description page. - Includes index",
+  "medium" : [ {
+    "id" : "http://rdaregistry.info/termList/RDAMediaType/1003",
+    "label" : "Datenträger"
+  }, {
+    "id" : "http://rdaregistry.info/termList/RDACarrierType/1018",
+    "label" : "Online-Ressource"
+  } ],
+  "type" : [ "Book", "BibliographicResource" ],
+  "pchbz_date[]_wegmal" : {
+    "" : "2009"
+  },
+  "collection_pchbz_eher_zu_item" : "DE-61",
+  "@context" : "https://lobid.org/resources/context.jsonld",
+  "hbzId" : "ALMA990042506090206443",
+  "id" : "https://lobid.org/resources/ALMA990042506090206443#!",
+  "language" : [ {
+    "label" : "Englisch",
+    "id" : "http://id.loc.gov/vocabulary/iso639-2/eng"
+  } ],
+  "isbn" : [ "9780735626218", "0735626219" ],
   "contribution" : [ {
+    "role" : {
+      "id" : "http://id.loc.gov/vocabulary/relators/cre",
+      "label" : "Autor/in"
+    },
+    "type" : [ "Contribution" ],
+    "agent" : {
+      "label" : "Esposito, Dino",
+      "type" : [ "Person" ]
+    }
+  }, {
     "agent" : {
       "type" : "Person",
-      "label" : "Tim Patrick"
+      "label" : "by Dino Esposito"
     },
     "type" : "Contribution",
     "role" : {
       "id" : "http://id.loc.gov/vocabulary/relators/cre",
       "label" : "Autor/in"
     }
+  }, {
+    "role" : {
+      "id" : "http://id.loc.gov/vocabulary/relators/ctb",
+      "label" : "Mitwirkende"
+    },
+    "type" : [ "Contribution" ],
+    "agent" : {
+      "label" : "Microsoft Corporation",
+      "type" : [ "CorporateBody" ]
+    }
   } ],
+  "publication" : [ {
+    "location" : "Redmond, Wash",
+    "publishedBy" : "Microsoft Press",
+    "startDate" : "c2009",
+    "type" : [ "PublicationEvent" ]
+  } ],
+  "extent" : "1 v. (unpaged) : ill",
+  "hasVersion" : [ {
+    "label" : "Connect to this resource online",
+    "id" : "http://proquest.tech.safaribooksonline.de/?uiCode=Duesseldorf&xmlId=9780735626218"
+  } ],
+  "describedBy" : {
+    "sourceOrganization" : {
+      "id" : "http://lobid.org/organisations/004250609-DUE01_todo",
+      "label" : "lobid Organisation"
+    },
+    "dateCreated" : "20200701",
+    "id" : "https://lobid.org/resources/ALMA990042506090206443",
+    "label" : "Webseite der hbz-Ressource ALMA990042506090206443",
+    "type" : [ "BibliographicDescription" ],
+    "inDataset" : {
+      "id" : "http://lobid.org/resources/dataset#!",
+      "label" : "lobid-resources – Der hbz-Verbundkatalog als Linked Open Data"
+    },
+    "resultOf" : {
+      "type" : [ "CreateAction" ],
+      "endTime" : "2020-11-19T10:20:01",
+      "instrument" : {
+        "id" : "https://github.com/hbz/lobid-resources",
+        "type" : [ "SoftwareApplication" ],
+        "label" : "Software lobid-resources"
+      },
+      "object" : {
+        "id" : "https://lobid.org/hbz01/ALMA990042506090206443_todo",
+        "type" : [ "DataFeedItem" ],
+        "label" : "hbz-Ressource ALMA990042506090206443 im Exportformat MARC21 XML",
+        "inDataset" : {
+          "id" : "https://datahub.io/dataset/hbz_unioncatalog",
+          "label" : "hbz_unioncatalog"
+        }
+      }
+    },
+    "license" : [ {
+      "id" : "http://creativecommons.org/publicdomain/zero/1.0",
+      "label" : "Creative Commons-Lizenz CC0 1.0 Universal"
+    } ]
+  }
+}
+{
+  "almaIdMMS" : "990042506810206443",
+  "title" : "Microsoft ADO.NET 4 step by step",
+  "note" : "Includes index",
   "medium" : [ {
     "id" : "http://rdaregistry.info/termList/RDAMediaType/1003",
     "label" : "Datenträger"
@@ -24,6 +119,7 @@
     "" : "2010"
   },
   "collection_pchbz_eher_zu_item" : "DE-61",
+  "@context" : "https://lobid.org/resources/context.jsonld",
   "hbzId" : "ALMA990042506810206443",
   "id" : "https://lobid.org/resources/ALMA990042506810206443#!",
   "language" : [ {
@@ -32,7 +128,25 @@
   } ],
   "isbn" : [ "9780735638884" ],
   "contribution" : [ {
-    "personName" : "Patrick, Tim"
+    "role" : {
+      "id" : "http://id.loc.gov/vocabulary/relators/cre",
+      "label" : "Autor/in"
+    },
+    "type" : [ "Contribution" ],
+    "agent" : {
+      "label" : "Patrick, Tim",
+      "type" : [ "Person" ]
+    }
+  }, {
+    "agent" : {
+      "type" : "Person",
+      "label" : "Tim Patrick"
+    },
+    "type" : "Contribution",
+    "role" : {
+      "id" : "http://id.loc.gov/vocabulary/relators/cre",
+      "label" : "Autor/in"
+    }
   } ],
   "publication" : [ {
     "location" : "Sebastopol, Calif",
@@ -41,12 +155,7 @@
     "type" : [ "PublicationEvent" ]
   } ],
   "extent" : "1 online resource (xxiii, 411 p.) : ill",
-  "Description" : {
-    "description" : [ "Includes index" ]
-  },
-  "Summary" : {
-    "abstract" : [ "Provides tutorials and examples on using ADO.NET 4 to create datacentric applications for Windows and the Web" ]
-  },
+  "abstract" : [ "Provides tutorials and examples on using ADO.NET 4 to create datacentric applications for Windows and the Web" ],
   "hasVersion" : [ {
     "label" : "Connect to this resource online",
     "id" : "http://proquest.tech.safaribooksonline.de/?uiCode=Duesseldorf&xmlId=9780735656260"
@@ -66,7 +175,7 @@
     },
     "resultOf" : {
       "type" : [ "CreateAction" ],
-      "endTime" : "2020-11-16T17:27:02",
+      "endTime" : "2020-11-19T10:20:01",
       "instrument" : {
         "id" : "https://github.com/hbz/lobid-resources",
         "type" : [ "SoftwareApplication" ],
@@ -75,7 +184,1792 @@
       "object" : {
         "id" : "https://lobid.org/hbz01/ALMA990042506810206443_todo",
         "type" : [ "DataFeedItem" ],
-        "label" : "hbz-Ressource ALMA990042506810206443 im Exportformat MARC XML",
+        "label" : "hbz-Ressource ALMA990042506810206443 im Exportformat MARC21 XML",
+        "inDataset" : {
+          "id" : "https://datahub.io/dataset/hbz_unioncatalog",
+          "label" : "hbz_unioncatalog"
+        }
+      }
+    },
+    "license" : [ {
+      "id" : "http://creativecommons.org/publicdomain/zero/1.0",
+      "label" : "Creative Commons-Lizenz CC0 1.0 Universal"
+    } ]
+  }
+}
+{
+  "almaIdMMS" : "990042506550206443",
+  "title" : "Microsoft Access 2010 step by step",
+  "note" : "\"Build a database from scratch or ready templates; create easy-to-use forms for data entry; write queries to extract and manipulate data; design reports to organize and summarize data; import data from other databases and documents; help prevent data corruption and unauthorized access\"--P. [4] of cover. - \"Follow the easy numbered steps; use screenshots to check your work; get helpful tips and pointers; build your skills hands-on using ready-made practice files\"--P. [4] of cover. - Includes index",
+  "medium" : [ {
+    "id" : "http://rdaregistry.info/termList/RDAMediaType/1003",
+    "label" : "Datenträger"
+  }, {
+    "id" : "http://rdaregistry.info/termList/RDACarrierType/1018",
+    "label" : "Online-Ressource"
+  } ],
+  "type" : [ "Book", "BibliographicResource" ],
+  "pchbz_date[]_wegmal" : {
+    "" : "2010"
+  },
+  "collection_pchbz_eher_zu_item" : "DE-61",
+  "@context" : "https://lobid.org/resources/context.jsonld",
+  "hbzId" : "ALMA990042506550206443",
+  "id" : "https://lobid.org/resources/ALMA990042506550206443#!",
+  "language" : [ {
+    "label" : "Englisch",
+    "id" : "http://id.loc.gov/vocabulary/iso639-2/eng"
+  } ],
+  "isbn" : [ "9780735647411", "0735647410", "9780735626928", "(pbk.)", "0735626928", "(pbk.)" ],
+  "contribution" : [ {
+    "role" : {
+      "id" : "http://id.loc.gov/vocabulary/relators/cre",
+      "label" : "Autor/in"
+    },
+    "type" : [ "Contribution" ],
+    "agent" : {
+      "label" : "Cox, Joyce",
+      "type" : [ "Person" ]
+    }
+  }, {
+    "agent" : {
+      "type" : "Person",
+      "label" : "Joyce Cox, Joan Lambert"
+    },
+    "type" : "Contribution",
+    "role" : {
+      "id" : "http://id.loc.gov/vocabulary/relators/cre",
+      "label" : "Autor/in"
+    }
+  }, {
+    "role" : {
+      "id" : "http://id.loc.gov/vocabulary/relators/oth",
+      "label" : "Sonstiges"
+    },
+    "type" : [ "Contribution" ],
+    "agent" : {
+      "label" : "Lambert, Joan",
+      "type" : [ "Person" ]
+    }
+  } ],
+  "publication" : [ {
+    "location" : "Redmond, Wash",
+    "publishedBy" : "Microsoft Press",
+    "startDate" : "c2010",
+    "type" : [ "PublicationEvent" ]
+  } ],
+  "extent" : "1 online resource (xxix, 413 p.) : ill",
+  "hasVersion" : [ {
+    "label" : "Connect to this resource online",
+    "id" : "http://proquest.tech.safaribooksonline.de/?uiCode=Duesseldorf&xmlId=9780735647411"
+  } ],
+  "describedBy" : {
+    "sourceOrganization" : {
+      "id" : "http://lobid.org/organisations/004250655-DUE01_todo",
+      "label" : "lobid Organisation"
+    },
+    "dateCreated" : "20200701",
+    "id" : "https://lobid.org/resources/ALMA990042506550206443",
+    "label" : "Webseite der hbz-Ressource ALMA990042506550206443",
+    "type" : [ "BibliographicDescription" ],
+    "inDataset" : {
+      "id" : "http://lobid.org/resources/dataset#!",
+      "label" : "lobid-resources – Der hbz-Verbundkatalog als Linked Open Data"
+    },
+    "resultOf" : {
+      "type" : [ "CreateAction" ],
+      "endTime" : "2020-11-19T10:20:01",
+      "instrument" : {
+        "id" : "https://github.com/hbz/lobid-resources",
+        "type" : [ "SoftwareApplication" ],
+        "label" : "Software lobid-resources"
+      },
+      "object" : {
+        "id" : "https://lobid.org/hbz01/ALMA990042506550206443_todo",
+        "type" : [ "DataFeedItem" ],
+        "label" : "hbz-Ressource ALMA990042506550206443 im Exportformat MARC21 XML",
+        "inDataset" : {
+          "id" : "https://datahub.io/dataset/hbz_unioncatalog",
+          "label" : "hbz_unioncatalog"
+        }
+      }
+    },
+    "license" : [ {
+      "id" : "http://creativecommons.org/publicdomain/zero/1.0",
+      "label" : "Creative Commons-Lizenz CC0 1.0 Universal"
+    } ]
+  }
+}
+{
+  "almaIdMMS" : "990042507240206443",
+  "title" : "Configuring Microsoft SharePoint 2010",
+  "otherTitleInformation" : [ "self-paced training kit" ],
+  "note" : "Cover title. - \"MCTS exam 70-667.\". - Includes index",
+  "medium" : [ {
+    "id" : "http://rdaregistry.info/termList/RDAMediaType/1003",
+    "label" : "Datenträger"
+  }, {
+    "id" : "http://rdaregistry.info/termList/RDACarrierType/1018",
+    "label" : "Online-Ressource"
+  } ],
+  "type" : [ "Book", "BibliographicResource" ],
+  "pchbz_date[]_wegmal" : {
+    "" : "2011"
+  },
+  "collection_pchbz_eher_zu_item" : "DE-61",
+  "@context" : "https://lobid.org/resources/context.jsonld",
+  "hbzId" : "ALMA990042507240206443",
+  "id" : "https://lobid.org/resources/ALMA990042507240206443#!",
+  "language" : [ {
+    "label" : "Englisch",
+    "id" : "http://id.loc.gov/vocabulary/iso639-2/eng"
+  } ],
+  "isbn" : [ "9780735638853" ],
+  "contribution" : [ {
+    "role" : {
+      "id" : "http://id.loc.gov/vocabulary/relators/cre",
+      "label" : "Autor/in"
+    },
+    "type" : [ "Contribution" ],
+    "agent" : {
+      "label" : "Holme, Dan",
+      "type" : [ "Person" ]
+    }
+  }, {
+    "agent" : {
+      "type" : "Person",
+      "label" : "Dan Holme, Alistair Matthews"
+    },
+    "type" : "Contribution",
+    "role" : {
+      "id" : "http://id.loc.gov/vocabulary/relators/cre",
+      "label" : "Autor/in"
+    }
+  }, {
+    "role" : {
+      "id" : "http://id.loc.gov/vocabulary/relators/oth",
+      "label" : "Sonstiges"
+    },
+    "type" : [ "Contribution" ],
+    "agent" : {
+      "label" : "Matthews, Alistair",
+      "type" : [ "Person" ]
+    }
+  } ],
+  "publication" : [ {
+    "location" : "Redmond, WA",
+    "publishedBy" : "Microsoft Press",
+    "startDate" : "c2011",
+    "type" : [ "PublicationEvent" ]
+  } ],
+  "extent" : "1 online resource (xxxi, 821 p.) : ill",
+  "hasVersion" : [ {
+    "label" : "Connect to this resource online",
+    "id" : "http://proquest.tech.safaribooksonline.de/?uiCode=Duesseldorf&xmlId=9780735664760"
+  } ],
+  "describedBy" : {
+    "sourceOrganization" : {
+      "id" : "http://lobid.org/organisations/004250724-DUE01_todo",
+      "label" : "lobid Organisation"
+    },
+    "dateCreated" : "20200701",
+    "id" : "https://lobid.org/resources/ALMA990042507240206443",
+    "label" : "Webseite der hbz-Ressource ALMA990042507240206443",
+    "type" : [ "BibliographicDescription" ],
+    "inDataset" : {
+      "id" : "http://lobid.org/resources/dataset#!",
+      "label" : "lobid-resources – Der hbz-Verbundkatalog als Linked Open Data"
+    },
+    "resultOf" : {
+      "type" : [ "CreateAction" ],
+      "endTime" : "2020-11-19T10:20:01",
+      "instrument" : {
+        "id" : "https://github.com/hbz/lobid-resources",
+        "type" : [ "SoftwareApplication" ],
+        "label" : "Software lobid-resources"
+      },
+      "object" : {
+        "id" : "https://lobid.org/hbz01/ALMA990042507240206443_todo",
+        "type" : [ "DataFeedItem" ],
+        "label" : "hbz-Ressource ALMA990042507240206443 im Exportformat MARC21 XML",
+        "inDataset" : {
+          "id" : "https://datahub.io/dataset/hbz_unioncatalog",
+          "label" : "hbz_unioncatalog"
+        }
+      }
+    },
+    "license" : [ {
+      "id" : "http://creativecommons.org/publicdomain/zero/1.0",
+      "label" : "Creative Commons-Lizenz CC0 1.0 Universal"
+    } ]
+  }
+}
+{
+  "almaIdMMS" : "990042504730206443",
+  "title" : "First look 2007 Microsoft Office system",
+  "note" : "Includes index",
+  "medium" : [ {
+    "id" : "http://rdaregistry.info/termList/RDAMediaType/1003",
+    "label" : "Datenträger"
+  }, {
+    "id" : "http://rdaregistry.info/termList/RDACarrierType/1018",
+    "label" : "Online-Ressource"
+  } ],
+  "type" : [ "Book", "BibliographicResource" ],
+  "pchbz_date[]_wegmal" : {
+    "" : "2006"
+  },
+  "collection_pchbz_eher_zu_item" : "DE-61",
+  "@context" : "https://lobid.org/resources/context.jsonld",
+  "hbzId" : "ALMA990042504730206443",
+  "id" : "https://lobid.org/resources/ALMA990042504730206443#!",
+  "language" : [ {
+    "label" : "Englisch",
+    "id" : "http://id.loc.gov/vocabulary/iso639-2/eng"
+  } ],
+  "isbn" : [ "9780735622654", "0735622655" ],
+  "contribution" : [ {
+    "role" : {
+      "id" : "http://id.loc.gov/vocabulary/relators/cre",
+      "label" : "Autor/in"
+    },
+    "type" : [ "Contribution" ],
+    "agent" : {
+      "label" : "Murray, Katherine",
+      "type" : [ "Person" ]
+    }
+  }, {
+    "agent" : {
+      "type" : "Person",
+      "label" : "by Katherine Murray"
+    },
+    "type" : "Contribution",
+    "role" : {
+      "id" : "http://id.loc.gov/vocabulary/relators/cre",
+      "label" : "Autor/in"
+    }
+  } ],
+  "publication" : [ {
+    "location" : "Redmond, Wash",
+    "publishedBy" : "Microsoft Press",
+    "startDate" : "2006",
+    "type" : [ "PublicationEvent" ]
+  } ],
+  "hasVersion" : [ {
+    "label" : "Connect to this resource online",
+    "id" : "http://proquest.tech.safaribooksonline.de/?uiCode=Duesseldorf&xmlId=9780735622654"
+  } ],
+  "describedBy" : {
+    "sourceOrganization" : {
+      "id" : "http://lobid.org/organisations/004250473-DUE01_todo",
+      "label" : "lobid Organisation"
+    },
+    "dateCreated" : "20200701",
+    "id" : "https://lobid.org/resources/ALMA990042504730206443",
+    "label" : "Webseite der hbz-Ressource ALMA990042504730206443",
+    "type" : [ "BibliographicDescription" ],
+    "inDataset" : {
+      "id" : "http://lobid.org/resources/dataset#!",
+      "label" : "lobid-resources – Der hbz-Verbundkatalog als Linked Open Data"
+    },
+    "resultOf" : {
+      "type" : [ "CreateAction" ],
+      "endTime" : "2020-11-19T10:20:01",
+      "instrument" : {
+        "id" : "https://github.com/hbz/lobid-resources",
+        "type" : [ "SoftwareApplication" ],
+        "label" : "Software lobid-resources"
+      },
+      "object" : {
+        "id" : "https://lobid.org/hbz01/ALMA990042504730206443_todo",
+        "type" : [ "DataFeedItem" ],
+        "label" : "hbz-Ressource ALMA990042504730206443 im Exportformat MARC21 XML",
+        "inDataset" : {
+          "id" : "https://datahub.io/dataset/hbz_unioncatalog",
+          "label" : "hbz_unioncatalog"
+        }
+      }
+    },
+    "license" : [ {
+      "id" : "http://creativecommons.org/publicdomain/zero/1.0",
+      "label" : "Creative Commons-Lizenz CC0 1.0 Universal"
+    } ]
+  }
+}
+{
+  "almaIdMMS" : "990042508330206443",
+  "title" : "Microsoft Outlook 2013",
+  "otherTitleInformation" : [ "step by step" ],
+  "note" : "Includes index",
+  "note" : "Get started with Outlook 2013 -- Explore Outlook 2013 -- Send and receive email messages -- Store and access contact information -- Manage scheduling -- Track tasks -- Organize your inbox -- Manage your calendar -- Manage contact records -- Enhance message content -- Customize Outlook -- Manage email settings -- Work remotely",
+  "medium" : [ {
+    "id" : "http://rdaregistry.info/termList/RDAMediaType/1003",
+    "label" : "Datenträger"
+  }, {
+    "id" : "http://rdaregistry.info/termList/RDACarrierType/1018",
+    "label" : "Online-Ressource"
+  } ],
+  "type" : [ "Book", "BibliographicResource" ],
+  "pchbz_date[]_wegmal" : {
+    "" : "2013"
+  },
+  "collection_pchbz_eher_zu_item" : "DE-61",
+  "@context" : "https://lobid.org/resources/context.jsonld",
+  "hbzId" : "ALMA990042508330206443",
+  "id" : "https://lobid.org/resources/ALMA990042508330206443#!",
+  "language" : [ {
+    "label" : "Englisch",
+    "id" : "http://id.loc.gov/vocabulary/iso639-2/eng"
+  } ],
+  "isbn" : [ "9780735669093" ],
+  "contribution" : [ {
+    "role" : {
+      "id" : "http://id.loc.gov/vocabulary/relators/cre",
+      "label" : "Autor/in"
+    },
+    "type" : [ "Contribution" ],
+    "agent" : {
+      "label" : "Lambert, Joan",
+      "type" : [ "Person" ]
+    }
+  }, {
+    "agent" : {
+      "type" : "Person",
+      "label" : "Joan Lambert, Joyce Cox"
+    },
+    "type" : "Contribution",
+    "role" : {
+      "id" : "http://id.loc.gov/vocabulary/relators/cre",
+      "label" : "Autor/in"
+    }
+  }, {
+    "role" : {
+      "id" : "http://id.loc.gov/vocabulary/relators/oth",
+      "label" : "Sonstiges"
+    },
+    "type" : [ "Contribution" ],
+    "agent" : {
+      "label" : "Cox, Joyce",
+      "type" : [ "Person" ]
+    }
+  } ],
+  "publication" : [ {
+    "location" : "Redmond, WA",
+    "publishedBy" : "Microsoft Press",
+    "startDate" : "c2013",
+    "type" : [ "PublicationEvent" ]
+  } ],
+  "extent" : "1 online resource (1 v.) : ill",
+  "hasVersion" : [ {
+    "label" : "Connect to this resource online",
+    "id" : "http://proquest.tech.safaribooksonline.de/?uiCode=Duesseldorf&xmlId=9780735675582"
+  } ],
+  "describedBy" : {
+    "sourceOrganization" : {
+      "id" : "http://lobid.org/organisations/004250833-DUE01_todo",
+      "label" : "lobid Organisation"
+    },
+    "dateCreated" : "20200701",
+    "id" : "https://lobid.org/resources/ALMA990042508330206443",
+    "label" : "Webseite der hbz-Ressource ALMA990042508330206443",
+    "type" : [ "BibliographicDescription" ],
+    "inDataset" : {
+      "id" : "http://lobid.org/resources/dataset#!",
+      "label" : "lobid-resources – Der hbz-Verbundkatalog als Linked Open Data"
+    },
+    "resultOf" : {
+      "type" : [ "CreateAction" ],
+      "endTime" : "2020-11-19T10:20:01",
+      "instrument" : {
+        "id" : "https://github.com/hbz/lobid-resources",
+        "type" : [ "SoftwareApplication" ],
+        "label" : "Software lobid-resources"
+      },
+      "object" : {
+        "id" : "https://lobid.org/hbz01/ALMA990042508330206443_todo",
+        "type" : [ "DataFeedItem" ],
+        "label" : "hbz-Ressource ALMA990042508330206443 im Exportformat MARC21 XML",
+        "inDataset" : {
+          "id" : "https://datahub.io/dataset/hbz_unioncatalog",
+          "label" : "hbz_unioncatalog"
+        }
+      }
+    },
+    "license" : [ {
+      "id" : "http://creativecommons.org/publicdomain/zero/1.0",
+      "label" : "Creative Commons-Lizenz CC0 1.0 Universal"
+    } ]
+  }
+}
+{
+  "almaIdMMS" : "990042506710206443",
+  "title" : "Microsoft Exchange Server 2010",
+  "otherTitleInformation" : [ "best practices" ],
+  "note" : "Description based on print version record",
+  "medium" : [ {
+    "id" : "http://rdaregistry.info/termList/RDAMediaType/1003",
+    "label" : "Datenträger"
+  }, {
+    "id" : "http://rdaregistry.info/termList/RDACarrierType/1018",
+    "label" : "Online-Ressource"
+  } ],
+  "type" : [ "Book", "BibliographicResource" ],
+  "pchbz_date[]_wegmal" : {
+    "" : "2010"
+  },
+  "collection_pchbz_eher_zu_item" : "DE-61",
+  "@context" : "https://lobid.org/resources/context.jsonld",
+  "hbzId" : "ALMA990042506710206443",
+  "id" : "https://lobid.org/resources/ALMA990042506710206443#!",
+  "language" : [ {
+    "label" : "Englisch",
+    "id" : "http://id.loc.gov/vocabulary/iso639-2/eng"
+  } ],
+  "isbn" : [ "9780735627192", "(pbk.)", "0735627193", "(pbk.)" ],
+  "contribution" : [ {
+    "role" : {
+      "id" : "http://id.loc.gov/vocabulary/relators/cre",
+      "label" : "Autor/in"
+    },
+    "type" : [ "Contribution" ],
+    "agent" : {
+      "label" : "Jagott, Siegfried",
+      "type" : [ "Person" ]
+    }
+  }, {
+    "agent" : {
+      "type" : "Person",
+      "label" : "Siegfried Jagott and Joel Stidley ; with the Microsoft Exchange Server Team"
+    },
+    "type" : "Contribution",
+    "role" : {
+      "id" : "http://id.loc.gov/vocabulary/relators/cre",
+      "label" : "Autor/in"
+    }
+  }, {
+    "role" : {
+      "id" : "http://id.loc.gov/vocabulary/relators/oth",
+      "label" : "Sonstiges"
+    },
+    "type" : [ "Contribution" ],
+    "agent" : {
+      "label" : "Stidley, Joel",
+      "type" : [ "Person" ]
+    }
+  } ],
+  "publication" : [ {
+    "location" : "Redmond, Wash",
+    "publishedBy" : "Microsoft",
+    "startDate" : "c2010",
+    "type" : [ "PublicationEvent" ]
+  } ],
+  "extent" : "1 online resource (xl, 867 p.) : ill",
+  "hasVersion" : [ {
+    "label" : "Connect to this resource online",
+    "id" : "http://proquest.tech.safaribooksonline.de/?uiCode=Duesseldorf&xmlId=9780735649149"
+  } ],
+  "describedBy" : {
+    "sourceOrganization" : {
+      "id" : "http://lobid.org/organisations/004250671-DUE01_todo",
+      "label" : "lobid Organisation"
+    },
+    "dateCreated" : "20200701",
+    "id" : "https://lobid.org/resources/ALMA990042506710206443",
+    "label" : "Webseite der hbz-Ressource ALMA990042506710206443",
+    "type" : [ "BibliographicDescription" ],
+    "inDataset" : {
+      "id" : "http://lobid.org/resources/dataset#!",
+      "label" : "lobid-resources – Der hbz-Verbundkatalog als Linked Open Data"
+    },
+    "resultOf" : {
+      "type" : [ "CreateAction" ],
+      "endTime" : "2020-11-19T10:20:01",
+      "instrument" : {
+        "id" : "https://github.com/hbz/lobid-resources",
+        "type" : [ "SoftwareApplication" ],
+        "label" : "Software lobid-resources"
+      },
+      "object" : {
+        "id" : "https://lobid.org/hbz01/ALMA990042506710206443_todo",
+        "type" : [ "DataFeedItem" ],
+        "label" : "hbz-Ressource ALMA990042506710206443 im Exportformat MARC21 XML",
+        "inDataset" : {
+          "id" : "https://datahub.io/dataset/hbz_unioncatalog",
+          "label" : "hbz_unioncatalog"
+        }
+      }
+    },
+    "license" : [ {
+      "id" : "http://creativecommons.org/publicdomain/zero/1.0",
+      "label" : "Creative Commons-Lizenz CC0 1.0 Universal"
+    } ]
+  }
+}
+{
+  "almaIdMMS" : "990042512640206443",
+  "title" : "Understanding telephone electronics",
+  "note" : "Includes index",
+  "medium" : [ {
+    "id" : "http://rdaregistry.info/termList/RDAMediaType/1003",
+    "label" : "Datenträger"
+  }, {
+    "id" : "http://rdaregistry.info/termList/RDACarrierType/1018",
+    "label" : "Online-Ressource"
+  } ],
+  "type" : [ "Book", "BibliographicResource" ],
+  "pchbz_date[]_wegmal" : {
+    "" : "2001"
+  },
+  "collection_pchbz_eher_zu_item" : "DE-61",
+  "@context" : "https://lobid.org/resources/context.jsonld",
+  "hbzId" : "ALMA990042512640206443",
+  "id" : "https://lobid.org/resources/ALMA990042512640206443#!",
+  "language" : [ {
+    "label" : "Englisch",
+    "id" : "http://id.loc.gov/vocabulary/iso639-2/eng"
+  } ],
+  "isbn" : [ "9780080520032", "0080520030", "9780750671750" ],
+  "contribution" : [ {
+    "role" : {
+      "id" : "http://id.loc.gov/vocabulary/relators/cre",
+      "label" : "Autor/in"
+    },
+    "type" : [ "Contribution" ],
+    "agent" : {
+      "label" : "Bigelow, Stephen J.",
+      "type" : [ "Person" ]
+    }
+  }, {
+    "agent" : {
+      "type" : "Person",
+      "label" : "Stephen J. Bigelow, Joseph J. Carr, Steve Winder"
+    },
+    "type" : "Contribution",
+    "role" : {
+      "id" : "http://id.loc.gov/vocabulary/relators/cre",
+      "label" : "Autor/in"
+    }
+  }, {
+    "role" : {
+      "id" : "http://id.loc.gov/vocabulary/relators/oth",
+      "label" : "Sonstiges"
+    },
+    "type" : [ "Contribution" ],
+    "agent" : {
+      "label" : "Carr, Joseph J.",
+      "type" : [ "Person" ]
+    }
+  }, {
+    "role" : {
+      "id" : "http://id.loc.gov/vocabulary/relators/oth",
+      "label" : "Sonstiges"
+    },
+    "type" : [ "Contribution" ],
+    "agent" : {
+      "label" : "Winder, Steve",
+      "type" : [ "Person" ]
+    }
+  } ],
+  "edition" : [ "4th ed" ],
+  "publication" : [ {
+    "location" : "Boston",
+    "publishedBy" : "Newnes",
+    "startDate" : "c2001",
+    "type" : [ "PublicationEvent" ]
+  } ],
+  "extent" : "1 online resource (xiv, 402 p.) : ill",
+  "hasVersion" : [ {
+    "label" : "Connect to this resource online",
+    "id" : "http://proquest.tech.safaribooksonline.de/?uiCode=Duesseldorf&xmlId=9780750671750"
+  } ],
+  "describedBy" : {
+    "sourceOrganization" : {
+      "id" : "http://lobid.org/organisations/004251264-DUE01_todo",
+      "label" : "lobid Organisation"
+    },
+    "dateCreated" : "20200701",
+    "id" : "https://lobid.org/resources/ALMA990042512640206443",
+    "label" : "Webseite der hbz-Ressource ALMA990042512640206443",
+    "type" : [ "BibliographicDescription" ],
+    "inDataset" : {
+      "id" : "http://lobid.org/resources/dataset#!",
+      "label" : "lobid-resources – Der hbz-Verbundkatalog als Linked Open Data"
+    },
+    "resultOf" : {
+      "type" : [ "CreateAction" ],
+      "endTime" : "2020-11-19T10:20:01",
+      "instrument" : {
+        "id" : "https://github.com/hbz/lobid-resources",
+        "type" : [ "SoftwareApplication" ],
+        "label" : "Software lobid-resources"
+      },
+      "object" : {
+        "id" : "https://lobid.org/hbz01/ALMA990042512640206443_todo",
+        "type" : [ "DataFeedItem" ],
+        "label" : "hbz-Ressource ALMA990042512640206443 im Exportformat MARC21 XML",
+        "inDataset" : {
+          "id" : "https://datahub.io/dataset/hbz_unioncatalog",
+          "label" : "hbz_unioncatalog"
+        }
+      }
+    },
+    "license" : [ {
+      "id" : "http://creativecommons.org/publicdomain/zero/1.0",
+      "label" : "Creative Commons-Lizenz CC0 1.0 Universal"
+    } ]
+  }
+}
+{
+  "almaIdMMS" : "990042506070206443",
+  "title" : "Microsoft SQL server 2008 MDX",
+  "otherTitleInformation" : [ "step by step" ],
+  "note" : "At head of t.p.: Microsoft. - Includes index",
+  "medium" : [ {
+    "id" : "http://rdaregistry.info/termList/RDAMediaType/1003",
+    "label" : "Datenträger"
+  }, {
+    "id" : "http://rdaregistry.info/termList/RDACarrierType/1018",
+    "label" : "Online-Ressource"
+  } ],
+  "type" : [ "Book", "BibliographicResource" ],
+  "pchbz_date[]_wegmal" : {
+    "" : "2009"
+  },
+  "collection_pchbz_eher_zu_item" : "DE-61",
+  "@context" : "https://lobid.org/resources/context.jsonld",
+  "hbzId" : "ALMA990042506070206443",
+  "id" : "https://lobid.org/resources/ALMA990042506070206443#!",
+  "language" : [ {
+    "label" : "Englisch",
+    "id" : "http://id.loc.gov/vocabulary/iso639-2/eng"
+  } ],
+  "isbn" : [ "9780735626188", "0735626189" ],
+  "contribution" : [ {
+    "role" : {
+      "id" : "http://id.loc.gov/vocabulary/relators/cre",
+      "label" : "Autor/in"
+    },
+    "type" : [ "Contribution" ],
+    "agent" : {
+      "label" : "Smith, Bryan C.",
+      "type" : [ "Person" ]
+    }
+  }, {
+    "agent" : {
+      "type" : "Person",
+      "label" : "Bryan C. Smith, C. Ryan Clay"
+    },
+    "type" : "Contribution",
+    "role" : {
+      "id" : "http://id.loc.gov/vocabulary/relators/cre",
+      "label" : "Autor/in"
+    }
+  }, {
+    "role" : {
+      "id" : "http://id.loc.gov/vocabulary/relators/oth",
+      "label" : "Sonstiges"
+    },
+    "type" : [ "Contribution" ],
+    "agent" : {
+      "label" : "Clay, C. Ryan",
+      "type" : [ "Person" ]
+    }
+  }, {
+    "role" : {
+      "id" : "http://id.loc.gov/vocabulary/relators/ctb",
+      "label" : "Mitwirkende"
+    },
+    "type" : [ "Contribution" ],
+    "agent" : {
+      "label" : "Microsoft Corporation",
+      "type" : [ "CorporateBody" ]
+    }
+  }, {
+    "role" : {
+      "id" : "http://id.loc.gov/vocabulary/relators/ctb",
+      "label" : "Mitwirkende"
+    },
+    "type" : [ "Contribution" ],
+    "agent" : {
+      "label" : "Hitachi Consulting",
+      "type" : [ "CorporateBody" ]
+    }
+  } ],
+  "publication" : [ {
+    "location" : "Redmond, Wash",
+    "publishedBy" : "Microsoft Press",
+    "startDate" : "c2009",
+    "type" : [ "PublicationEvent" ]
+  } ],
+  "extent" : "xxiii, 352 p. : ill., ports",
+  "hasVersion" : [ {
+    "label" : "Connect to this resource online",
+    "id" : "http://proquest.tech.safaribooksonline.de/?uiCode=Duesseldorf&xmlId=9780735626188"
+  } ],
+  "describedBy" : {
+    "sourceOrganization" : {
+      "id" : "http://lobid.org/organisations/004250607-DUE01_todo",
+      "label" : "lobid Organisation"
+    },
+    "dateCreated" : "20200701",
+    "id" : "https://lobid.org/resources/ALMA990042506070206443",
+    "label" : "Webseite der hbz-Ressource ALMA990042506070206443",
+    "type" : [ "BibliographicDescription" ],
+    "inDataset" : {
+      "id" : "http://lobid.org/resources/dataset#!",
+      "label" : "lobid-resources – Der hbz-Verbundkatalog als Linked Open Data"
+    },
+    "resultOf" : {
+      "type" : [ "CreateAction" ],
+      "endTime" : "2020-11-19T10:20:01",
+      "instrument" : {
+        "id" : "https://github.com/hbz/lobid-resources",
+        "type" : [ "SoftwareApplication" ],
+        "label" : "Software lobid-resources"
+      },
+      "object" : {
+        "id" : "https://lobid.org/hbz01/ALMA990042506070206443_todo",
+        "type" : [ "DataFeedItem" ],
+        "label" : "hbz-Ressource ALMA990042506070206443 im Exportformat MARC21 XML",
+        "inDataset" : {
+          "id" : "https://datahub.io/dataset/hbz_unioncatalog",
+          "label" : "hbz_unioncatalog"
+        }
+      }
+    },
+    "license" : [ {
+      "id" : "http://creativecommons.org/publicdomain/zero/1.0",
+      "label" : "Creative Commons-Lizenz CC0 1.0 Universal"
+    } ]
+  }
+}
+{
+  "almaIdMMS" : "990042503270206443",
+  "title" : "Slicing pizzas, racing turtles, and further adventures in applied mathematics",
+  "medium" : [ {
+    "id" : "http://rdaregistry.info/termList/RDAMediaType/1003",
+    "label" : "Datenträger"
+  }, {
+    "id" : "http://rdaregistry.info/termList/RDACarrierType/1018",
+    "label" : "Online-Ressource"
+  } ],
+  "type" : [ "Book", "BibliographicResource" ],
+  "pchbz_date[]_wegmal" : {
+    "" : "2012",
+    "" : "1999"
+  },
+  "collection_pchbz_eher_zu_item" : "DE-61",
+  "@context" : "https://lobid.org/resources/context.jsonld",
+  "hbzId" : "ALMA990042503270206443",
+  "id" : "https://lobid.org/resources/ALMA990042503270206443#!",
+  "language" : [ {
+    "label" : "Englisch",
+    "id" : "http://id.loc.gov/vocabulary/iso639-2/eng"
+  } ],
+  "isbn" : [ "9780691102849", "0691102848", "9781400843039", "1400843030" ],
+  "contribution" : [ {
+    "role" : {
+      "id" : "http://id.loc.gov/vocabulary/relators/cre",
+      "label" : "Autor/in"
+    },
+    "type" : [ "Contribution" ],
+    "agent" : {
+      "label" : "Banks, Robert",
+      "type" : [ "Person" ]
+    }
+  }, {
+    "agent" : {
+      "type" : "Person",
+      "label" : "Robert B. Banks"
+    },
+    "type" : "Contribution",
+    "role" : {
+      "id" : "http://id.loc.gov/vocabulary/relators/cre",
+      "label" : "Autor/in"
+    }
+  } ],
+  "publication" : [ {
+    "location" : "Princeton, N.J",
+    "publishedBy" : "Princeton University Press",
+    "startDate" : "2012, c1999",
+    "type" : [ "PublicationEvent" ]
+  } ],
+  "extent" : "1 online resource (1 v.) : ill",
+  "hasVersion" : [ {
+    "label" : "Connect to this resource online",
+    "id" : "http://proquest.tech.safaribooksonline.de/?uiCode=Duesseldorf&xmlId=9780691102849"
+  } ],
+  "describedBy" : {
+    "sourceOrganization" : {
+      "id" : "http://lobid.org/organisations/004250327-DUE01_todo",
+      "label" : "lobid Organisation"
+    },
+    "dateCreated" : "20200701",
+    "id" : "https://lobid.org/resources/ALMA990042503270206443",
+    "label" : "Webseite der hbz-Ressource ALMA990042503270206443",
+    "type" : [ "BibliographicDescription" ],
+    "inDataset" : {
+      "id" : "http://lobid.org/resources/dataset#!",
+      "label" : "lobid-resources – Der hbz-Verbundkatalog als Linked Open Data"
+    },
+    "resultOf" : {
+      "type" : [ "CreateAction" ],
+      "endTime" : "2020-11-19T10:20:01",
+      "instrument" : {
+        "id" : "https://github.com/hbz/lobid-resources",
+        "type" : [ "SoftwareApplication" ],
+        "label" : "Software lobid-resources"
+      },
+      "object" : {
+        "id" : "https://lobid.org/hbz01/ALMA990042503270206443_todo",
+        "type" : [ "DataFeedItem" ],
+        "label" : "hbz-Ressource ALMA990042503270206443 im Exportformat MARC21 XML",
+        "inDataset" : {
+          "id" : "https://datahub.io/dataset/hbz_unioncatalog",
+          "label" : "hbz_unioncatalog"
+        }
+      }
+    },
+    "license" : [ {
+      "id" : "http://creativecommons.org/publicdomain/zero/1.0",
+      "label" : "Creative Commons-Lizenz CC0 1.0 Universal"
+    } ]
+  }
+}
+{
+  "almaIdMMS" : "990042507600206443",
+  "title" : "Team collaboration",
+  "otherTitleInformation" : [ "using Microsoft Office for more effective teamwork" ],
+  "note" : "Includes index",
+  "medium" : [ {
+    "id" : "http://rdaregistry.info/termList/RDAMediaType/1003",
+    "label" : "Datenträger"
+  }, {
+    "id" : "http://rdaregistry.info/termList/RDACarrierType/1018",
+    "label" : "Online-Ressource"
+  } ],
+  "type" : [ "Book", "BibliographicResource" ],
+  "pchbz_date[]_wegmal" : {
+    "" : "2012"
+  },
+  "collection_pchbz_eher_zu_item" : "DE-61",
+  "@context" : "https://lobid.org/resources/context.jsonld",
+  "hbzId" : "ALMA990042507600206443",
+  "id" : "https://lobid.org/resources/ALMA990042507600206443#!",
+  "language" : [ {
+    "label" : "Englisch",
+    "id" : "http://id.loc.gov/vocabulary/iso639-2/eng"
+  } ],
+  "isbn" : [ "9780735669628" ],
+  "contribution" : [ {
+    "role" : {
+      "id" : "http://id.loc.gov/vocabulary/relators/cre",
+      "label" : "Autor/in"
+    },
+    "type" : [ "Contribution" ],
+    "agent" : {
+      "label" : "Pierce, John",
+      "type" : [ "Person" ]
+    }
+  }, {
+    "agent" : {
+      "type" : "Person",
+      "label" : "John Pierce"
+    },
+    "type" : "Contribution",
+    "role" : {
+      "id" : "http://id.loc.gov/vocabulary/relators/cre",
+      "label" : "Autor/in"
+    }
+  } ],
+  "publication" : [ {
+    "location" : "Redmond, Wash",
+    "publishedBy" : "Microsoft Press",
+    "startDate" : "2012",
+    "type" : [ "PublicationEvent" ]
+  } ],
+  "extent" : "1 online resource (1 v.) : ill",
+  "hasVersion" : [ {
+    "label" : "Connect to this resource online",
+    "id" : "http://proquest.tech.safaribooksonline.de/?uiCode=Duesseldorf&xmlId=9780735669611"
+  } ],
+  "describedBy" : {
+    "sourceOrganization" : {
+      "id" : "http://lobid.org/organisations/004250760-DUE01_todo",
+      "label" : "lobid Organisation"
+    },
+    "dateCreated" : "20200701",
+    "id" : "https://lobid.org/resources/ALMA990042507600206443",
+    "label" : "Webseite der hbz-Ressource ALMA990042507600206443",
+    "type" : [ "BibliographicDescription" ],
+    "inDataset" : {
+      "id" : "http://lobid.org/resources/dataset#!",
+      "label" : "lobid-resources – Der hbz-Verbundkatalog als Linked Open Data"
+    },
+    "resultOf" : {
+      "type" : [ "CreateAction" ],
+      "endTime" : "2020-11-19T10:20:01",
+      "instrument" : {
+        "id" : "https://github.com/hbz/lobid-resources",
+        "type" : [ "SoftwareApplication" ],
+        "label" : "Software lobid-resources"
+      },
+      "object" : {
+        "id" : "https://lobid.org/hbz01/ALMA990042507600206443_todo",
+        "type" : [ "DataFeedItem" ],
+        "label" : "hbz-Ressource ALMA990042507600206443 im Exportformat MARC21 XML",
+        "inDataset" : {
+          "id" : "https://datahub.io/dataset/hbz_unioncatalog",
+          "label" : "hbz_unioncatalog"
+        }
+      }
+    },
+    "license" : [ {
+      "id" : "http://creativecommons.org/publicdomain/zero/1.0",
+      "label" : "Creative Commons-Lizenz CC0 1.0 Universal"
+    } ]
+  }
+}
+{
+  "almaIdMMS" : "990042503540206443",
+  "title" : "Statistics, data mining, and machine learning in astronomy",
+  "otherTitleInformation" : [ "a practical Python guide for the analysis of survey data" ],
+  "medium" : [ {
+    "id" : "http://rdaregistry.info/termList/RDAMediaType/1003",
+    "label" : "Datenträger"
+  }, {
+    "id" : "http://rdaregistry.info/termList/RDACarrierType/1018",
+    "label" : "Online-Ressource"
+  } ],
+  "type" : [ "Book", "BibliographicResource" ],
+  "pchbz_date[]_wegmal" : {
+    "" : "2014"
+  },
+  "collection_pchbz_eher_zu_item" : "DE-61",
+  "@context" : "https://lobid.org/resources/context.jsonld",
+  "hbzId" : "ALMA990042503540206443",
+  "id" : "https://lobid.org/resources/ALMA990042503540206443#!",
+  "language" : [ {
+    "label" : "Englisch",
+    "id" : "http://id.loc.gov/vocabulary/iso639-2/eng"
+  } ],
+  "isbn" : [ "9781400848911", "1400848911", "9780691151687" ],
+  "contribution" : [ {
+    "agent" : {
+      "type" : "Person",
+      "label" : "Željko Ivezić ... [et al.]"
+    },
+    "type" : "Contribution",
+    "role" : {
+      "id" : "http://id.loc.gov/vocabulary/relators/cre",
+      "label" : "Autor/in"
+    }
+  }, {
+    "role" : {
+      "id" : "http://id.loc.gov/vocabulary/relators/oth",
+      "label" : "Sonstiges"
+    },
+    "type" : [ "Contribution" ],
+    "agent" : {
+      "label" : "Ivezić, Ž‌eljko",
+      "type" : [ "Person" ]
+    }
+  } ],
+  "publication" : [ {
+    "location" : "Princeton, N.J",
+    "publishedBy" : "Princeton University Press",
+    "startDate" : "c2014",
+    "type" : [ "PublicationEvent" ]
+  } ],
+  "extent" : "1 online resource (x, 540 p.) : ill",
+  "hasVersion" : [ {
+    "label" : "Connect to this resource online",
+    "id" : "http://proquest.tech.safaribooksonline.de/?uiCode=Duesseldorf&xmlId=9780691151687"
+  } ],
+  "describedBy" : {
+    "sourceOrganization" : {
+      "id" : "http://lobid.org/organisations/004250354-DUE01_todo",
+      "label" : "lobid Organisation"
+    },
+    "dateCreated" : "20200701",
+    "id" : "https://lobid.org/resources/ALMA990042503540206443",
+    "label" : "Webseite der hbz-Ressource ALMA990042503540206443",
+    "type" : [ "BibliographicDescription" ],
+    "inDataset" : {
+      "id" : "http://lobid.org/resources/dataset#!",
+      "label" : "lobid-resources – Der hbz-Verbundkatalog als Linked Open Data"
+    },
+    "resultOf" : {
+      "type" : [ "CreateAction" ],
+      "endTime" : "2020-11-19T10:20:01",
+      "instrument" : {
+        "id" : "https://github.com/hbz/lobid-resources",
+        "type" : [ "SoftwareApplication" ],
+        "label" : "Software lobid-resources"
+      },
+      "object" : {
+        "id" : "https://lobid.org/hbz01/ALMA990042503540206443_todo",
+        "type" : [ "DataFeedItem" ],
+        "label" : "hbz-Ressource ALMA990042503540206443 im Exportformat MARC21 XML",
+        "inDataset" : {
+          "id" : "https://datahub.io/dataset/hbz_unioncatalog",
+          "label" : "hbz_unioncatalog"
+        }
+      }
+    },
+    "license" : [ {
+      "id" : "http://creativecommons.org/publicdomain/zero/1.0",
+      "label" : "Creative Commons-Lizenz CC0 1.0 Universal"
+    } ]
+  }
+}
+{
+  "almaIdMMS" : "990042505030206443",
+  "title" : "2007 Microsoft Office system inside out",
+  "note" : "Includes index",
+  "medium" : [ {
+    "id" : "http://rdaregistry.info/termList/RDAMediaType/1003",
+    "label" : "Datenträger"
+  }, {
+    "id" : "http://rdaregistry.info/termList/RDACarrierType/1018",
+    "label" : "Online-Ressource"
+  } ],
+  "type" : [ "Book", "BibliographicResource" ],
+  "pchbz_date[]_wegmal" : {
+    "" : "2007"
+  },
+  "collection_pchbz_eher_zu_item" : "DE-61",
+  "@context" : "https://lobid.org/resources/context.jsonld",
+  "hbzId" : "ALMA990042505030206443",
+  "id" : "https://lobid.org/resources/ALMA990042505030206443#!",
+  "language" : [ {
+    "label" : "Englisch",
+    "id" : "http://id.loc.gov/vocabulary/iso639-2/eng"
+  } ],
+  "isbn" : [ "9780735623248", "0735623244" ],
+  "contribution" : [ {
+    "agent" : {
+      "type" : "Person",
+      "label" : "Jim Boyce ... [et al.] ; John Pierce, contributing editor"
+    },
+    "type" : "Contribution",
+    "role" : {
+      "id" : "http://id.loc.gov/vocabulary/relators/cre",
+      "label" : "Autor/in"
+    }
+  }, {
+    "role" : {
+      "id" : "http://id.loc.gov/vocabulary/relators/oth",
+      "label" : "Sonstiges"
+    },
+    "type" : [ "Contribution" ],
+    "agent" : {
+      "label" : "Boyce, Jim",
+      "type" : [ "Person" ]
+    }
+  }, {
+    "role" : {
+      "id" : "http://id.loc.gov/vocabulary/relators/oth",
+      "label" : "Sonstiges"
+    },
+    "type" : [ "Contribution" ],
+    "agent" : {
+      "label" : "Pierce, John",
+      "type" : [ "Person" ]
+    }
+  } ],
+  "publication" : [ {
+    "location" : "Redmond, Wash",
+    "publishedBy" : "Microsoft Press",
+    "startDate" : "c2007",
+    "type" : [ "PublicationEvent" ]
+  } ],
+  "extent" : "xxxiii, 1272 p. : ill. ; 23 cm ; 1 CD-ROM (4 3/4 in.)",
+  "hasVersion" : [ {
+    "label" : "Connect to this resource online",
+    "id" : "http://proquest.tech.safaribooksonline.de/?uiCode=Duesseldorf&xmlId=9780735623248"
+  } ],
+  "describedBy" : {
+    "sourceOrganization" : {
+      "id" : "http://lobid.org/organisations/004250503-DUE01_todo",
+      "label" : "lobid Organisation"
+    },
+    "dateCreated" : "20200701",
+    "id" : "https://lobid.org/resources/ALMA990042505030206443",
+    "label" : "Webseite der hbz-Ressource ALMA990042505030206443",
+    "type" : [ "BibliographicDescription" ],
+    "inDataset" : {
+      "id" : "http://lobid.org/resources/dataset#!",
+      "label" : "lobid-resources – Der hbz-Verbundkatalog als Linked Open Data"
+    },
+    "resultOf" : {
+      "type" : [ "CreateAction" ],
+      "endTime" : "2020-11-19T10:20:01",
+      "instrument" : {
+        "id" : "https://github.com/hbz/lobid-resources",
+        "type" : [ "SoftwareApplication" ],
+        "label" : "Software lobid-resources"
+      },
+      "object" : {
+        "id" : "https://lobid.org/hbz01/ALMA990042505030206443_todo",
+        "type" : [ "DataFeedItem" ],
+        "label" : "hbz-Ressource ALMA990042505030206443 im Exportformat MARC21 XML",
+        "inDataset" : {
+          "id" : "https://datahub.io/dataset/hbz_unioncatalog",
+          "label" : "hbz_unioncatalog"
+        }
+      }
+    },
+    "license" : [ {
+      "id" : "http://creativecommons.org/publicdomain/zero/1.0",
+      "label" : "Creative Commons-Lizenz CC0 1.0 Universal"
+    } ]
+  }
+}
+{
+  "almaIdMMS" : "990042506670206443",
+  "title" : "Microsoft SharePoint Foundation 2010",
+  "otherTitleInformation" : [ "step by step" ],
+  "note" : "Includes index",
+  "medium" : [ {
+    "id" : "http://rdaregistry.info/termList/RDAMediaType/1003",
+    "label" : "Datenträger"
+  }, {
+    "id" : "http://rdaregistry.info/termList/RDACarrierType/1018",
+    "label" : "Online-Ressource"
+  } ],
+  "type" : [ "Book", "BibliographicResource" ],
+  "pchbz_date[]_wegmal" : {
+    "" : "2011"
+  },
+  "collection_pchbz_eher_zu_item" : "DE-61",
+  "@context" : "https://lobid.org/resources/context.jsonld",
+  "hbzId" : "ALMA990042506670206443",
+  "id" : "https://lobid.org/resources/ALMA990042506670206443#!",
+  "language" : [ {
+    "label" : "Englisch",
+    "id" : "http://id.loc.gov/vocabulary/iso639-2/eng"
+  } ],
+  "isbn" : [ "9780735627260", "(pbk.)", "0735627266", "(pbk.)" ],
+  "contribution" : [ {
+    "role" : {
+      "id" : "http://id.loc.gov/vocabulary/relators/cre",
+      "label" : "Autor/in"
+    },
+    "type" : [ "Contribution" ],
+    "agent" : {
+      "label" : "Londer, Olga",
+      "type" : [ "Person" ]
+    }
+  }, {
+    "agent" : {
+      "type" : "Person",
+      "label" : "Olga Londer, Penelope Coventry"
+    },
+    "type" : "Contribution",
+    "role" : {
+      "id" : "http://id.loc.gov/vocabulary/relators/cre",
+      "label" : "Autor/in"
+    }
+  }, {
+    "role" : {
+      "id" : "http://id.loc.gov/vocabulary/relators/oth",
+      "label" : "Sonstiges"
+    },
+    "type" : [ "Contribution" ],
+    "agent" : {
+      "label" : "Coventry, Penelope",
+      "type" : [ "Person" ]
+    }
+  } ],
+  "publication" : [ {
+    "location" : "Redmond, Wash",
+    "publishedBy" : "Microsoft Press",
+    "startDate" : "c2011",
+    "type" : [ "PublicationEvent" ]
+  } ],
+  "extent" : "1 online resource (xxvii, 482 p.) : ill",
+  "hasVersion" : [ {
+    "label" : "Connect to this resource online",
+    "id" : "http://proquest.tech.safaribooksonline.de/?uiCode=Duesseldorf&xmlId=9780735647862"
+  } ],
+  "describedBy" : {
+    "sourceOrganization" : {
+      "id" : "http://lobid.org/organisations/004250667-DUE01_todo",
+      "label" : "lobid Organisation"
+    },
+    "dateCreated" : "20200701",
+    "id" : "https://lobid.org/resources/ALMA990042506670206443",
+    "label" : "Webseite der hbz-Ressource ALMA990042506670206443",
+    "type" : [ "BibliographicDescription" ],
+    "inDataset" : {
+      "id" : "http://lobid.org/resources/dataset#!",
+      "label" : "lobid-resources – Der hbz-Verbundkatalog als Linked Open Data"
+    },
+    "resultOf" : {
+      "type" : [ "CreateAction" ],
+      "endTime" : "2020-11-19T10:20:01",
+      "instrument" : {
+        "id" : "https://github.com/hbz/lobid-resources",
+        "type" : [ "SoftwareApplication" ],
+        "label" : "Software lobid-resources"
+      },
+      "object" : {
+        "id" : "https://lobid.org/hbz01/ALMA990042506670206443_todo",
+        "type" : [ "DataFeedItem" ],
+        "label" : "hbz-Ressource ALMA990042506670206443 im Exportformat MARC21 XML",
+        "inDataset" : {
+          "id" : "https://datahub.io/dataset/hbz_unioncatalog",
+          "label" : "hbz_unioncatalog"
+        }
+      }
+    },
+    "license" : [ {
+      "id" : "http://creativecommons.org/publicdomain/zero/1.0",
+      "label" : "Creative Commons-Lizenz CC0 1.0 Universal"
+    } ]
+  }
+}
+{
+  "almaIdMMS" : "990042508140206443",
+  "title" : "Understanding IPv6",
+  "note" : "Date of publication from resource description page",
+  "medium" : [ {
+    "id" : "http://rdaregistry.info/termList/RDAMediaType/1003",
+    "label" : "Datenträger"
+  }, {
+    "id" : "http://rdaregistry.info/termList/RDACarrierType/1018",
+    "label" : "Online-Ressource"
+  } ],
+  "type" : [ "Book", "BibliographicResource" ],
+  "pchbz_date[]_wegmal" : {
+    "" : "2012"
+  },
+  "collection_pchbz_eher_zu_item" : "DE-61",
+  "@context" : "https://lobid.org/resources/context.jsonld",
+  "hbzId" : "ALMA990042508140206443",
+  "id" : "https://lobid.org/resources/ALMA990042508140206443#!",
+  "language" : [ {
+    "label" : "Englisch",
+    "id" : "http://id.loc.gov/vocabulary/iso639-2/eng"
+  } ],
+  "isbn" : [ "9780735659148" ],
+  "contribution" : [ {
+    "role" : {
+      "id" : "http://id.loc.gov/vocabulary/relators/cre",
+      "label" : "Autor/in"
+    },
+    "type" : [ "Contribution" ],
+    "agent" : {
+      "label" : "Davies, Joseph",
+      "type" : [ "Person" ]
+    }
+  }, {
+    "agent" : {
+      "type" : "Person",
+      "label" : "Joseph Davies"
+    },
+    "type" : "Contribution",
+    "role" : {
+      "id" : "http://id.loc.gov/vocabulary/relators/cre",
+      "label" : "Autor/in"
+    }
+  } ],
+  "edition" : [ "3rd ed" ],
+  "publication" : [ {
+    "location" : "[Redmond, WA]",
+    "publishedBy" : "Microsoft Press",
+    "startDate" : "2012",
+    "type" : [ "PublicationEvent" ]
+  } ],
+  "extent" : "1 online resource (1 v.) : ill",
+  "hasVersion" : [ {
+    "label" : "Connect to this resource online",
+    "id" : "http://proquest.tech.safaribooksonline.de/?uiCode=Duesseldorf&xmlId=9780735673748"
+  } ],
+  "describedBy" : {
+    "sourceOrganization" : {
+      "id" : "http://lobid.org/organisations/004250814-DUE01_todo",
+      "label" : "lobid Organisation"
+    },
+    "dateCreated" : "20200701",
+    "id" : "https://lobid.org/resources/ALMA990042508140206443",
+    "label" : "Webseite der hbz-Ressource ALMA990042508140206443",
+    "type" : [ "BibliographicDescription" ],
+    "inDataset" : {
+      "id" : "http://lobid.org/resources/dataset#!",
+      "label" : "lobid-resources – Der hbz-Verbundkatalog als Linked Open Data"
+    },
+    "resultOf" : {
+      "type" : [ "CreateAction" ],
+      "endTime" : "2020-11-19T10:20:01",
+      "instrument" : {
+        "id" : "https://github.com/hbz/lobid-resources",
+        "type" : [ "SoftwareApplication" ],
+        "label" : "Software lobid-resources"
+      },
+      "object" : {
+        "id" : "https://lobid.org/hbz01/ALMA990042508140206443_todo",
+        "type" : [ "DataFeedItem" ],
+        "label" : "hbz-Ressource ALMA990042508140206443 im Exportformat MARC21 XML",
+        "inDataset" : {
+          "id" : "https://datahub.io/dataset/hbz_unioncatalog",
+          "label" : "hbz_unioncatalog"
+        }
+      }
+    },
+    "license" : [ {
+      "id" : "http://creativecommons.org/publicdomain/zero/1.0",
+      "label" : "Creative Commons-Lizenz CC0 1.0 Universal"
+    } ]
+  }
+}
+{
+  "almaIdMMS" : "990042505520206443",
+  "title" : "Internet information services 7.0",
+  "otherTitleInformation" : [ "resource kit" ],
+  "medium" : [ {
+    "id" : "http://rdaregistry.info/termList/RDAMediaType/1003",
+    "label" : "Datenträger"
+  }, {
+    "id" : "http://rdaregistry.info/termList/RDACarrierType/1018",
+    "label" : "Online-Ressource"
+  } ],
+  "type" : [ "Book", "BibliographicResource" ],
+  "pchbz_date[]_wegmal" : {
+    "" : "2008"
+  },
+  "collection_pchbz_eher_zu_item" : "DE-61",
+  "@context" : "https://lobid.org/resources/context.jsonld",
+  "hbzId" : "ALMA990042505520206443",
+  "id" : "https://lobid.org/resources/ALMA990042505520206443#!",
+  "language" : [ {
+    "label" : "Englisch",
+    "id" : "http://id.loc.gov/vocabulary/iso639-2/eng"
+  } ],
+  "isbn" : [ "9780735624412", "0735624410" ],
+  "contribution" : [ {
+    "agent" : {
+      "type" : "Person",
+      "label" : "Mike Volodarsky ... [et al.] ; with the Microsoft IIS Team"
+    },
+    "type" : "Contribution",
+    "role" : {
+      "id" : "http://id.loc.gov/vocabulary/relators/cre",
+      "label" : "Autor/in"
+    }
+  }, {
+    "role" : {
+      "id" : "http://id.loc.gov/vocabulary/relators/oth",
+      "label" : "Sonstiges"
+    },
+    "type" : [ "Contribution" ],
+    "agent" : {
+      "label" : "Volodarsky, Mike",
+      "type" : [ "Person" ]
+    }
+  }, {
+    "role" : {
+      "id" : "http://id.loc.gov/vocabulary/relators/ctb",
+      "label" : "Mitwirkende"
+    },
+    "type" : [ "Contribution" ],
+    "agent" : {
+      "label" : "Microsoft IIS Team",
+      "type" : [ "CorporateBody" ]
+    }
+  } ],
+  "publication" : [ {
+    "location" : "Redmond, Wash",
+    "publishedBy" : "Microsoft Press",
+    "startDate" : "c2008",
+    "type" : [ "PublicationEvent" ]
+  } ],
+  "extent" : "xxv, 779 p. : ill. ; 23 cm ; 1 CD-ROM (4 3/4 in.)",
+  "abstract" : [ "Provides information on the deployment and management of IIS 7.0, with instructions for administrative tasks, security enhancements, migration strategies, and troubleshooting" ],
+  "hasVersion" : [ {
+    "label" : "Connect to this resource online",
+    "id" : "http://proquest.tech.safaribooksonline.de/?uiCode=Duesseldorf&xmlId=9780735624412"
+  } ],
+  "describedBy" : {
+    "sourceOrganization" : {
+      "id" : "http://lobid.org/organisations/004250552-DUE01_todo",
+      "label" : "lobid Organisation"
+    },
+    "dateCreated" : "20200701",
+    "id" : "https://lobid.org/resources/ALMA990042505520206443",
+    "label" : "Webseite der hbz-Ressource ALMA990042505520206443",
+    "type" : [ "BibliographicDescription" ],
+    "inDataset" : {
+      "id" : "http://lobid.org/resources/dataset#!",
+      "label" : "lobid-resources – Der hbz-Verbundkatalog als Linked Open Data"
+    },
+    "resultOf" : {
+      "type" : [ "CreateAction" ],
+      "endTime" : "2020-11-19T10:20:01",
+      "instrument" : {
+        "id" : "https://github.com/hbz/lobid-resources",
+        "type" : [ "SoftwareApplication" ],
+        "label" : "Software lobid-resources"
+      },
+      "object" : {
+        "id" : "https://lobid.org/hbz01/ALMA990042505520206443_todo",
+        "type" : [ "DataFeedItem" ],
+        "label" : "hbz-Ressource ALMA990042505520206443 im Exportformat MARC21 XML",
+        "inDataset" : {
+          "id" : "https://datahub.io/dataset/hbz_unioncatalog",
+          "label" : "hbz_unioncatalog"
+        }
+      }
+    },
+    "license" : [ {
+      "id" : "http://creativecommons.org/publicdomain/zero/1.0",
+      "label" : "Creative Commons-Lizenz CC0 1.0 Universal"
+    } ]
+  }
+}
+{
+  "almaIdMMS" : "990042512190206443",
+  "title" : "Introduction to digital systems",
+  "medium" : [ {
+    "id" : "http://rdaregistry.info/termList/RDAMediaType/1003",
+    "label" : "Datenträger"
+  }, {
+    "id" : "http://rdaregistry.info/termList/RDACarrierType/1018",
+    "label" : "Online-Ressource"
+  } ],
+  "type" : [ "Book", "BibliographicResource" ],
+  "pchbz_date[]_wegmal" : {
+    "" : "2000"
+  },
+  "collection_pchbz_eher_zu_item" : "DE-61",
+  "@context" : "https://lobid.org/resources/context.jsonld",
+  "hbzId" : "ALMA990042512190206443",
+  "id" : "https://lobid.org/resources/ALMA990042512190206443#!",
+  "language" : [ {
+    "label" : "Englisch",
+    "id" : "http://id.loc.gov/vocabulary/iso639-2/eng"
+  } ],
+  "isbn" : [ "9780080535081", "0080535089", "9780750645836" ],
+  "contribution" : [ {
+    "role" : {
+      "id" : "http://id.loc.gov/vocabulary/relators/cre",
+      "label" : "Autor/in"
+    },
+    "type" : [ "Contribution" ],
+    "agent" : {
+      "label" : "Crisp, John",
+      "type" : [ "Person" ]
+    }
+  }, {
+    "agent" : {
+      "type" : "Person",
+      "label" : "John Crisp"
+    },
+    "type" : "Contribution",
+    "role" : {
+      "id" : "http://id.loc.gov/vocabulary/relators/cre",
+      "label" : "Autor/in"
+    }
+  } ],
+  "publication" : [ {
+    "location" : "Oxford",
+    "publishedBy" : "Newnes",
+    "startDate" : "2000",
+    "type" : [ "PublicationEvent" ]
+  } ],
+  "extent" : "1 online resource (vii, 296 p.) : ill",
+  "hasVersion" : [ {
+    "label" : "Connect to this resource online",
+    "id" : "http://proquest.tech.safaribooksonline.de/?uiCode=Duesseldorf&xmlId=9780750645836"
+  } ],
+  "describedBy" : {
+    "sourceOrganization" : {
+      "id" : "http://lobid.org/organisations/004251219-DUE01_todo",
+      "label" : "lobid Organisation"
+    },
+    "dateCreated" : "20200701",
+    "id" : "https://lobid.org/resources/ALMA990042512190206443",
+    "label" : "Webseite der hbz-Ressource ALMA990042512190206443",
+    "type" : [ "BibliographicDescription" ],
+    "inDataset" : {
+      "id" : "http://lobid.org/resources/dataset#!",
+      "label" : "lobid-resources – Der hbz-Verbundkatalog als Linked Open Data"
+    },
+    "resultOf" : {
+      "type" : [ "CreateAction" ],
+      "endTime" : "2020-11-19T10:20:01",
+      "instrument" : {
+        "id" : "https://github.com/hbz/lobid-resources",
+        "type" : [ "SoftwareApplication" ],
+        "label" : "Software lobid-resources"
+      },
+      "object" : {
+        "id" : "https://lobid.org/hbz01/ALMA990042512190206443_todo",
+        "type" : [ "DataFeedItem" ],
+        "label" : "hbz-Ressource ALMA990042512190206443 im Exportformat MARC21 XML",
+        "inDataset" : {
+          "id" : "https://datahub.io/dataset/hbz_unioncatalog",
+          "label" : "hbz_unioncatalog"
+        }
+      }
+    },
+    "license" : [ {
+      "id" : "http://creativecommons.org/publicdomain/zero/1.0",
+      "label" : "Creative Commons-Lizenz CC0 1.0 Universal"
+    } ]
+  }
+}
+{
+  "almaIdMMS" : "990042504890206443",
+  "title" : "Windows Vista",
+  "otherTitleInformation" : [ "administrator's pocket consultant" ],
+  "note" : "Includes index",
+  "medium" : [ {
+    "id" : "http://rdaregistry.info/termList/RDAMediaType/1003",
+    "label" : "Datenträger"
+  }, {
+    "id" : "http://rdaregistry.info/termList/RDACarrierType/1018",
+    "label" : "Online-Ressource"
+  } ],
+  "type" : [ "Book", "BibliographicResource" ],
+  "pchbz_date[]_wegmal" : {
+    "" : "2006"
+  },
+  "collection_pchbz_eher_zu_item" : "DE-61",
+  "@context" : "https://lobid.org/resources/context.jsonld",
+  "hbzId" : "ALMA990042504890206443",
+  "id" : "https://lobid.org/resources/ALMA990042504890206443#!",
+  "language" : [ {
+    "label" : "Englisch",
+    "id" : "http://id.loc.gov/vocabulary/iso639-2/eng"
+  } ],
+  "isbn" : [ "0735622965", "9780735622968" ],
+  "contribution" : [ {
+    "role" : {
+      "id" : "http://id.loc.gov/vocabulary/relators/cre",
+      "label" : "Autor/in"
+    },
+    "type" : [ "Contribution" ],
+    "agent" : {
+      "label" : "Stanek, William R.",
+      "type" : [ "Person" ]
+    }
+  }, {
+    "agent" : {
+      "type" : "Person",
+      "label" : "by William R. Stanek"
+    },
+    "type" : "Contribution",
+    "role" : {
+      "id" : "http://id.loc.gov/vocabulary/relators/cre",
+      "label" : "Autor/in"
+    }
+  } ],
+  "publication" : [ {
+    "location" : "Redmond, Wash",
+    "publishedBy" : "Microsoft Press",
+    "startDate" : "2006",
+    "type" : [ "PublicationEvent" ]
+  } ],
+  "hasVersion" : [ {
+    "label" : "Connect to this resource online",
+    "id" : "http://proquest.tech.safaribooksonline.de/?uiCode=Duesseldorf&xmlId=9780735622968"
+  } ],
+  "describedBy" : {
+    "sourceOrganization" : {
+      "id" : "http://lobid.org/organisations/004250489-DUE01_todo",
+      "label" : "lobid Organisation"
+    },
+    "dateCreated" : "20200701",
+    "id" : "https://lobid.org/resources/ALMA990042504890206443",
+    "label" : "Webseite der hbz-Ressource ALMA990042504890206443",
+    "type" : [ "BibliographicDescription" ],
+    "inDataset" : {
+      "id" : "http://lobid.org/resources/dataset#!",
+      "label" : "lobid-resources – Der hbz-Verbundkatalog als Linked Open Data"
+    },
+    "resultOf" : {
+      "type" : [ "CreateAction" ],
+      "endTime" : "2020-11-19T10:20:01",
+      "instrument" : {
+        "id" : "https://github.com/hbz/lobid-resources",
+        "type" : [ "SoftwareApplication" ],
+        "label" : "Software lobid-resources"
+      },
+      "object" : {
+        "id" : "https://lobid.org/hbz01/ALMA990042504890206443_todo",
+        "type" : [ "DataFeedItem" ],
+        "label" : "hbz-Ressource ALMA990042504890206443 im Exportformat MARC21 XML",
+        "inDataset" : {
+          "id" : "https://datahub.io/dataset/hbz_unioncatalog",
+          "label" : "hbz_unioncatalog"
+        }
+      }
+    },
+    "license" : [ {
+      "id" : "http://creativecommons.org/publicdomain/zero/1.0",
+      "label" : "Creative Commons-Lizenz CC0 1.0 Universal"
+    } ]
+  }
+}
+{
+  "almaIdMMS" : "990033455520206443",
+  "title" : "Horizon, vertige et Italie intercalaire",
+  "type" : [ "Book", "BibliographicResource" ],
+  "pchbz_date[]_wegmal" : {
+    "" : "1986"
+  },
+  "collection_pchbz_eher_zu_item" : "DE-61",
+  "@context" : "https://lobid.org/resources/context.jsonld",
+  "hbzId" : "HTHT018410339",
+  "id" : "https://lobid.org/resources/HTHT018410339#!",
+  "language" : [ {
+    "label" : "Französisch",
+    "id" : "http://id.loc.gov/vocabulary/iso639-2/fre"
+  } ],
+  "contribution" : [ {
+    "role" : {
+      "id" : "http://id.loc.gov/vocabulary/relators/cre",
+      "label" : "Autor/in"
+    },
+    "type" : [ "Contribution" ],
+    "agent" : {
+      "label" : "Portante, Jean",
+      "type" : [ "Person" ]
+    }
+  } ],
+  "publication" : [ {
+    "location" : "Paris",
+    "publishedBy" : "ARCAM",
+    "startDate" : "1986",
+    "type" : [ "PublicationEvent" ]
+  } ],
+  "describedBy" : {
+    "sourceOrganization" : {
+      "id" : "http://lobid.org/organisations/003345552-DUE01_todo",
+      "label" : "lobid Organisation"
+    },
+    "dateCreated" : "20200701",
+    "id" : "https://lobid.org/resources/HTHT018410339",
+    "label" : "Webseite der hbz-Ressource HTHT018410339",
+    "type" : [ "BibliographicDescription" ],
+    "inDataset" : {
+      "id" : "http://lobid.org/resources/dataset#!",
+      "label" : "lobid-resources – Der hbz-Verbundkatalog als Linked Open Data"
+    },
+    "resultOf" : {
+      "type" : [ "CreateAction" ],
+      "endTime" : "2020-11-19T10:20:01",
+      "instrument" : {
+        "id" : "https://github.com/hbz/lobid-resources",
+        "type" : [ "SoftwareApplication" ],
+        "label" : "Software lobid-resources"
+      },
+      "object" : {
+        "id" : "https://lobid.org/hbz01/HTHT018410339_todo",
+        "type" : [ "DataFeedItem" ],
+        "label" : "hbz-Ressource HTHT018410339 im Exportformat MARC21 XML",
+        "inDataset" : {
+          "id" : "https://datahub.io/dataset/hbz_unioncatalog",
+          "label" : "hbz_unioncatalog"
+        }
+      }
+    },
+    "license" : [ {
+      "id" : "http://creativecommons.org/publicdomain/zero/1.0",
+      "label" : "Creative Commons-Lizenz CC0 1.0 Universal"
+    } ]
+  }
+}
+{
+  "almaIdMMS" : "990033458960206443",
+  "title" : "Imi Knoebel in der Neuen Nationalgalerie Berlin",
+  "type" : [ "Book", "BibliographicResource" ],
+  "pchbz_date[]_wegmal" : {
+    "" : "2014"
+  },
+  "collection_pchbz_eher_zu_item" : "DE-61",
+  "@context" : "https://lobid.org/resources/context.jsonld",
+  "hbzId" : "HTHT018411735",
+  "id" : "https://lobid.org/resources/HTHT018411735#!",
+  "language" : [ {
+    "label" : "Deutsch",
+    "id" : "http://id.loc.gov/vocabulary/iso639-2/ger"
+  }, {
+    "label" : "Englisch",
+    "id" : "http://id.loc.gov/vocabulary/iso639-2/eng"
+  } ],
+  "isbn" : [ "9783944874142", "Gb. : EUR 49.90" ],
+  "contribution" : [ {
+    "role" : {
+      "id" : "http://id.loc.gov/vocabulary/relators/cre",
+      "label" : "Autor/in"
+    },
+    "type" : [ "Contribution" ],
+    "agent" : {
+      "label" : "Blume, Eugen",
+      "type" : [ "Person" ]
+    }
+  }, {
+    "agent" : {
+      "type" : "Person",
+      "label" : "Eugen Blume"
+    },
+    "type" : "Contribution",
+    "role" : {
+      "id" : "http://id.loc.gov/vocabulary/relators/cre",
+      "label" : "Autor/in"
+    }
+  }, {
+    "role" : {
+      "id" : "http://id.loc.gov/vocabulary/relators/ctb",
+      "label" : "Mitwirkende"
+    },
+    "type" : [ "Contribution" ],
+    "agent" : {
+      "label" : "Neue Nationalgalerie Berlin",
+      "type" : [ "CorporateBody" ]
+    }
+  } ],
+  "publication" : [ {
+    "location" : "München",
+    "publishedBy" : "Sieveking",
+    "startDate" : "2014",
+    "type" : [ "PublicationEvent" ]
+  } ],
+  "extent" : "ca. 140 S. ; 30 cm",
+  "hasVersion" : [ {
+    "id" : "http://deposit.d-nb.de/cgi-bin/dokserv?id=4669562&prov=M&dok_var=1&dok_ext=htm"
+  } ],
+  "related" : [ {
+    "id" : "Inhaltstext"
+  } ],
+  "describedBy" : {
+    "sourceOrganization" : {
+      "id" : "http://lobid.org/organisations/003345896-DUE01_todo",
+      "label" : "lobid Organisation"
+    },
+    "dateCreated" : "20200701",
+    "id" : "https://lobid.org/resources/HTHT018411735",
+    "label" : "Webseite der hbz-Ressource HTHT018411735",
+    "type" : [ "BibliographicDescription" ],
+    "inDataset" : {
+      "id" : "http://lobid.org/resources/dataset#!",
+      "label" : "lobid-resources – Der hbz-Verbundkatalog als Linked Open Data"
+    },
+    "resultOf" : {
+      "type" : [ "CreateAction" ],
+      "endTime" : "2020-11-19T10:20:01",
+      "instrument" : {
+        "id" : "https://github.com/hbz/lobid-resources",
+        "type" : [ "SoftwareApplication" ],
+        "label" : "Software lobid-resources"
+      },
+      "object" : {
+        "id" : "https://lobid.org/hbz01/HTHT018411735_todo",
+        "type" : [ "DataFeedItem" ],
+        "label" : "hbz-Ressource HTHT018411735 im Exportformat MARC21 XML",
         "inDataset" : {
           "id" : "https://datahub.io/dataset/hbz_unioncatalog",
           "label" : "hbz_unioncatalog"

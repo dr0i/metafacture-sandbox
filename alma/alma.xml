@@ -14,6 +14,9 @@
     <data name="@uid" source="035  .a">
       <regexp match="^\($[catalogid]\).*"/>
     </data>
+		<data name="\@context" source="@id">
+			<constant value="https://lobid.org/resources/context.jsonld"/>
+		</data>
     <data name="@uid" source="981  .a"/>
     <!-- SISIS CATKey -->
     <entity name="DateFirst">
