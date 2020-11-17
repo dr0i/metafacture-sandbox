@@ -212,12 +212,13 @@
         <replace pattern="\s?\.?\s?$" with="" />
       </data>
 
-  <entity name="TitleAddendum">
-    <data name="title" source="245??.b">
+  <entity name="otherTitleInformation[]">
+    <data name="" source="245??.b">
       <occurrence only="1" />
       <replace pattern="\s?[./]\s?$" with="" />
     </data>
   </entity>
+
   <entity name="VolumeDesignation">
     <data name="volumeDesignation" source="245??.n">
       <occurrence only="1" />
@@ -226,7 +227,7 @@
   </entity>
 
 <!-- TODO: mit anderen contribution mergen. Ist das überhaupt ein creator? -->
-  <entity name="contribution[]">
+  <entity name="contribution_todo[]">
 		<entity name="" sameEntity="true" >
 			<entity name="agent">
 				<data name="type" source="245[01]?.c">
