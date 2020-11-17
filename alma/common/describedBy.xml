@@ -56,7 +56,7 @@
 					</data>
 				</entity>
 				<data name="label" source="@id">
-					<regexp match="(.*)" format="hbz-Ressource ${1} im Exportformat MARC XML"/>
+					<regexp match="(.*)" format="hbz-Ressource ${1} im Exportformat MARC21 XML"/>
 				</data>
 				<entity name="inDataset">
 					<data name="id" source="@id">
