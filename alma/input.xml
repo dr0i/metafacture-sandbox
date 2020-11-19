@@ -1,0 +1,2034 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+  <record>
+    <leader>00000nam#a2200000#c#4500</leader>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">KUR00770926</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>00000nam#a2200000#c#4500</leader>
+    <controlfield tag="005">20200518164500.0</controlfield>
+    <controlfield tag="007">cu#|||||||||||</controlfield>
+    <controlfield tag="007">tu</controlfield>
+    <controlfield tag="008">190923|2009####xx############|||#|#eng#c</controlfield>
+    <controlfield tag="009">KUR00770729</controlfield>
+    <controlfield tag="001">990042506090206443</controlfield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">KUR00770729</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(DE-61)KUR00770729</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(Aleph)004250609DUE01</subfield>
+    </datafield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">9780735626218</subfield>
+      <subfield code="0">(uri) http://www.isbnsearch.org/isbn/9780735626218</subfield>
+    </datafield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">0735626219</subfield>
+      <subfield code="0">(uri) http://www.isbnsearch.org/isbn/0735626219</subfield>
+    </datafield>
+    <datafield tag="041" ind1=" " ind2=" ">
+      <subfield code="a">eng</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Esposito, Dino</subfield>
+      <subfield code="4">aut</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Microsoft ASP.NET and Ajax</subfield>
+      <subfield code="b">architecting Web applications</subfield>
+      <subfield code="c">by Dino Esposito</subfield>
+    </datafield>
+    <datafield tag="264" ind1=" " ind2="1">
+      <subfield code="a">Redmond, Wash.</subfield>
+      <subfield code="b">Microsoft Press</subfield>
+      <subfield code="c">c2009</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">1 v. (unpaged)</subfield>
+      <subfield code="b">ill</subfield>
+    </datafield>
+    <datafield tag="336" ind1=" " ind2=" ">
+      <subfield code="b">txt</subfield>
+    </datafield>
+    <datafield tag="337" ind1=" " ind2=" ">
+      <subfield code="b">c</subfield>
+    </datafield>
+    <datafield tag="338" ind1=" " ind2=" ">
+      <subfield code="b">cr</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Title from resource description page. - Includes index</subfield>
+      <subfield code="9">F:501</subfield>
+    </datafield>
+    <datafield tag="533" ind1=" " ind2=" ">
+      <subfield code="a">Electronic reproduction</subfield>
+      <subfield code="b">Boston, Mass.</subfield>
+      <subfield code="c">Safari Books Online</subfield>
+    </datafield>
+    <datafield tag="583" ind1=" " ind2=" ">
+      <subfield code="h">2009</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="4">
+      <subfield code="a">Web sites / Design</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="4">
+      <subfield code="a">Ajax (Web site development technology)</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="4">
+      <subfield code="a">Microsoft .NET.</subfield>
+    </datafield>
+    <datafield tag="688" ind1=" " ind2=" ">
+      <subfield code="a">Active server pages</subfield>
+    </datafield>
+    <datafield tag="710" ind1="2" ind2=" ">
+      <subfield code="a">Microsoft Corporation</subfield>
+      <subfield code="4">oth</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2=" ">
+      <subfield code="z">Connect to this resource online</subfield>
+      <subfield code="u">http://proquest.tech.safaribooksonline.de/?uiCode=Duesseldorf&amp;xmlId=9780735626218</subfield>
+      <subfield code="z">Zugriff nur im Hochschulnetz der Universität Düsseldorf</subfield>
+    </datafield>
+    <datafield tag="980" ind1="1" ind2=" ">
+      <subfield code="e">safari-2019</subfield>
+      <subfield code="9">LOCAL</subfield>
+    </datafield>
+    <datafield tag="MBD" ind1=" " ind2=" ">
+      <subfield code="M">49HBZ_DUE</subfield>
+      <subfield code="i">990042506090206443</subfield>
+      <subfield code="n">Universität Düsseldorf</subfield>
+    </datafield>
+    <datafield tag="MNG" ind1=" " ind2=" ">
+      <subfield code="f">ILS</subfield>
+      <subfield code="i">marc21</subfield>
+      <subfield code="k">01</subfield>
+      <subfield code="e">false</subfield>
+      <subfield code="g">004250609-DUE01</subfield>
+      <subfield code="j">00</subfield>
+      <subfield code="a">import</subfield>
+      <subfield code="b">2020-07-01 12:09:43 Europe/Berlin</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>00000nam#a2200000#c#4500</leader>
+    <controlfield tag="005">20200518164500.0</controlfield>
+    <controlfield tag="007">cu#|||||||||||</controlfield>
+    <controlfield tag="007">tu</controlfield>
+    <controlfield tag="008">190923|2010####xx############|||#|#eng#c</controlfield>
+    <controlfield tag="009">KUR00770801</controlfield>
+    <controlfield tag="001">990042506810206443</controlfield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">KUR00770801</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(DE-61)KUR00770801</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(Aleph)004250681DUE01</subfield>
+    </datafield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">9780735638884</subfield>
+      <subfield code="0">(uri) http://www.isbnsearch.org/isbn/9780735638884</subfield>
+    </datafield>
+    <datafield tag="041" ind1=" " ind2=" ">
+      <subfield code="a">eng</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Patrick, Tim</subfield>
+      <subfield code="4">aut</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Microsoft ADO.NET 4 step by step</subfield>
+      <subfield code="c">Tim Patrick</subfield>
+    </datafield>
+    <datafield tag="264" ind1=" " ind2="1">
+      <subfield code="a">Sebastopol, Calif.</subfield>
+      <subfield code="b">O'Reilly Media</subfield>
+      <subfield code="c">c2010</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">1 online resource (xxiii, 411 p.)</subfield>
+      <subfield code="b">ill</subfield>
+    </datafield>
+    <datafield tag="336" ind1=" " ind2=" ">
+      <subfield code="b">txt</subfield>
+    </datafield>
+    <datafield tag="337" ind1=" " ind2=" ">
+      <subfield code="b">c</subfield>
+    </datafield>
+    <datafield tag="338" ind1=" " ind2=" ">
+      <subfield code="b">cr</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Includes index</subfield>
+      <subfield code="9">F:501</subfield>
+    </datafield>
+    <datafield tag="520" ind1=" " ind2=" ">
+      <subfield code="a">Provides tutorials and examples on using ADO.NET 4 to create datacentric applications for Windows and the Web</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="4">
+      <subfield code="a">Microsoft .NET Framework</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="4">
+      <subfield code="a">Database design</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="4">
+      <subfield code="a">Object-oriented programming (Computer science)</subfield>
+    </datafield>
+    <datafield tag="688" ind1=" " ind2=" ">
+      <subfield code="a">Microsoft LINQ.</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2=" ">
+      <subfield code="z">Connect to this resource online</subfield>
+      <subfield code="u">http://proquest.tech.safaribooksonline.de/?uiCode=Duesseldorf&amp;xmlId=9780735656260</subfield>
+      <subfield code="z">Zugriff nur im Hochschulnetz der Universität Düsseldorf</subfield>
+    </datafield>
+    <datafield tag="980" ind1="1" ind2=" ">
+      <subfield code="e">safari-2019</subfield>
+      <subfield code="9">LOCAL</subfield>
+    </datafield>
+    <datafield tag="MBD" ind1=" " ind2=" ">
+      <subfield code="M">49HBZ_DUE</subfield>
+      <subfield code="i">990042506810206443</subfield>
+      <subfield code="n">Universität Düsseldorf</subfield>
+    </datafield>
+    <datafield tag="MNG" ind1=" " ind2=" ">
+      <subfield code="f">ILS</subfield>
+      <subfield code="i">marc21</subfield>
+      <subfield code="k">01</subfield>
+      <subfield code="e">false</subfield>
+      <subfield code="g">004250681-DUE01</subfield>
+      <subfield code="j">00</subfield>
+      <subfield code="a">import</subfield>
+      <subfield code="b">2020-07-01 12:09:43 Europe/Berlin</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>00000nam#a2200000#c#4500</leader>
+    <controlfield tag="005">20200518164500.0</controlfield>
+    <controlfield tag="007">cu#|||||||||||</controlfield>
+    <controlfield tag="007">tu</controlfield>
+    <controlfield tag="008">190923|2010####xx############|||#|#eng#c</controlfield>
+    <controlfield tag="009">KUR00770775</controlfield>
+    <controlfield tag="001">990042506550206443</controlfield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">KUR00770775</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(DE-61)KUR00770775</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(Aleph)004250655DUE01</subfield>
+    </datafield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">9780735647411</subfield>
+      <subfield code="0">(uri) http://www.isbnsearch.org/isbn/9780735647411</subfield>
+    </datafield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">0735647410</subfield>
+      <subfield code="0">(uri) http://www.isbnsearch.org/isbn/0735647410</subfield>
+    </datafield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">9780735626928</subfield>
+      <subfield code="c">(pbk.)</subfield>
+      <subfield code="0">(uri) http://www.isbnsearch.org/isbn/9780735626928</subfield>
+    </datafield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">0735626928</subfield>
+      <subfield code="c">(pbk.)</subfield>
+      <subfield code="0">(uri) http://www.isbnsearch.org/isbn/0735626928</subfield>
+    </datafield>
+    <datafield tag="041" ind1=" " ind2=" ">
+      <subfield code="a">eng</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Cox, Joyce</subfield>
+      <subfield code="4">aut</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Microsoft Access 2010 step by step</subfield>
+      <subfield code="c">Joyce Cox, Joan Lambert</subfield>
+    </datafield>
+    <datafield tag="246" ind1="1" ind2="1">
+      <subfield code="a">Access 2010 step by step</subfield>
+    </datafield>
+    <datafield tag="246" ind1="1" ind2="1">
+      <subfield code="a">Step by step Microsoft Access 2010</subfield>
+    </datafield>
+    <datafield tag="264" ind1=" " ind2="1">
+      <subfield code="a">Redmond, Wash.</subfield>
+      <subfield code="b">Microsoft Press</subfield>
+      <subfield code="c">c2010</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">1 online resource (xxix, 413 p.)</subfield>
+      <subfield code="b">ill</subfield>
+    </datafield>
+    <datafield tag="336" ind1=" " ind2=" ">
+      <subfield code="b">txt</subfield>
+    </datafield>
+    <datafield tag="337" ind1=" " ind2=" ">
+      <subfield code="b">c</subfield>
+    </datafield>
+    <datafield tag="338" ind1=" " ind2=" ">
+      <subfield code="b">cr</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">"Build a database from scratch or ready templates; create easy-to-use forms for data entry; write queries to extract and manipulate data; design reports to organize and summarize data; import data from other databases and documents; help prevent data corruption and unauthorized access"--P. [4] of cover. - "Follow the easy numbered steps; use screenshots to check your work; get helpful tips and pointers; build your skills hands-on using ready-made practice files"--P. [4] of cover. - Includes index</subfield>
+      <subfield code="9">F:501</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="4">
+      <subfield code="a">Database management</subfield>
+    </datafield>
+    <datafield tag="688" ind1=" " ind2=" ">
+      <subfield code="a">Microsoft Access</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Lambert, Joan</subfield>
+      <subfield code="4">oth</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2=" ">
+      <subfield code="z">Connect to this resource online</subfield>
+      <subfield code="u">http://proquest.tech.safaribooksonline.de/?uiCode=Duesseldorf&amp;xmlId=9780735647411</subfield>
+      <subfield code="z">Zugriff nur im Hochschulnetz der Universität Düsseldorf</subfield>
+    </datafield>
+    <datafield tag="980" ind1="1" ind2=" ">
+      <subfield code="e">safari-2019</subfield>
+      <subfield code="9">LOCAL</subfield>
+    </datafield>
+    <datafield tag="MBD" ind1=" " ind2=" ">
+      <subfield code="M">49HBZ_DUE</subfield>
+      <subfield code="i">990042506550206443</subfield>
+      <subfield code="n">Universität Düsseldorf</subfield>
+    </datafield>
+    <datafield tag="MNG" ind1=" " ind2=" ">
+      <subfield code="f">ILS</subfield>
+      <subfield code="i">marc21</subfield>
+      <subfield code="k">01</subfield>
+      <subfield code="e">false</subfield>
+      <subfield code="g">004250655-DUE01</subfield>
+      <subfield code="j">00</subfield>
+      <subfield code="a">import</subfield>
+      <subfield code="b">2020-07-01 12:09:43 Europe/Berlin</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>00000nam#a2200000#c#4500</leader>
+    <controlfield tag="005">20200518164500.0</controlfield>
+    <controlfield tag="007">cu#|||||||||||</controlfield>
+    <controlfield tag="007">tu</controlfield>
+    <controlfield tag="008">190923|2011####xx############|||#|#eng#c</controlfield>
+    <controlfield tag="009">KUR00770844</controlfield>
+    <controlfield tag="001">990042507240206443</controlfield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">KUR00770844</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(DE-61)KUR00770844</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(Aleph)004250724DUE01</subfield>
+    </datafield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">9780735638853</subfield>
+      <subfield code="0">(uri) http://www.isbnsearch.org/isbn/9780735638853</subfield>
+    </datafield>
+    <datafield tag="041" ind1=" " ind2=" ">
+      <subfield code="a">eng</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Holme, Dan</subfield>
+      <subfield code="4">aut</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Configuring Microsoft SharePoint 2010</subfield>
+      <subfield code="b">self-paced training kit</subfield>
+      <subfield code="c">Dan Holme, Alistair Matthews</subfield>
+    </datafield>
+    <datafield tag="246" ind1="1" ind2="1">
+      <subfield code="a">MCTS self-paced training kit (exam 70-667)</subfield>
+    </datafield>
+    <datafield tag="246" ind1="1" ind2="1">
+      <subfield code="a">Configuring SharePoint 2010</subfield>
+    </datafield>
+    <datafield tag="264" ind1=" " ind2="1">
+      <subfield code="a">Redmond, WA</subfield>
+      <subfield code="b">Microsoft Press</subfield>
+      <subfield code="c">c2011</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">1 online resource (xxxi, 821 p.)</subfield>
+      <subfield code="b">ill</subfield>
+    </datafield>
+    <datafield tag="336" ind1=" " ind2=" ">
+      <subfield code="b">txt</subfield>
+    </datafield>
+    <datafield tag="337" ind1=" " ind2=" ">
+      <subfield code="b">c</subfield>
+    </datafield>
+    <datafield tag="338" ind1=" " ind2=" ">
+      <subfield code="b">cr</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Cover title. - "MCTS exam 70-667.". - Includes index</subfield>
+      <subfield code="9">F:501</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="4">
+      <subfield code="a">Electronic data processing personnel / Certification</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="4">
+      <subfield code="a">Intranets (Computer networks) / Management / Examinations / Study guides</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="4">
+      <subfield code="a">Web servers / Management / Examinations / Study guides</subfield>
+    </datafield>
+    <datafield tag="688" ind1=" " ind2=" ">
+      <subfield code="a">Microsoft SharePoint (Electronic resource)</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Matthews, Alistair</subfield>
+      <subfield code="4">oth</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2=" ">
+      <subfield code="z">Connect to this resource online</subfield>
+      <subfield code="u">http://proquest.tech.safaribooksonline.de/?uiCode=Duesseldorf&amp;xmlId=9780735664760</subfield>
+      <subfield code="z">Zugriff nur im Hochschulnetz der Universität Düsseldorf</subfield>
+    </datafield>
+    <datafield tag="980" ind1="1" ind2=" ">
+      <subfield code="e">safari-2019</subfield>
+      <subfield code="9">LOCAL</subfield>
+    </datafield>
+    <datafield tag="MBD" ind1=" " ind2=" ">
+      <subfield code="M">49HBZ_DUE</subfield>
+      <subfield code="i">990042507240206443</subfield>
+      <subfield code="n">Universität Düsseldorf</subfield>
+    </datafield>
+    <datafield tag="MNG" ind1=" " ind2=" ">
+      <subfield code="f">ILS</subfield>
+      <subfield code="i">marc21</subfield>
+      <subfield code="k">01</subfield>
+      <subfield code="e">false</subfield>
+      <subfield code="g">004250724-DUE01</subfield>
+      <subfield code="j">00</subfield>
+      <subfield code="a">import</subfield>
+      <subfield code="b">2020-07-01 12:09:43 Europe/Berlin</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>00000nam#a2200000#c#4500</leader>
+    <controlfield tag="005">20200518164500.0</controlfield>
+    <controlfield tag="007">cu#|||||||||||</controlfield>
+    <controlfield tag="007">tu</controlfield>
+    <controlfield tag="008">190923|2006####xx############|||#|#eng#c</controlfield>
+    <controlfield tag="009">KUR00770593</controlfield>
+    <controlfield tag="001">990042504730206443</controlfield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">KUR00770593</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(DE-61)KUR00770593</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(Aleph)004250473DUE01</subfield>
+    </datafield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">9780735622654</subfield>
+      <subfield code="0">(uri) http://www.isbnsearch.org/isbn/9780735622654</subfield>
+    </datafield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">0735622655</subfield>
+      <subfield code="0">(uri) http://www.isbnsearch.org/isbn/0735622655</subfield>
+    </datafield>
+    <datafield tag="041" ind1=" " ind2=" ">
+      <subfield code="a">eng</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Murray, Katherine</subfield>
+      <subfield code="4">aut</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">First look 2007 Microsoft Office system</subfield>
+      <subfield code="c">by Katherine Murray</subfield>
+    </datafield>
+    <datafield tag="246" ind1="1" ind2="1">
+      <subfield code="a">Microsoft Office 2007</subfield>
+    </datafield>
+    <datafield tag="264" ind1=" " ind2="1">
+      <subfield code="a">Redmond, Wash.</subfield>
+      <subfield code="b">Microsoft Press</subfield>
+      <subfield code="c">2006</subfield>
+    </datafield>
+    <datafield tag="336" ind1=" " ind2=" ">
+      <subfield code="b">txt</subfield>
+    </datafield>
+    <datafield tag="337" ind1=" " ind2=" ">
+      <subfield code="b">c</subfield>
+    </datafield>
+    <datafield tag="338" ind1=" " ind2=" ">
+      <subfield code="b">cr</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Includes index</subfield>
+      <subfield code="9">F:501</subfield>
+    </datafield>
+    <datafield tag="533" ind1=" " ind2=" ">
+      <subfield code="a">Electronic reproduction</subfield>
+      <subfield code="b">Boston, Mass.</subfield>
+      <subfield code="c">Safari Books Online</subfield>
+    </datafield>
+    <datafield tag="583" ind1=" " ind2=" ">
+      <subfield code="h">2006</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="4">
+      <subfield code="a">Business / Computer programs</subfield>
+    </datafield>
+    <datafield tag="688" ind1=" " ind2=" ">
+      <subfield code="a">Microsoft Office</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2=" ">
+      <subfield code="z">Connect to this resource online</subfield>
+      <subfield code="u">http://proquest.tech.safaribooksonline.de/?uiCode=Duesseldorf&amp;xmlId=9780735622654</subfield>
+      <subfield code="z">Zugriff nur im Hochschulnetz der Universität Düsseldorf</subfield>
+    </datafield>
+    <datafield tag="980" ind1="1" ind2=" ">
+      <subfield code="e">safari-2019</subfield>
+      <subfield code="9">LOCAL</subfield>
+    </datafield>
+    <datafield tag="MBD" ind1=" " ind2=" ">
+      <subfield code="M">49HBZ_DUE</subfield>
+      <subfield code="i">990042504730206443</subfield>
+      <subfield code="n">Universität Düsseldorf</subfield>
+    </datafield>
+    <datafield tag="MNG" ind1=" " ind2=" ">
+      <subfield code="f">ILS</subfield>
+      <subfield code="i">marc21</subfield>
+      <subfield code="k">01</subfield>
+      <subfield code="e">false</subfield>
+      <subfield code="g">004250473-DUE01</subfield>
+      <subfield code="j">00</subfield>
+      <subfield code="a">import</subfield>
+      <subfield code="b">2020-07-01 12:09:43 Europe/Berlin</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>00000nam#a2200000#c#4500</leader>
+    <controlfield tag="005">20200518164500.0</controlfield>
+    <controlfield tag="007">cu#|||||||||||</controlfield>
+    <controlfield tag="007">tu</controlfield>
+    <controlfield tag="008">190923|2013####xx############|||#|#eng#c</controlfield>
+    <controlfield tag="009">KUR00770953</controlfield>
+    <controlfield tag="001">990042508330206443</controlfield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">KUR00770953</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(DE-61)KUR00770953</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(Aleph)004250833DUE01</subfield>
+    </datafield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">9780735669093</subfield>
+      <subfield code="0">(uri) http://www.isbnsearch.org/isbn/9780735669093</subfield>
+    </datafield>
+    <datafield tag="041" ind1=" " ind2=" ">
+      <subfield code="a">eng</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Lambert, Joan</subfield>
+      <subfield code="4">aut</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Microsoft Outlook 2013</subfield>
+      <subfield code="b">step by step</subfield>
+      <subfield code="c">Joan Lambert, Joyce Cox</subfield>
+    </datafield>
+    <datafield tag="246" ind1="1" ind2="1">
+      <subfield code="a">Outlook 2013 step by step</subfield>
+    </datafield>
+    <datafield tag="264" ind1=" " ind2="1">
+      <subfield code="a">Redmond, WA</subfield>
+      <subfield code="b">Microsoft Press</subfield>
+      <subfield code="c">c2013</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">1 online resource (1 v.)</subfield>
+      <subfield code="b">ill</subfield>
+    </datafield>
+    <datafield tag="336" ind1=" " ind2=" ">
+      <subfield code="b">txt</subfield>
+    </datafield>
+    <datafield tag="337" ind1=" " ind2=" ">
+      <subfield code="b">c</subfield>
+    </datafield>
+    <datafield tag="338" ind1=" " ind2=" ">
+      <subfield code="b">cr</subfield>
+    </datafield>
+    <datafield tag="490" ind1="0" ind2=" ">
+      <subfield code="a">Step by step</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Includes index</subfield>
+      <subfield code="9">F:501</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Get started with Outlook 2013 -- Explore Outlook 2013 -- Send and receive email messages -- Store and access contact information -- Manage scheduling -- Track tasks -- Organize your inbox -- Manage your calendar -- Manage contact records -- Enhance message content -- Customize Outlook -- Manage email settings -- Work remotely</subfield>
+      <subfield code="9">F:517</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="4">
+      <subfield code="a">Personal information management</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="4">
+      <subfield code="a">Electronic mail systems / Computer programs</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="4">
+      <subfield code="a">Time management / Computer programs</subfield>
+    </datafield>
+    <datafield tag="688" ind1=" " ind2=" ">
+      <subfield code="a">Microsoft Outlook</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Cox, Joyce</subfield>
+      <subfield code="4">oth</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2=" ">
+      <subfield code="z">Connect to this resource online</subfield>
+      <subfield code="u">http://proquest.tech.safaribooksonline.de/?uiCode=Duesseldorf&amp;xmlId=9780735675582</subfield>
+      <subfield code="z">Zugriff nur im Hochschulnetz der Universität Düsseldorf</subfield>
+    </datafield>
+    <datafield tag="980" ind1="1" ind2=" ">
+      <subfield code="e">safari-2019</subfield>
+      <subfield code="9">LOCAL</subfield>
+    </datafield>
+    <datafield tag="MBD" ind1=" " ind2=" ">
+      <subfield code="M">49HBZ_DUE</subfield>
+      <subfield code="i">990042508330206443</subfield>
+      <subfield code="n">Universität Düsseldorf</subfield>
+    </datafield>
+    <datafield tag="MNG" ind1=" " ind2=" ">
+      <subfield code="f">ILS</subfield>
+      <subfield code="i">marc21</subfield>
+      <subfield code="k">01</subfield>
+      <subfield code="e">false</subfield>
+      <subfield code="g">004250833-DUE01</subfield>
+      <subfield code="j">00</subfield>
+      <subfield code="a">import</subfield>
+      <subfield code="b">2020-07-01 12:09:43 Europe/Berlin</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>00000nam#a2200000#c#4500</leader>
+    <controlfield tag="005">20200518164500.0</controlfield>
+    <controlfield tag="007">cu#|||||||||||</controlfield>
+    <controlfield tag="007">tu</controlfield>
+    <controlfield tag="008">190923|2010####xx############|||#|#eng#c</controlfield>
+    <controlfield tag="009">KUR00770791</controlfield>
+    <controlfield tag="001">990042506710206443</controlfield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">KUR00770791</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(DE-61)KUR00770791</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(Aleph)004250671DUE01</subfield>
+    </datafield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">9780735627192</subfield>
+      <subfield code="c">(pbk.)</subfield>
+      <subfield code="0">(uri) http://www.isbnsearch.org/isbn/9780735627192</subfield>
+    </datafield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">0735627193</subfield>
+      <subfield code="c">(pbk.)</subfield>
+      <subfield code="0">(uri) http://www.isbnsearch.org/isbn/0735627193</subfield>
+    </datafield>
+    <datafield tag="041" ind1=" " ind2=" ">
+      <subfield code="a">eng</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Jagott, Siegfried</subfield>
+      <subfield code="4">aut</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Microsoft Exchange Server 2010</subfield>
+      <subfield code="b">best practices</subfield>
+      <subfield code="c">Siegfried Jagott and Joel Stidley ; with the Microsoft Exchange Server Team</subfield>
+    </datafield>
+    <datafield tag="246" ind1="1" ind2="1">
+      <subfield code="a">Exchange Server 2010</subfield>
+    </datafield>
+    <datafield tag="264" ind1=" " ind2="1">
+      <subfield code="a">Redmond, Wash.</subfield>
+      <subfield code="b">Microsoft</subfield>
+      <subfield code="c">c2010</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">1 online resource (xl, 867 p.)</subfield>
+      <subfield code="b">ill</subfield>
+    </datafield>
+    <datafield tag="336" ind1=" " ind2=" ">
+      <subfield code="b">txt</subfield>
+    </datafield>
+    <datafield tag="337" ind1=" " ind2=" ">
+      <subfield code="b">c</subfield>
+    </datafield>
+    <datafield tag="338" ind1=" " ind2=" ">
+      <subfield code="b">cr</subfield>
+    </datafield>
+    <datafield tag="490" ind1="0" ind2=" ">
+      <subfield code="a">Best practices (Redmond, Wash.)</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Description based on print version record</subfield>
+      <subfield code="9">F:501</subfield>
+    </datafield>
+    <datafield tag="505" ind1="0" ind2=" ">
+      <subfield code="a">Includes bibliographical references and index</subfield>
+      <subfield code="9">F:517c</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="4">
+      <subfield code="a">Client/server computing</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="4">
+      <subfield code="a">Electronic mail systems</subfield>
+    </datafield>
+    <datafield tag="688" ind1=" " ind2=" ">
+      <subfield code="a">Microsoft Exchange server</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Stidley, Joel</subfield>
+      <subfield code="4">oth</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2=" ">
+      <subfield code="z">Connect to this resource online</subfield>
+      <subfield code="u">http://proquest.tech.safaribooksonline.de/?uiCode=Duesseldorf&amp;xmlId=9780735649149</subfield>
+      <subfield code="z">Zugriff nur im Hochschulnetz der Universität Düsseldorf</subfield>
+    </datafield>
+    <datafield tag="980" ind1="1" ind2=" ">
+      <subfield code="e">safari-2019</subfield>
+      <subfield code="9">LOCAL</subfield>
+    </datafield>
+    <datafield tag="MBD" ind1=" " ind2=" ">
+      <subfield code="M">49HBZ_DUE</subfield>
+      <subfield code="i">990042506710206443</subfield>
+      <subfield code="n">Universität Düsseldorf</subfield>
+    </datafield>
+    <datafield tag="MNG" ind1=" " ind2=" ">
+      <subfield code="f">ILS</subfield>
+      <subfield code="i">marc21</subfield>
+      <subfield code="k">01</subfield>
+      <subfield code="e">false</subfield>
+      <subfield code="g">004250671-DUE01</subfield>
+      <subfield code="j">00</subfield>
+      <subfield code="a">import</subfield>
+      <subfield code="b">2020-07-01 12:09:43 Europe/Berlin</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>00000nam#a2200000#c#4500</leader>
+    <controlfield tag="005">20200518164500.0</controlfield>
+    <controlfield tag="007">cu#|||||||||||</controlfield>
+    <controlfield tag="007">tu</controlfield>
+    <controlfield tag="008">190923|2001####xx############|||#|#eng#c</controlfield>
+    <controlfield tag="009">KUR00771384</controlfield>
+    <controlfield tag="001">990042512640206443</controlfield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">KUR00771384</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(DE-61)KUR00771384</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(Aleph)004251264DUE01</subfield>
+    </datafield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">9780080520032</subfield>
+      <subfield code="0">(uri) http://www.isbnsearch.org/isbn/9780080520032</subfield>
+    </datafield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">0080520030</subfield>
+      <subfield code="0">(uri) http://www.isbnsearch.org/isbn/0080520030</subfield>
+    </datafield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">9780750671750</subfield>
+      <subfield code="0">(uri) http://www.isbnsearch.org/isbn/9780750671750</subfield>
+    </datafield>
+    <datafield tag="041" ind1=" " ind2=" ">
+      <subfield code="a">eng</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Bigelow, Stephen J.</subfield>
+      <subfield code="4">aut</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Understanding telephone electronics</subfield>
+      <subfield code="c">Stephen J. Bigelow, Joseph J. Carr, Steve Winder</subfield>
+    </datafield>
+    <datafield tag="246" ind1="1" ind2="1">
+      <subfield code="a">Telephone electronics</subfield>
+    </datafield>
+    <datafield tag="250" ind1=" " ind2=" ">
+      <subfield code="a">4th ed</subfield>
+    </datafield>
+    <datafield tag="264" ind1=" " ind2="1">
+      <subfield code="a">Boston</subfield>
+      <subfield code="b">Newnes</subfield>
+      <subfield code="c">c2001</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">1 online resource (xiv, 402 p.)</subfield>
+      <subfield code="b">ill</subfield>
+    </datafield>
+    <datafield tag="336" ind1=" " ind2=" ">
+      <subfield code="b">txt</subfield>
+    </datafield>
+    <datafield tag="337" ind1=" " ind2=" ">
+      <subfield code="b">c</subfield>
+    </datafield>
+    <datafield tag="338" ind1=" " ind2=" ">
+      <subfield code="b">cr</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Includes index</subfield>
+      <subfield code="9">F:501</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="4">
+      <subfield code="a">Telephone</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Carr, Joseph J.</subfield>
+      <subfield code="4">oth</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Winder, Steve</subfield>
+      <subfield code="4">oth</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2=" ">
+      <subfield code="z">Connect to this resource online</subfield>
+      <subfield code="u">http://proquest.tech.safaribooksonline.de/?uiCode=Duesseldorf&amp;xmlId=9780750671750</subfield>
+      <subfield code="z">Zugriff nur im Hochschulnetz der Universität Düsseldorf</subfield>
+    </datafield>
+    <datafield tag="980" ind1="1" ind2=" ">
+      <subfield code="e">safari-2019</subfield>
+      <subfield code="9">LOCAL</subfield>
+    </datafield>
+    <datafield tag="MBD" ind1=" " ind2=" ">
+      <subfield code="M">49HBZ_DUE</subfield>
+      <subfield code="i">990042512640206443</subfield>
+      <subfield code="n">Universität Düsseldorf</subfield>
+    </datafield>
+    <datafield tag="MNG" ind1=" " ind2=" ">
+      <subfield code="f">ILS</subfield>
+      <subfield code="i">marc21</subfield>
+      <subfield code="k">01</subfield>
+      <subfield code="e">false</subfield>
+      <subfield code="g">004251264-DUE01</subfield>
+      <subfield code="j">00</subfield>
+      <subfield code="a">import</subfield>
+      <subfield code="b">2020-07-01 12:09:43 Europe/Berlin</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>00000nam#a2200000#c#4500</leader>
+    <controlfield tag="005">20200518164500.0</controlfield>
+    <controlfield tag="007">cu#|||||||||||</controlfield>
+    <controlfield tag="007">tu</controlfield>
+    <controlfield tag="008">190923|2009####xx############|||#|#eng#c</controlfield>
+    <controlfield tag="009">KUR00770727</controlfield>
+    <controlfield tag="001">990042506070206443</controlfield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">KUR00770727</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(DE-61)KUR00770727</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(Aleph)004250607DUE01</subfield>
+    </datafield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">9780735626188</subfield>
+      <subfield code="0">(uri) http://www.isbnsearch.org/isbn/9780735626188</subfield>
+    </datafield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">0735626189</subfield>
+      <subfield code="0">(uri) http://www.isbnsearch.org/isbn/0735626189</subfield>
+    </datafield>
+    <datafield tag="041" ind1=" " ind2=" ">
+      <subfield code="a">eng</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Smith, Bryan C.</subfield>
+      <subfield code="4">aut</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Microsoft SQL server 2008 MDX</subfield>
+      <subfield code="b">step by step</subfield>
+      <subfield code="c">Bryan C. Smith, C. Ryan Clay</subfield>
+    </datafield>
+    <datafield tag="264" ind1=" " ind2="1">
+      <subfield code="a">Redmond, Wash.</subfield>
+      <subfield code="b">Microsoft Press</subfield>
+      <subfield code="c">c2009</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">xxiii, 352 p.</subfield>
+      <subfield code="b">ill., ports</subfield>
+    </datafield>
+    <datafield tag="336" ind1=" " ind2=" ">
+      <subfield code="b">txt</subfield>
+    </datafield>
+    <datafield tag="337" ind1=" " ind2=" ">
+      <subfield code="b">c</subfield>
+    </datafield>
+    <datafield tag="338" ind1=" " ind2=" ">
+      <subfield code="b">cr</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">At head of t.p.: Microsoft. - Includes index</subfield>
+      <subfield code="9">F:501</subfield>
+    </datafield>
+    <datafield tag="533" ind1=" " ind2=" ">
+      <subfield code="a">Electronic reproduction</subfield>
+      <subfield code="b">Boston, Mass.</subfield>
+      <subfield code="c">Safari Books Online</subfield>
+    </datafield>
+    <datafield tag="583" ind1=" " ind2=" ">
+      <subfield code="h">2009</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="4">
+      <subfield code="a">MDX (Computer program language)</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="4">
+      <subfield code="a">Client/server computing</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="4">
+      <subfield code="a">Relational databases</subfield>
+    </datafield>
+    <datafield tag="688" ind1=" " ind2=" ">
+      <subfield code="a">SQL server</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Clay, C. Ryan</subfield>
+      <subfield code="4">oth</subfield>
+    </datafield>
+    <datafield tag="710" ind1="2" ind2=" ">
+      <subfield code="a">Microsoft Corporation</subfield>
+      <subfield code="4">oth</subfield>
+    </datafield>
+    <datafield tag="710" ind1="2" ind2=" ">
+      <subfield code="a">Hitachi Consulting</subfield>
+      <subfield code="4">oth</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2=" ">
+      <subfield code="z">Connect to this resource online</subfield>
+      <subfield code="u">http://proquest.tech.safaribooksonline.de/?uiCode=Duesseldorf&amp;xmlId=9780735626188</subfield>
+      <subfield code="z">Zugriff nur im Hochschulnetz der Universität Düsseldorf</subfield>
+    </datafield>
+    <datafield tag="980" ind1="1" ind2=" ">
+      <subfield code="e">safari-2019</subfield>
+      <subfield code="9">LOCAL</subfield>
+    </datafield>
+    <datafield tag="MBD" ind1=" " ind2=" ">
+      <subfield code="M">49HBZ_DUE</subfield>
+      <subfield code="i">990042506070206443</subfield>
+      <subfield code="n">Universität Düsseldorf</subfield>
+    </datafield>
+    <datafield tag="MNG" ind1=" " ind2=" ">
+      <subfield code="f">ILS</subfield>
+      <subfield code="i">marc21</subfield>
+      <subfield code="k">01</subfield>
+      <subfield code="e">false</subfield>
+      <subfield code="g">004250607-DUE01</subfield>
+      <subfield code="j">00</subfield>
+      <subfield code="a">import</subfield>
+      <subfield code="b">2020-07-01 12:09:43 Europe/Berlin</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>00000nam#a2200000#c#4500</leader>
+    <controlfield tag="005">20200518164500.0</controlfield>
+    <controlfield tag="007">cu#|||||||||||</controlfield>
+    <controlfield tag="007">tu</controlfield>
+    <controlfield tag="008">190923|2012####xx############|||#|#eng#c</controlfield>
+    <controlfield tag="009">KUR00770447</controlfield>
+    <controlfield tag="001">990042503270206443</controlfield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">KUR00770447</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(DE-61)KUR00770447</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(Aleph)004250327DUE01</subfield>
+    </datafield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">9780691102849</subfield>
+      <subfield code="0">(uri) http://www.isbnsearch.org/isbn/9780691102849</subfield>
+    </datafield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">0691102848</subfield>
+      <subfield code="0">(uri) http://www.isbnsearch.org/isbn/0691102848</subfield>
+    </datafield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">9781400843039</subfield>
+      <subfield code="0">(uri) http://www.isbnsearch.org/isbn/9781400843039</subfield>
+    </datafield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">1400843030</subfield>
+      <subfield code="0">(uri) http://www.isbnsearch.org/isbn/1400843030</subfield>
+    </datafield>
+    <datafield tag="041" ind1=" " ind2=" ">
+      <subfield code="a">eng</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Banks, Robert</subfield>
+      <subfield code="4">aut</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Slicing pizzas, racing turtles, and further adventures in applied mathematics</subfield>
+      <subfield code="c">Robert B. Banks</subfield>
+    </datafield>
+    <datafield tag="264" ind1=" " ind2="1">
+      <subfield code="a">Princeton, N.J.</subfield>
+      <subfield code="b">Princeton University Press</subfield>
+      <subfield code="c">2012, c1999</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">1 online resource (1 v.)</subfield>
+      <subfield code="b">ill</subfield>
+    </datafield>
+    <datafield tag="336" ind1=" " ind2=" ">
+      <subfield code="b">txt</subfield>
+    </datafield>
+    <datafield tag="337" ind1=" " ind2=" ">
+      <subfield code="b">c</subfield>
+    </datafield>
+    <datafield tag="338" ind1=" " ind2=" ">
+      <subfield code="b">cr</subfield>
+    </datafield>
+    <datafield tag="490" ind1="0" ind2=" ">
+      <subfield code="a">Princeton puzzlers</subfield>
+    </datafield>
+    <datafield tag="505" ind1="0" ind2=" ">
+      <subfield code="a">Includes bibliographical references and index</subfield>
+      <subfield code="9">F:517c</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="4">
+      <subfield code="a">Mathematics / Popular works</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2=" ">
+      <subfield code="z">Connect to this resource online</subfield>
+      <subfield code="u">http://proquest.tech.safaribooksonline.de/?uiCode=Duesseldorf&amp;xmlId=9780691102849</subfield>
+      <subfield code="z">Zugriff nur im Hochschulnetz der Universität Düsseldorf</subfield>
+    </datafield>
+    <datafield tag="980" ind1="1" ind2=" ">
+      <subfield code="e">safari-2019</subfield>
+      <subfield code="9">LOCAL</subfield>
+    </datafield>
+    <datafield tag="MBD" ind1=" " ind2=" ">
+      <subfield code="M">49HBZ_DUE</subfield>
+      <subfield code="i">990042503270206443</subfield>
+      <subfield code="n">Universität Düsseldorf</subfield>
+    </datafield>
+    <datafield tag="MNG" ind1=" " ind2=" ">
+      <subfield code="f">ILS</subfield>
+      <subfield code="i">marc21</subfield>
+      <subfield code="k">01</subfield>
+      <subfield code="e">false</subfield>
+      <subfield code="g">004250327-DUE01</subfield>
+      <subfield code="j">00</subfield>
+      <subfield code="a">import</subfield>
+      <subfield code="b">2020-07-01 12:09:43 Europe/Berlin</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>00000nam#a2200000#c#4500</leader>
+    <controlfield tag="005">20200518164500.0</controlfield>
+    <controlfield tag="007">cu#|||||||||||</controlfield>
+    <controlfield tag="007">tu</controlfield>
+    <controlfield tag="008">190923|2012####xx############|||#|#eng#c</controlfield>
+    <controlfield tag="009">KUR00770880</controlfield>
+    <controlfield tag="001">990042507600206443</controlfield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">KUR00770880</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(DE-61)KUR00770880</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(Aleph)004250760DUE01</subfield>
+    </datafield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">9780735669628</subfield>
+      <subfield code="0">(uri) http://www.isbnsearch.org/isbn/9780735669628</subfield>
+    </datafield>
+    <datafield tag="041" ind1=" " ind2=" ">
+      <subfield code="a">eng</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Pierce, John</subfield>
+      <subfield code="4">aut</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Team collaboration</subfield>
+      <subfield code="b">using Microsoft Office for more effective teamwork</subfield>
+      <subfield code="c">John Pierce</subfield>
+    </datafield>
+    <datafield tag="264" ind1=" " ind2="1">
+      <subfield code="a">Redmond, Wash.</subfield>
+      <subfield code="b">Microsoft Press</subfield>
+      <subfield code="c">2012</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">1 online resource (1 v.)</subfield>
+      <subfield code="b">ill</subfield>
+    </datafield>
+    <datafield tag="336" ind1=" " ind2=" ">
+      <subfield code="b">txt</subfield>
+    </datafield>
+    <datafield tag="337" ind1=" " ind2=" ">
+      <subfield code="b">c</subfield>
+    </datafield>
+    <datafield tag="338" ind1=" " ind2=" ">
+      <subfield code="b">cr</subfield>
+    </datafield>
+    <datafield tag="490" ind1="0" ind2=" ">
+      <subfield code="a">Business skills series</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Includes index</subfield>
+      <subfield code="9">F:501</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="4">
+      <subfield code="a">Project management / Computer programs</subfield>
+    </datafield>
+    <datafield tag="688" ind1=" " ind2=" ">
+      <subfield code="a">Microsoft Office</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2=" ">
+      <subfield code="z">Connect to this resource online</subfield>
+      <subfield code="u">http://proquest.tech.safaribooksonline.de/?uiCode=Duesseldorf&amp;xmlId=9780735669611</subfield>
+      <subfield code="z">Zugriff nur im Hochschulnetz der Universität Düsseldorf</subfield>
+    </datafield>
+    <datafield tag="980" ind1="1" ind2=" ">
+      <subfield code="e">safari-2019</subfield>
+      <subfield code="9">LOCAL</subfield>
+    </datafield>
+    <datafield tag="MBD" ind1=" " ind2=" ">
+      <subfield code="M">49HBZ_DUE</subfield>
+      <subfield code="i">990042507600206443</subfield>
+      <subfield code="n">Universität Düsseldorf</subfield>
+    </datafield>
+    <datafield tag="MNG" ind1=" " ind2=" ">
+      <subfield code="f">ILS</subfield>
+      <subfield code="i">marc21</subfield>
+      <subfield code="k">01</subfield>
+      <subfield code="e">false</subfield>
+      <subfield code="g">004250760-DUE01</subfield>
+      <subfield code="j">00</subfield>
+      <subfield code="a">import</subfield>
+      <subfield code="b">2020-07-01 12:09:43 Europe/Berlin</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>00000nam#a2200000#c#4500</leader>
+    <controlfield tag="005">20200518164500.0</controlfield>
+    <controlfield tag="007">cu#|||||||||||</controlfield>
+    <controlfield tag="007">tu</controlfield>
+    <controlfield tag="008">190923|2014####xx############|||#|#eng#c</controlfield>
+    <controlfield tag="009">KUR00770474</controlfield>
+    <controlfield tag="001">990042503540206443</controlfield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">KUR00770474</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(DE-61)KUR00770474</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(Aleph)004250354DUE01</subfield>
+    </datafield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">9781400848911</subfield>
+      <subfield code="0">(uri) http://www.isbnsearch.org/isbn/9781400848911</subfield>
+    </datafield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">1400848911</subfield>
+      <subfield code="0">(uri) http://www.isbnsearch.org/isbn/1400848911</subfield>
+    </datafield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">9780691151687</subfield>
+      <subfield code="0">(uri) http://www.isbnsearch.org/isbn/9780691151687</subfield>
+    </datafield>
+    <datafield tag="041" ind1=" " ind2=" ">
+      <subfield code="a">eng</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Statistics, data mining, and machine learning in astronomy</subfield>
+      <subfield code="b">a practical Python guide for the analysis of survey data</subfield>
+      <subfield code="c">Željko Ivezić ... [et al.]</subfield>
+    </datafield>
+    <datafield tag="246" ind1="1" ind2="1">
+      <subfield code="a">Practical Python guide for the analysis of survey data</subfield>
+    </datafield>
+    <datafield tag="264" ind1=" " ind2="1">
+      <subfield code="a">Princeton, N.J.</subfield>
+      <subfield code="b">Princeton University Press</subfield>
+      <subfield code="c">c2014</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">1 online resource (x, 540 p.)</subfield>
+      <subfield code="b">ill</subfield>
+    </datafield>
+    <datafield tag="336" ind1=" " ind2=" ">
+      <subfield code="b">txt</subfield>
+    </datafield>
+    <datafield tag="337" ind1=" " ind2=" ">
+      <subfield code="b">c</subfield>
+    </datafield>
+    <datafield tag="338" ind1=" " ind2=" ">
+      <subfield code="b">cr</subfield>
+    </datafield>
+    <datafield tag="490" ind1="0" ind2=" ">
+      <subfield code="a">Princeton series in modern observational astronomy</subfield>
+    </datafield>
+    <datafield tag="505" ind1="0" ind2=" ">
+      <subfield code="a">Includes bibliographical references and index</subfield>
+      <subfield code="9">F:517c</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="4">
+      <subfield code="a">Astronomy / Data processing</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="4">
+      <subfield code="a">Statistical astronomy</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="4">
+      <subfield code="a">Python (Computer program language)</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Ivezić, Ž‌eljko</subfield>
+      <subfield code="4">oth</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2=" ">
+      <subfield code="z">Connect to this resource online</subfield>
+      <subfield code="u">http://proquest.tech.safaribooksonline.de/?uiCode=Duesseldorf&amp;xmlId=9780691151687</subfield>
+      <subfield code="z">Zugriff nur im Hochschulnetz der Universität Düsseldorf</subfield>
+    </datafield>
+    <datafield tag="980" ind1="1" ind2=" ">
+      <subfield code="e">safari-2019</subfield>
+      <subfield code="9">LOCAL</subfield>
+    </datafield>
+    <datafield tag="MBD" ind1=" " ind2=" ">
+      <subfield code="M">49HBZ_DUE</subfield>
+      <subfield code="i">990042503540206443</subfield>
+      <subfield code="n">Universität Düsseldorf</subfield>
+    </datafield>
+    <datafield tag="MNG" ind1=" " ind2=" ">
+      <subfield code="f">ILS</subfield>
+      <subfield code="i">marc21</subfield>
+      <subfield code="k">01</subfield>
+      <subfield code="e">false</subfield>
+      <subfield code="g">004250354-DUE01</subfield>
+      <subfield code="j">00</subfield>
+      <subfield code="a">import</subfield>
+      <subfield code="b">2020-07-01 12:09:44 Europe/Berlin</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>00000nam#a2200000#c#4500</leader>
+    <controlfield tag="005">20200518164500.0</controlfield>
+    <controlfield tag="007">cu#|||||||||||</controlfield>
+    <controlfield tag="007">tu</controlfield>
+    <controlfield tag="008">190923|2007####xx############|||#|#eng#c</controlfield>
+    <controlfield tag="009">KUR00770623</controlfield>
+    <controlfield tag="001">990042505030206443</controlfield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">KUR00770623</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(DE-61)KUR00770623</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(Aleph)004250503DUE01</subfield>
+    </datafield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">9780735623248</subfield>
+      <subfield code="0">(uri) http://www.isbnsearch.org/isbn/9780735623248</subfield>
+    </datafield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">0735623244</subfield>
+      <subfield code="0">(uri) http://www.isbnsearch.org/isbn/0735623244</subfield>
+    </datafield>
+    <datafield tag="041" ind1=" " ind2=" ">
+      <subfield code="a">eng</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">2007 Microsoft Office system inside out</subfield>
+      <subfield code="c">Jim Boyce ... [et al.] ; John Pierce, contributing editor</subfield>
+    </datafield>
+    <datafield tag="264" ind1=" " ind2="1">
+      <subfield code="a">Redmond, Wash.</subfield>
+      <subfield code="b">Microsoft Press</subfield>
+      <subfield code="c">c2007</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">xxxiii, 1272 p.</subfield>
+      <subfield code="b">ill.</subfield>
+      <subfield code="c">23 cm. +</subfield>
+      <subfield code="e">1 CD-ROM (4 3/4 in.)</subfield>
+    </datafield>
+    <datafield tag="336" ind1=" " ind2=" ">
+      <subfield code="b">txt</subfield>
+    </datafield>
+    <datafield tag="337" ind1=" " ind2=" ">
+      <subfield code="b">c</subfield>
+    </datafield>
+    <datafield tag="338" ind1=" " ind2=" ">
+      <subfield code="b">cr</subfield>
+    </datafield>
+    <datafield tag="490" ind1="0" ind2=" ">
+      <subfield code="a">Inside out</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Includes index</subfield>
+      <subfield code="9">F:501</subfield>
+    </datafield>
+    <datafield tag="533" ind1=" " ind2=" ">
+      <subfield code="a">Electronic reproduction</subfield>
+      <subfield code="b">Boston, Mass.</subfield>
+      <subfield code="c">Safari Books Online</subfield>
+    </datafield>
+    <datafield tag="583" ind1=" " ind2=" ">
+      <subfield code="h">2008</subfield>
+    </datafield>
+    <datafield tag="688" ind1=" " ind2=" ">
+      <subfield code="a">Microsoft Office</subfield>
+    </datafield>
+    <datafield tag="688" ind1=" " ind2=" ">
+      <subfield code="a">Microsoft Access</subfield>
+    </datafield>
+    <datafield tag="688" ind1=" " ind2=" ">
+      <subfield code="a">Microsoft Outlook</subfield>
+    </datafield>
+    <datafield tag="688" ind1=" " ind2=" ">
+      <subfield code="a">Microsoft Excel (Computer file)</subfield>
+    </datafield>
+    <datafield tag="688" ind1=" " ind2=" ">
+      <subfield code="a">Microsoft Word</subfield>
+    </datafield>
+    <datafield tag="688" ind1=" " ind2=" ">
+      <subfield code="a">Microsoft PowerPoint (Computer file)</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Boyce, Jim</subfield>
+      <subfield code="4">oth</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Pierce, John</subfield>
+      <subfield code="4">oth</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2=" ">
+      <subfield code="z">Connect to this resource online</subfield>
+      <subfield code="u">http://proquest.tech.safaribooksonline.de/?uiCode=Duesseldorf&amp;xmlId=9780735623248</subfield>
+      <subfield code="z">Zugriff nur im Hochschulnetz der Universität Düsseldorf</subfield>
+    </datafield>
+    <datafield tag="980" ind1="1" ind2=" ">
+      <subfield code="e">safari-2019</subfield>
+      <subfield code="9">LOCAL</subfield>
+    </datafield>
+    <datafield tag="MBD" ind1=" " ind2=" ">
+      <subfield code="M">49HBZ_DUE</subfield>
+      <subfield code="i">990042505030206443</subfield>
+      <subfield code="n">Universität Düsseldorf</subfield>
+    </datafield>
+    <datafield tag="MNG" ind1=" " ind2=" ">
+      <subfield code="f">ILS</subfield>
+      <subfield code="i">marc21</subfield>
+      <subfield code="k">01</subfield>
+      <subfield code="e">false</subfield>
+      <subfield code="g">004250503-DUE01</subfield>
+      <subfield code="j">00</subfield>
+      <subfield code="a">import</subfield>
+      <subfield code="b">2020-07-01 12:09:44 Europe/Berlin</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>00000nam#a2200000#c#4500</leader>
+    <controlfield tag="005">20200518164500.0</controlfield>
+    <controlfield tag="007">cu#|||||||||||</controlfield>
+    <controlfield tag="007">tu</controlfield>
+    <controlfield tag="008">190923|2011####xx############|||#|#eng#c</controlfield>
+    <controlfield tag="009">KUR00770787</controlfield>
+    <controlfield tag="001">990042506670206443</controlfield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">KUR00770787</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(DE-61)KUR00770787</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(Aleph)004250667DUE01</subfield>
+    </datafield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">9780735627260</subfield>
+      <subfield code="c">(pbk.)</subfield>
+      <subfield code="0">(uri) http://www.isbnsearch.org/isbn/9780735627260</subfield>
+    </datafield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">0735627266</subfield>
+      <subfield code="c">(pbk.)</subfield>
+      <subfield code="0">(uri) http://www.isbnsearch.org/isbn/0735627266</subfield>
+    </datafield>
+    <datafield tag="041" ind1=" " ind2=" ">
+      <subfield code="a">eng</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Londer, Olga</subfield>
+      <subfield code="4">aut</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Microsoft SharePoint Foundation 2010</subfield>
+      <subfield code="b">step by step</subfield>
+      <subfield code="c">Olga Londer, Penelope Coventry</subfield>
+    </datafield>
+    <datafield tag="246" ind1="1" ind2="1">
+      <subfield code="a">Step by step Microsoft SharePoint Foundation 2010</subfield>
+    </datafield>
+    <datafield tag="264" ind1=" " ind2="1">
+      <subfield code="a">Redmond, Wash.</subfield>
+      <subfield code="b">Microsoft Press</subfield>
+      <subfield code="c">c2011</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">1 online resource (xxvii, 482 p.)</subfield>
+      <subfield code="b">ill</subfield>
+    </datafield>
+    <datafield tag="336" ind1=" " ind2=" ">
+      <subfield code="b">txt</subfield>
+    </datafield>
+    <datafield tag="337" ind1=" " ind2=" ">
+      <subfield code="b">c</subfield>
+    </datafield>
+    <datafield tag="338" ind1=" " ind2=" ">
+      <subfield code="b">cr</subfield>
+    </datafield>
+    <datafield tag="490" ind1="0" ind2=" ">
+      <subfield code="a">Step by step</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Includes index</subfield>
+      <subfield code="9">F:501</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="4">
+      <subfield code="a">Intranets (Computer networks)</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="4">
+      <subfield code="a">Web servers</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="4">
+      <subfield code="a">Client/server computing</subfield>
+    </datafield>
+    <datafield tag="688" ind1=" " ind2=" ">
+      <subfield code="a">Microsoft Office SharePoint server</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Coventry, Penelope</subfield>
+      <subfield code="4">oth</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2=" ">
+      <subfield code="z">Connect to this resource online</subfield>
+      <subfield code="u">http://proquest.tech.safaribooksonline.de/?uiCode=Duesseldorf&amp;xmlId=9780735647862</subfield>
+      <subfield code="z">Zugriff nur im Hochschulnetz der Universität Düsseldorf</subfield>
+    </datafield>
+    <datafield tag="980" ind1="1" ind2=" ">
+      <subfield code="e">safari-2019</subfield>
+      <subfield code="9">LOCAL</subfield>
+    </datafield>
+    <datafield tag="MBD" ind1=" " ind2=" ">
+      <subfield code="M">49HBZ_DUE</subfield>
+      <subfield code="i">990042506670206443</subfield>
+      <subfield code="n">Universität Düsseldorf</subfield>
+    </datafield>
+    <datafield tag="MNG" ind1=" " ind2=" ">
+      <subfield code="f">ILS</subfield>
+      <subfield code="i">marc21</subfield>
+      <subfield code="k">01</subfield>
+      <subfield code="e">false</subfield>
+      <subfield code="g">004250667-DUE01</subfield>
+      <subfield code="j">00</subfield>
+      <subfield code="a">import</subfield>
+      <subfield code="b">2020-07-01 12:09:44 Europe/Berlin</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>00000nam#a2200000#c#4500</leader>
+    <controlfield tag="005">20200518164500.0</controlfield>
+    <controlfield tag="007">cu#|||||||||||</controlfield>
+    <controlfield tag="007">tu</controlfield>
+    <controlfield tag="008">190923|2012####xx############|||#|#eng#c</controlfield>
+    <controlfield tag="009">KUR00770934</controlfield>
+    <controlfield tag="001">990042508140206443</controlfield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">KUR00770934</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(DE-61)KUR00770934</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(Aleph)004250814DUE01</subfield>
+    </datafield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">9780735659148</subfield>
+      <subfield code="0">(uri) http://www.isbnsearch.org/isbn/9780735659148</subfield>
+    </datafield>
+    <datafield tag="041" ind1=" " ind2=" ">
+      <subfield code="a">eng</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Davies, Joseph</subfield>
+      <subfield code="4">aut</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Understanding IPv6</subfield>
+      <subfield code="c">Joseph Davies</subfield>
+    </datafield>
+    <datafield tag="246" ind1="1" ind2="1">
+      <subfield code="a">Understanding Internet Protocol version 6</subfield>
+    </datafield>
+    <datafield tag="250" ind1=" " ind2=" ">
+      <subfield code="a">3rd ed</subfield>
+    </datafield>
+    <datafield tag="264" ind1=" " ind2="1">
+      <subfield code="a">[Redmond, WA]</subfield>
+      <subfield code="b">Microsoft Press</subfield>
+      <subfield code="c">2012</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">1 online resource (1 v.)</subfield>
+      <subfield code="b">ill</subfield>
+    </datafield>
+    <datafield tag="336" ind1=" " ind2=" ">
+      <subfield code="b">txt</subfield>
+    </datafield>
+    <datafield tag="337" ind1=" " ind2=" ">
+      <subfield code="b">c</subfield>
+    </datafield>
+    <datafield tag="338" ind1=" " ind2=" ">
+      <subfield code="b">cr</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Date of publication from resource description page</subfield>
+      <subfield code="9">F:501</subfield>
+    </datafield>
+    <datafield tag="505" ind1="0" ind2=" ">
+      <subfield code="a">Includes bibliographical references</subfield>
+      <subfield code="9">F:517c</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="4">
+      <subfield code="a">TCP/IP (Computer network protocol)</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="4">
+      <subfield code="a">Internet</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2=" ">
+      <subfield code="z">Connect to this resource online</subfield>
+      <subfield code="u">http://proquest.tech.safaribooksonline.de/?uiCode=Duesseldorf&amp;xmlId=9780735673748</subfield>
+      <subfield code="z">Zugriff nur im Hochschulnetz der Universität Düsseldorf</subfield>
+    </datafield>
+    <datafield tag="980" ind1="1" ind2=" ">
+      <subfield code="e">safari-2019</subfield>
+      <subfield code="9">LOCAL</subfield>
+    </datafield>
+    <datafield tag="MBD" ind1=" " ind2=" ">
+      <subfield code="M">49HBZ_DUE</subfield>
+      <subfield code="i">990042508140206443</subfield>
+      <subfield code="n">Universität Düsseldorf</subfield>
+    </datafield>
+    <datafield tag="MNG" ind1=" " ind2=" ">
+      <subfield code="f">ILS</subfield>
+      <subfield code="i">marc21</subfield>
+      <subfield code="k">01</subfield>
+      <subfield code="e">false</subfield>
+      <subfield code="g">004250814-DUE01</subfield>
+      <subfield code="j">00</subfield>
+      <subfield code="a">import</subfield>
+      <subfield code="b">2020-07-01 12:09:44 Europe/Berlin</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>00000nam#a2200000#c#4500</leader>
+    <controlfield tag="005">20200518164500.0</controlfield>
+    <controlfield tag="007">cu#|||||||||||</controlfield>
+    <controlfield tag="007">tu</controlfield>
+    <controlfield tag="008">190923|2008####xx############|||#|#eng#c</controlfield>
+    <controlfield tag="009">KUR00770672</controlfield>
+    <controlfield tag="001">990042505520206443</controlfield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">KUR00770672</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(DE-61)KUR00770672</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(Aleph)004250552DUE01</subfield>
+    </datafield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">9780735624412</subfield>
+      <subfield code="0">(uri) http://www.isbnsearch.org/isbn/9780735624412</subfield>
+    </datafield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">0735624410</subfield>
+      <subfield code="0">(uri) http://www.isbnsearch.org/isbn/0735624410</subfield>
+    </datafield>
+    <datafield tag="041" ind1=" " ind2=" ">
+      <subfield code="a">eng</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Internet information services 7.0</subfield>
+      <subfield code="b">resource kit</subfield>
+      <subfield code="c">Mike Volodarsky ... [et al.] ; with the Microsoft IIS Team</subfield>
+    </datafield>
+    <datafield tag="246" ind1="1" ind2="1">
+      <subfield code="a">Internet information services (IIS) 7.0</subfield>
+    </datafield>
+    <datafield tag="264" ind1=" " ind2="1">
+      <subfield code="a">Redmond, Wash.</subfield>
+      <subfield code="b">Microsoft Press</subfield>
+      <subfield code="c">c2008</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">xxv, 779 p.</subfield>
+      <subfield code="b">ill.</subfield>
+      <subfield code="c">23 cm. +</subfield>
+      <subfield code="e">1 CD-ROM (4 3/4 in.)</subfield>
+    </datafield>
+    <datafield tag="336" ind1=" " ind2=" ">
+      <subfield code="b">txt</subfield>
+    </datafield>
+    <datafield tag="337" ind1=" " ind2=" ">
+      <subfield code="b">c</subfield>
+    </datafield>
+    <datafield tag="338" ind1=" " ind2=" ">
+      <subfield code="b">cr</subfield>
+    </datafield>
+    <datafield tag="505" ind1="0" ind2=" ">
+      <subfield code="a">Includes bibliographical references and index</subfield>
+      <subfield code="9">F:517c</subfield>
+    </datafield>
+    <datafield tag="520" ind1=" " ind2=" ">
+      <subfield code="a">Provides information on the deployment and management of IIS 7.0, with instructions for administrative tasks, security enhancements, migration strategies, and troubleshooting</subfield>
+    </datafield>
+    <datafield tag="533" ind1=" " ind2=" ">
+      <subfield code="a">Electronic reproduction</subfield>
+      <subfield code="b">Boston, Mass.</subfield>
+      <subfield code="c">Safari Books Online</subfield>
+    </datafield>
+    <datafield tag="583" ind1=" " ind2=" ">
+      <subfield code="h">2008</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="4">
+      <subfield code="a">Internet / Computer programs</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="4">
+      <subfield code="a">Web servers</subfield>
+    </datafield>
+    <datafield tag="688" ind1=" " ind2=" ">
+      <subfield code="a">Microsoft Internet information server</subfield>
+    </datafield>
+    <datafield tag="688" ind1=" " ind2=" ">
+      <subfield code="a">Microsoft Windows server</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Volodarsky, Mike</subfield>
+      <subfield code="4">oth</subfield>
+    </datafield>
+    <datafield tag="710" ind1="2" ind2=" ">
+      <subfield code="a">Microsoft IIS Team</subfield>
+      <subfield code="4">oth</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2=" ">
+      <subfield code="z">Connect to this resource online</subfield>
+      <subfield code="u">http://proquest.tech.safaribooksonline.de/?uiCode=Duesseldorf&amp;xmlId=9780735624412</subfield>
+      <subfield code="z">Zugriff nur im Hochschulnetz der Universität Düsseldorf</subfield>
+    </datafield>
+    <datafield tag="980" ind1="1" ind2=" ">
+      <subfield code="e">safari-2019</subfield>
+      <subfield code="9">LOCAL</subfield>
+    </datafield>
+    <datafield tag="MBD" ind1=" " ind2=" ">
+      <subfield code="M">49HBZ_DUE</subfield>
+      <subfield code="i">990042505520206443</subfield>
+      <subfield code="n">Universität Düsseldorf</subfield>
+    </datafield>
+    <datafield tag="MNG" ind1=" " ind2=" ">
+      <subfield code="f">ILS</subfield>
+      <subfield code="i">marc21</subfield>
+      <subfield code="k">01</subfield>
+      <subfield code="e">false</subfield>
+      <subfield code="g">004250552-DUE01</subfield>
+      <subfield code="j">00</subfield>
+      <subfield code="a">import</subfield>
+      <subfield code="b">2020-07-01 12:09:44 Europe/Berlin</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>00000nam#a2200000#c#4500</leader>
+    <controlfield tag="005">20200518164500.0</controlfield>
+    <controlfield tag="007">cu#|||||||||||</controlfield>
+    <controlfield tag="007">tu</controlfield>
+    <controlfield tag="008">190923|2000####xx############|||#|#eng#c</controlfield>
+    <controlfield tag="009">KUR00771339</controlfield>
+    <controlfield tag="001">990042512190206443</controlfield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">KUR00771339</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(DE-61)KUR00771339</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(Aleph)004251219DUE01</subfield>
+    </datafield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">9780080535081</subfield>
+      <subfield code="0">(uri) http://www.isbnsearch.org/isbn/9780080535081</subfield>
+    </datafield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">0080535089</subfield>
+      <subfield code="0">(uri) http://www.isbnsearch.org/isbn/0080535089</subfield>
+    </datafield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">9780750645836</subfield>
+      <subfield code="0">(uri) http://www.isbnsearch.org/isbn/9780750645836</subfield>
+    </datafield>
+    <datafield tag="041" ind1=" " ind2=" ">
+      <subfield code="a">eng</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Crisp, John</subfield>
+      <subfield code="4">aut</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Introduction to digital systems</subfield>
+      <subfield code="c">John Crisp</subfield>
+    </datafield>
+    <datafield tag="264" ind1=" " ind2="1">
+      <subfield code="a">Oxford</subfield>
+      <subfield code="b">Newnes</subfield>
+      <subfield code="c">2000</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">1 online resource (vii, 296 p.)</subfield>
+      <subfield code="b">ill</subfield>
+    </datafield>
+    <datafield tag="336" ind1=" " ind2=" ">
+      <subfield code="b">txt</subfield>
+    </datafield>
+    <datafield tag="337" ind1=" " ind2=" ">
+      <subfield code="b">c</subfield>
+    </datafield>
+    <datafield tag="338" ind1=" " ind2=" ">
+      <subfield code="b">cr</subfield>
+    </datafield>
+    <datafield tag="505" ind1="0" ind2=" ">
+      <subfield code="a">Includes bibliographical references (p. 292) and index</subfield>
+      <subfield code="9">F:517c</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="4">
+      <subfield code="a">Digital electronics</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="4">
+      <subfield code="a">Electronic circuit design</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2=" ">
+      <subfield code="z">Connect to this resource online</subfield>
+      <subfield code="u">http://proquest.tech.safaribooksonline.de/?uiCode=Duesseldorf&amp;xmlId=9780750645836</subfield>
+      <subfield code="z">Zugriff nur im Hochschulnetz der Universität Düsseldorf</subfield>
+    </datafield>
+    <datafield tag="980" ind1="1" ind2=" ">
+      <subfield code="e">safari-2019</subfield>
+      <subfield code="9">LOCAL</subfield>
+    </datafield>
+    <datafield tag="MBD" ind1=" " ind2=" ">
+      <subfield code="M">49HBZ_DUE</subfield>
+      <subfield code="i">990042512190206443</subfield>
+      <subfield code="n">Universität Düsseldorf</subfield>
+    </datafield>
+    <datafield tag="MNG" ind1=" " ind2=" ">
+      <subfield code="f">ILS</subfield>
+      <subfield code="i">marc21</subfield>
+      <subfield code="k">01</subfield>
+      <subfield code="e">false</subfield>
+      <subfield code="g">004251219-DUE01</subfield>
+      <subfield code="j">00</subfield>
+      <subfield code="a">import</subfield>
+      <subfield code="b">2020-07-01 12:09:44 Europe/Berlin</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>00000nam#a2200000#c#4500</leader>
+    <controlfield tag="005">20200518164500.0</controlfield>
+    <controlfield tag="007">cu#|||||||||||</controlfield>
+    <controlfield tag="007">tu</controlfield>
+    <controlfield tag="008">190923|2006####xx############|||#|#eng#c</controlfield>
+    <controlfield tag="009">KUR00770609</controlfield>
+    <controlfield tag="001">990042504890206443</controlfield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">KUR00770609</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(DE-61)KUR00770609</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(Aleph)004250489DUE01</subfield>
+    </datafield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">0735622965</subfield>
+      <subfield code="0">(uri) http://www.isbnsearch.org/isbn/0735622965</subfield>
+    </datafield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">9780735622968</subfield>
+      <subfield code="0">(uri) http://www.isbnsearch.org/isbn/9780735622968</subfield>
+    </datafield>
+    <datafield tag="041" ind1=" " ind2=" ">
+      <subfield code="a">eng</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Stanek, William R.</subfield>
+      <subfield code="4">aut</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Windows Vista</subfield>
+      <subfield code="b">administrator's pocket consultant</subfield>
+      <subfield code="c">by William R. Stanek</subfield>
+    </datafield>
+    <datafield tag="264" ind1=" " ind2="1">
+      <subfield code="a">Redmond, Wash.</subfield>
+      <subfield code="b">Microsoft Press</subfield>
+      <subfield code="c">2006</subfield>
+    </datafield>
+    <datafield tag="336" ind1=" " ind2=" ">
+      <subfield code="b">txt</subfield>
+    </datafield>
+    <datafield tag="337" ind1=" " ind2=" ">
+      <subfield code="b">c</subfield>
+    </datafield>
+    <datafield tag="338" ind1=" " ind2=" ">
+      <subfield code="b">cr</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Includes index</subfield>
+      <subfield code="9">F:501</subfield>
+    </datafield>
+    <datafield tag="533" ind1=" " ind2=" ">
+      <subfield code="a">Electronic reproduction</subfield>
+      <subfield code="b">Boston, Mass.</subfield>
+      <subfield code="c">Safari Books Online</subfield>
+    </datafield>
+    <datafield tag="583" ind1=" " ind2=" ">
+      <subfield code="h">2006</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="4">
+      <subfield code="a">Operating systems (Computers)</subfield>
+    </datafield>
+    <datafield tag="688" ind1=" " ind2=" ">
+      <subfield code="a">Microsoft Windows (Computer file)</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2=" ">
+      <subfield code="z">Connect to this resource online</subfield>
+      <subfield code="u">http://proquest.tech.safaribooksonline.de/?uiCode=Duesseldorf&amp;xmlId=9780735622968</subfield>
+      <subfield code="z">Zugriff nur im Hochschulnetz der Universität Düsseldorf</subfield>
+    </datafield>
+    <datafield tag="980" ind1="1" ind2=" ">
+      <subfield code="e">safari-2019</subfield>
+      <subfield code="9">LOCAL</subfield>
+    </datafield>
+    <datafield tag="MBD" ind1=" " ind2=" ">
+      <subfield code="M">49HBZ_DUE</subfield>
+      <subfield code="i">990042504890206443</subfield>
+      <subfield code="n">Universität Düsseldorf</subfield>
+    </datafield>
+    <datafield tag="MNG" ind1=" " ind2=" ">
+      <subfield code="f">ILS</subfield>
+      <subfield code="i">marc21</subfield>
+      <subfield code="k">01</subfield>
+      <subfield code="e">false</subfield>
+      <subfield code="g">004250489-DUE01</subfield>
+      <subfield code="j">00</subfield>
+      <subfield code="a">import</subfield>
+      <subfield code="b">2020-07-01 12:09:44 Europe/Berlin</subfield>
+    </datafield>
+  </record>
+
+  <record>
+    <leader>00000nam#a2200000#c#4500</leader>
+    <controlfield tag="005">20161124085000.0</controlfield>
+    <controlfield tag="007">tu</controlfield>
+    <controlfield tag="008">141008|1986####fr############|||#|#fre#c</controlfield>
+    <controlfield tag="009">HT018410339</controlfield>
+    <controlfield tag="001">990033455520206443</controlfield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">HT018410339</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(DE-605)HT018410339</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(Aleph)003345552DUE01</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(DE-599)HBZHT018410339</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">61</subfield>
+      <subfield code="b">ger</subfield>
+      <subfield code="d">61</subfield>
+      <subfield code="e">rakwb</subfield>
+    </datafield>
+    <datafield tag="041" ind1=" " ind2=" ">
+      <subfield code="a">fre</subfield>
+    </datafield>
+    <datafield tag="044" ind1=" " ind2=" ">
+      <subfield code="c">XA-FR</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Portante, Jean</subfield>
+      <subfield code="4">aut</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Horizon, vertige et Italie intercalaire</subfield>
+    </datafield>
+    <datafield tag="264" ind1=" " ind2="1">
+      <subfield code="a">Paris</subfield>
+      <subfield code="b">ARCAM</subfield>
+      <subfield code="c">1986</subfield>
+    </datafield>
+    <datafield tag="960" ind1="1" ind2=" ">
+      <subfield code="b">bestellt</subfield>
+    </datafield>
+    <datafield tag="995" ind1="1" ind2=" ">
+      <subfield code="a">rom storniert</subfield>
+      <subfield code="9">LOCAL</subfield>
+    </datafield>
+    <datafield tag="MBD" ind1=" " ind2=" ">
+      <subfield code="M">49HBZ_DUE</subfield>
+      <subfield code="i">990033455520206443</subfield>
+      <subfield code="n">Universität Düsseldorf</subfield>
+    </datafield>
+    <datafield tag="MNG" ind1=" " ind2=" ">
+      <subfield code="f">ILS</subfield>
+      <subfield code="i">marc21</subfield>
+      <subfield code="k">01</subfield>
+      <subfield code="e">false</subfield>
+      <subfield code="g">003345552-DUE01</subfield>
+      <subfield code="j">00</subfield>
+      <subfield code="a">import</subfield>
+      <subfield code="b">2020-07-01 12:09:10 Europe/Berlin</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>00000nam#a2200000#c#4500</leader>
+    <controlfield tag="005">20141010102300.0</controlfield>
+    <controlfield tag="007">tu</controlfield>
+    <controlfield tag="008">141009|2014####gw############|||#|#ger#c</controlfield>
+    <controlfield tag="009">HT018411735</controlfield>
+    <controlfield tag="001">990033458960206443</controlfield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">HT018411735</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(DE-605)HT018411735</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(Aleph)003345896DUE01</subfield>
+    </datafield>
+    <datafield tag="015" ind1=" " ind2=" ">
+      <subfield code="a">14,N22</subfield>
+      <subfield code="2">dnb</subfield>
+    </datafield>
+    <datafield tag="016" ind1="7" ind2=" ">
+      <subfield code="a">1051106176</subfield>
+      <subfield code="2">DE-101b</subfield>
+    </datafield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">9783944874142</subfield>
+      <subfield code="c">Gb. : EUR 49.90</subfield>
+      <subfield code="0">(uri) http://www.isbnsearch.org/isbn/9783944874142</subfield>
+    </datafield>
+    <datafield tag="024" ind1="3" ind2=" ">
+      <subfield code="a">9783944874142</subfield>
+      <subfield code="0">(uri) http://www.isbnsearch.org/isbn/9783944874142</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(DE-69)DNB1051106176</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">61</subfield>
+      <subfield code="b">ger</subfield>
+      <subfield code="c">DNB</subfield>
+      <subfield code="d">61</subfield>
+      <subfield code="e">rakwb</subfield>
+    </datafield>
+    <datafield tag="041" ind1=" " ind2=" ">
+      <subfield code="a">ger</subfield>
+      <subfield code="a">eng</subfield>
+    </datafield>
+    <datafield tag="044" ind1=" " ind2=" ">
+      <subfield code="c">XA-DE</subfield>
+    </datafield>
+    <datafield tag="084" ind1=" " ind2=" ">
+      <subfield code="a">700</subfield>
+      <subfield code="2">z</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Blume, Eugen</subfield>
+      <subfield code="4">aut</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Imi Knoebel in der Neuen Nationalgalerie Berlin</subfield>
+      <subfield code="c">Eugen Blume</subfield>
+    </datafield>
+    <datafield tag="264" ind1=" " ind2="1">
+      <subfield code="a">München</subfield>
+      <subfield code="b">Sieveking</subfield>
+      <subfield code="c">2014</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">ca. 140 S.</subfield>
+      <subfield code="c">30 cm</subfield>
+    </datafield>
+    <datafield tag="710" ind1="2" ind2=" ">
+      <subfield code="a">Neue Nationalgalerie Berlin</subfield>
+      <subfield code="4">oth</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2="2">
+      <subfield code="m">X:MVB</subfield>
+      <subfield code="q">text/html</subfield>
+      <subfield code="u">http://deposit.d-nb.de/cgi-bin/dokserv?id=4669562&amp;prov=M&amp;dok_var=1&amp;dok_ext=htm</subfield>
+      <subfield code="3">Inhaltstext</subfield>
+    </datafield>
+    <datafield tag="995" ind1="1" ind2=" ">
+      <subfield code="a">Storniert, erscheint nicht=14,10</subfield>
+      <subfield code="9">LOCAL</subfield>
+    </datafield>
+    <datafield tag="MBD" ind1=" " ind2=" ">
+      <subfield code="M">49HBZ_DUE</subfield>
+      <subfield code="i">990033458960206443</subfield>
+      <subfield code="n">Universität Düsseldorf</subfield>
+    </datafield>
+    <datafield tag="MNG" ind1=" " ind2=" ">
+      <subfield code="f">ILS</subfield>
+      <subfield code="i">marc21</subfield>
+      <subfield code="k">01</subfield>
+      <subfield code="e">false</subfield>
+      <subfield code="g">003345896-DUE01</subfield>
+      <subfield code="j">00</subfield>
+      <subfield code="a">import</subfield>
+      <subfield code="b">2020-07-01 12:09:01 Europe/Berlin</subfield>
+    </datafield>
+  </record>
+</collection>

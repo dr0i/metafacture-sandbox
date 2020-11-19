@@ -4,6 +4,14 @@
   "title" : "Microsoft ASP.NET and Ajax",
   "otherTitleInformation" : [ "architecting Web applications" ],
   "note" : "Title from resource description page. - Includes index",
+  "hasItem" : [ {
+    "id" : "https://dummy.hbz.de/DE-61_pchbz_todo_brauchen_wir_das",
+    "type" : [ "Item" ],
+    "heldBy" : {
+      "id" : "https://lobid.org/organisations/DE-61#!",
+      "label" : "lobid Organisation"
+    }
+  } ],
   "medium" : [ {
     "id" : "http://rdaregistry.info/termList/RDAMediaType/1003",
     "label" : "Datenträger"
@@ -79,7 +87,7 @@
     },
     "resultOf" : {
       "type" : [ "CreateAction" ],
-      "endTime" : "2020-11-19T15:38:23",
+      "endTime" : "2020-11-19T17:45:47",
       "instrument" : {
         "id" : "https://github.com/hbz/lobid-resources",
         "type" : [ "SoftwareApplication" ],
@@ -105,6 +113,14 @@
   "almaIdMMS" : "990042506810206443",
   "title" : "Microsoft ADO.NET 4 step by step",
   "note" : "Includes index",
+  "hasItem" : [ {
+    "id" : "https://dummy.hbz.de/DE-61_pchbz_todo_brauchen_wir_das",
+    "type" : [ "Item" ],
+    "heldBy" : {
+      "id" : "https://lobid.org/organisations/DE-61#!",
+      "label" : "lobid Organisation"
+    }
+  } ],
   "medium" : [ {
     "id" : "http://rdaregistry.info/termList/RDAMediaType/1003",
     "label" : "Datenträger"
@@ -171,7 +187,7 @@
     },
     "resultOf" : {
       "type" : [ "CreateAction" ],
-      "endTime" : "2020-11-19T15:38:23",
+      "endTime" : "2020-11-19T17:45:47",
       "instrument" : {
         "id" : "https://github.com/hbz/lobid-resources",
         "type" : [ "SoftwareApplication" ],
@@ -197,6 +213,14 @@
   "almaIdMMS" : "990042506550206443",
   "title" : "Microsoft Access 2010 step by step",
   "note" : "\"Build a database from scratch or ready templates; create easy-to-use forms for data entry; write queries to extract and manipulate data; design reports to organize and summarize data; import data from other databases and documents; help prevent data corruption and unauthorized access\"--P. [4] of cover. - \"Follow the easy numbered steps; use screenshots to check your work; get helpful tips and pointers; build your skills hands-on using ready-made practice files\"--P. [4] of cover. - Includes index",
+  "hasItem" : [ {
+    "id" : "https://dummy.hbz.de/DE-61_pchbz_todo_brauchen_wir_das",
+    "type" : [ "Item" ],
+    "heldBy" : {
+      "id" : "https://lobid.org/organisations/DE-61#!",
+      "label" : "lobid Organisation"
+    }
+  } ],
   "medium" : [ {
     "id" : "http://rdaregistry.info/termList/RDAMediaType/1003",
     "label" : "Datenträger"
@@ -272,7 +296,7 @@
     },
     "resultOf" : {
       "type" : [ "CreateAction" ],
-      "endTime" : "2020-11-19T15:38:23",
+      "endTime" : "2020-11-19T17:45:47",
       "instrument" : {
         "id" : "https://github.com/hbz/lobid-resources",
         "type" : [ "SoftwareApplication" ],
@@ -299,6 +323,14 @@
   "title" : "Configuring Microsoft SharePoint 2010",
   "otherTitleInformation" : [ "self-paced training kit" ],
   "note" : "Cover title. - \"MCTS exam 70-667.\". - Includes index",
+  "hasItem" : [ {
+    "id" : "https://dummy.hbz.de/DE-61_pchbz_todo_brauchen_wir_das",
+    "type" : [ "Item" ],
+    "heldBy" : {
+      "id" : "https://lobid.org/organisations/DE-61#!",
+      "label" : "lobid Organisation"
+    }
+  } ],
   "medium" : [ {
     "id" : "http://rdaregistry.info/termList/RDAMediaType/1003",
     "label" : "Datenträger"
@@ -374,7 +406,7 @@
     },
     "resultOf" : {
       "type" : [ "CreateAction" ],
-      "endTime" : "2020-11-19T15:38:23",
+      "endTime" : "2020-11-19T17:45:47",
       "instrument" : {
         "id" : "https://github.com/hbz/lobid-resources",
         "type" : [ "SoftwareApplication" ],
@@ -400,6 +432,14 @@
   "almaIdMMS" : "990042504730206443",
   "title" : "First look 2007 Microsoft Office system",
   "note" : "Includes index",
+  "hasItem" : [ {
+    "id" : "https://dummy.hbz.de/DE-61_pchbz_todo_brauchen_wir_das",
+    "type" : [ "Item" ],
+    "heldBy" : {
+      "id" : "https://lobid.org/organisations/DE-61#!",
+      "label" : "lobid Organisation"
+    }
+  } ],
   "medium" : [ {
     "id" : "http://rdaregistry.info/termList/RDAMediaType/1003",
     "label" : "Datenträger"
@@ -464,7 +504,7 @@
     },
     "resultOf" : {
       "type" : [ "CreateAction" ],
-      "endTime" : "2020-11-19T15:38:23",
+      "endTime" : "2020-11-19T17:45:47",
       "instrument" : {
         "id" : "https://github.com/hbz/lobid-resources",
         "type" : [ "SoftwareApplication" ],
@@ -492,6 +532,14 @@
   "otherTitleInformation" : [ "step by step" ],
   "note" : "Includes index",
   "note" : "Get started with Outlook 2013 -- Explore Outlook 2013 -- Send and receive email messages -- Store and access contact information -- Manage scheduling -- Track tasks -- Organize your inbox -- Manage your calendar -- Manage contact records -- Enhance message content -- Customize Outlook -- Manage email settings -- Work remotely",
+  "hasItem" : [ {
+    "id" : "https://dummy.hbz.de/DE-61_pchbz_todo_brauchen_wir_das",
+    "type" : [ "Item" ],
+    "heldBy" : {
+      "id" : "https://lobid.org/organisations/DE-61#!",
+      "label" : "lobid Organisation"
+    }
+  } ],
   "medium" : [ {
     "id" : "http://rdaregistry.info/termList/RDAMediaType/1003",
     "label" : "Datenträger"
@@ -567,7 +615,7 @@
     },
     "resultOf" : {
       "type" : [ "CreateAction" ],
-      "endTime" : "2020-11-19T15:38:23",
+      "endTime" : "2020-11-19T17:45:47",
       "instrument" : {
         "id" : "https://github.com/hbz/lobid-resources",
         "type" : [ "SoftwareApplication" ],
@@ -594,6 +642,14 @@
   "title" : "Microsoft Exchange Server 2010",
   "otherTitleInformation" : [ "best practices" ],
   "note" : "Description based on print version record",
+  "hasItem" : [ {
+    "id" : "https://dummy.hbz.de/DE-61_pchbz_todo_brauchen_wir_das",
+    "type" : [ "Item" ],
+    "heldBy" : {
+      "id" : "https://lobid.org/organisations/DE-61#!",
+      "label" : "lobid Organisation"
+    }
+  } ],
   "medium" : [ {
     "id" : "http://rdaregistry.info/termList/RDAMediaType/1003",
     "label" : "Datenträger"
@@ -669,7 +725,7 @@
     },
     "resultOf" : {
       "type" : [ "CreateAction" ],
-      "endTime" : "2020-11-19T15:38:23",
+      "endTime" : "2020-11-19T17:45:47",
       "instrument" : {
         "id" : "https://github.com/hbz/lobid-resources",
         "type" : [ "SoftwareApplication" ],
@@ -695,6 +751,14 @@
   "almaIdMMS" : "990042512640206443",
   "title" : "Understanding telephone electronics",
   "note" : "Includes index",
+  "hasItem" : [ {
+    "id" : "https://dummy.hbz.de/DE-61_pchbz_todo_brauchen_wir_das",
+    "type" : [ "Item" ],
+    "heldBy" : {
+      "id" : "https://lobid.org/organisations/DE-61#!",
+      "label" : "lobid Organisation"
+    }
+  } ],
   "medium" : [ {
     "id" : "http://rdaregistry.info/termList/RDAMediaType/1003",
     "label" : "Datenträger"
@@ -781,7 +845,7 @@
     },
     "resultOf" : {
       "type" : [ "CreateAction" ],
-      "endTime" : "2020-11-19T15:38:23",
+      "endTime" : "2020-11-19T17:45:47",
       "instrument" : {
         "id" : "https://github.com/hbz/lobid-resources",
         "type" : [ "SoftwareApplication" ],
@@ -808,6 +872,14 @@
   "title" : "Microsoft SQL server 2008 MDX",
   "otherTitleInformation" : [ "step by step" ],
   "note" : "At head of t.p.: Microsoft. - Includes index",
+  "hasItem" : [ {
+    "id" : "https://dummy.hbz.de/DE-61_pchbz_todo_brauchen_wir_das",
+    "type" : [ "Item" ],
+    "heldBy" : {
+      "id" : "https://lobid.org/organisations/DE-61#!",
+      "label" : "lobid Organisation"
+    }
+  } ],
   "medium" : [ {
     "id" : "http://rdaregistry.info/termList/RDAMediaType/1003",
     "label" : "Datenträger"
@@ -903,7 +975,7 @@
     },
     "resultOf" : {
       "type" : [ "CreateAction" ],
-      "endTime" : "2020-11-19T15:38:23",
+      "endTime" : "2020-11-19T17:45:47",
       "instrument" : {
         "id" : "https://github.com/hbz/lobid-resources",
         "type" : [ "SoftwareApplication" ],
@@ -928,6 +1000,14 @@
 {
   "almaIdMMS" : "990042503270206443",
   "title" : "Slicing pizzas, racing turtles, and further adventures in applied mathematics",
+  "hasItem" : [ {
+    "id" : "https://dummy.hbz.de/DE-61_pchbz_todo_brauchen_wir_das",
+    "type" : [ "Item" ],
+    "heldBy" : {
+      "id" : "https://lobid.org/organisations/DE-61#!",
+      "label" : "lobid Organisation"
+    }
+  } ],
   "medium" : [ {
     "id" : "http://rdaregistry.info/termList/RDAMediaType/1003",
     "label" : "Datenträger"
@@ -993,7 +1073,7 @@
     },
     "resultOf" : {
       "type" : [ "CreateAction" ],
-      "endTime" : "2020-11-19T15:38:23",
+      "endTime" : "2020-11-19T17:45:47",
       "instrument" : {
         "id" : "https://github.com/hbz/lobid-resources",
         "type" : [ "SoftwareApplication" ],
@@ -1020,6 +1100,14 @@
   "title" : "Team collaboration",
   "otherTitleInformation" : [ "using Microsoft Office for more effective teamwork" ],
   "note" : "Includes index",
+  "hasItem" : [ {
+    "id" : "https://dummy.hbz.de/DE-61_pchbz_todo_brauchen_wir_das",
+    "type" : [ "Item" ],
+    "heldBy" : {
+      "id" : "https://lobid.org/organisations/DE-61#!",
+      "label" : "lobid Organisation"
+    }
+  } ],
   "medium" : [ {
     "id" : "http://rdaregistry.info/termList/RDAMediaType/1003",
     "label" : "Datenträger"
@@ -1085,7 +1173,7 @@
     },
     "resultOf" : {
       "type" : [ "CreateAction" ],
-      "endTime" : "2020-11-19T15:38:23",
+      "endTime" : "2020-11-19T17:45:47",
       "instrument" : {
         "id" : "https://github.com/hbz/lobid-resources",
         "type" : [ "SoftwareApplication" ],
@@ -1111,6 +1199,14 @@
   "almaIdMMS" : "990042503540206443",
   "title" : "Statistics, data mining, and machine learning in astronomy",
   "otherTitleInformation" : [ "a practical Python guide for the analysis of survey data" ],
+  "hasItem" : [ {
+    "id" : "https://dummy.hbz.de/DE-61_pchbz_todo_brauchen_wir_das",
+    "type" : [ "Item" ],
+    "heldBy" : {
+      "id" : "https://lobid.org/organisations/DE-61#!",
+      "label" : "lobid Organisation"
+    }
+  } ],
   "medium" : [ {
     "id" : "http://rdaregistry.info/termList/RDAMediaType/1003",
     "label" : "Datenträger"
@@ -1176,7 +1272,7 @@
     },
     "resultOf" : {
       "type" : [ "CreateAction" ],
-      "endTime" : "2020-11-19T15:38:23",
+      "endTime" : "2020-11-19T17:45:47",
       "instrument" : {
         "id" : "https://github.com/hbz/lobid-resources",
         "type" : [ "SoftwareApplication" ],
@@ -1202,6 +1298,14 @@
   "almaIdMMS" : "990042505030206443",
   "title" : "2007 Microsoft Office system inside out",
   "note" : "Includes index",
+  "hasItem" : [ {
+    "id" : "https://dummy.hbz.de/DE-61_pchbz_todo_brauchen_wir_das",
+    "type" : [ "Item" ],
+    "heldBy" : {
+      "id" : "https://lobid.org/organisations/DE-61#!",
+      "label" : "lobid Organisation"
+    }
+  } ],
   "medium" : [ {
     "id" : "http://rdaregistry.info/termList/RDAMediaType/1003",
     "label" : "Datenträger"
@@ -1277,7 +1381,7 @@
     },
     "resultOf" : {
       "type" : [ "CreateAction" ],
-      "endTime" : "2020-11-19T15:38:23",
+      "endTime" : "2020-11-19T17:45:47",
       "instrument" : {
         "id" : "https://github.com/hbz/lobid-resources",
         "type" : [ "SoftwareApplication" ],
@@ -1304,6 +1408,14 @@
   "title" : "Microsoft SharePoint Foundation 2010",
   "otherTitleInformation" : [ "step by step" ],
   "note" : "Includes index",
+  "hasItem" : [ {
+    "id" : "https://dummy.hbz.de/DE-61_pchbz_todo_brauchen_wir_das",
+    "type" : [ "Item" ],
+    "heldBy" : {
+      "id" : "https://lobid.org/organisations/DE-61#!",
+      "label" : "lobid Organisation"
+    }
+  } ],
   "medium" : [ {
     "id" : "http://rdaregistry.info/termList/RDAMediaType/1003",
     "label" : "Datenträger"
@@ -1379,7 +1491,7 @@
     },
     "resultOf" : {
       "type" : [ "CreateAction" ],
-      "endTime" : "2020-11-19T15:38:23",
+      "endTime" : "2020-11-19T17:45:47",
       "instrument" : {
         "id" : "https://github.com/hbz/lobid-resources",
         "type" : [ "SoftwareApplication" ],
@@ -1405,6 +1517,14 @@
   "almaIdMMS" : "990042508140206443",
   "title" : "Understanding IPv6",
   "note" : "Date of publication from resource description page",
+  "hasItem" : [ {
+    "id" : "https://dummy.hbz.de/DE-61_pchbz_todo_brauchen_wir_das",
+    "type" : [ "Item" ],
+    "heldBy" : {
+      "id" : "https://lobid.org/organisations/DE-61#!",
+      "label" : "lobid Organisation"
+    }
+  } ],
   "medium" : [ {
     "id" : "http://rdaregistry.info/termList/RDAMediaType/1003",
     "label" : "Datenträger"
@@ -1471,7 +1591,7 @@
     },
     "resultOf" : {
       "type" : [ "CreateAction" ],
-      "endTime" : "2020-11-19T15:38:23",
+      "endTime" : "2020-11-19T17:45:47",
       "instrument" : {
         "id" : "https://github.com/hbz/lobid-resources",
         "type" : [ "SoftwareApplication" ],
@@ -1497,6 +1617,14 @@
   "almaIdMMS" : "990042505520206443",
   "title" : "Internet information services 7.0",
   "otherTitleInformation" : [ "resource kit" ],
+  "hasItem" : [ {
+    "id" : "https://dummy.hbz.de/DE-61_pchbz_todo_brauchen_wir_das",
+    "type" : [ "Item" ],
+    "heldBy" : {
+      "id" : "https://lobid.org/organisations/DE-61#!",
+      "label" : "lobid Organisation"
+    }
+  } ],
   "medium" : [ {
     "id" : "http://rdaregistry.info/termList/RDAMediaType/1003",
     "label" : "Datenträger"
@@ -1573,7 +1701,7 @@
     },
     "resultOf" : {
       "type" : [ "CreateAction" ],
-      "endTime" : "2020-11-19T15:38:23",
+      "endTime" : "2020-11-19T17:45:47",
       "instrument" : {
         "id" : "https://github.com/hbz/lobid-resources",
         "type" : [ "SoftwareApplication" ],
@@ -1598,6 +1726,14 @@
 {
   "almaIdMMS" : "990042512190206443",
   "title" : "Introduction to digital systems",
+  "hasItem" : [ {
+    "id" : "https://dummy.hbz.de/DE-61_pchbz_todo_brauchen_wir_das",
+    "type" : [ "Item" ],
+    "heldBy" : {
+      "id" : "https://lobid.org/organisations/DE-61#!",
+      "label" : "lobid Organisation"
+    }
+  } ],
   "medium" : [ {
     "id" : "http://rdaregistry.info/termList/RDAMediaType/1003",
     "label" : "Datenträger"
@@ -1663,7 +1799,7 @@
     },
     "resultOf" : {
       "type" : [ "CreateAction" ],
-      "endTime" : "2020-11-19T15:38:23",
+      "endTime" : "2020-11-19T17:45:47",
       "instrument" : {
         "id" : "https://github.com/hbz/lobid-resources",
         "type" : [ "SoftwareApplication" ],
@@ -1690,6 +1826,14 @@
   "title" : "Windows Vista",
   "otherTitleInformation" : [ "administrator's pocket consultant" ],
   "note" : "Includes index",
+  "hasItem" : [ {
+    "id" : "https://dummy.hbz.de/DE-61_pchbz_todo_brauchen_wir_das",
+    "type" : [ "Item" ],
+    "heldBy" : {
+      "id" : "https://lobid.org/organisations/DE-61#!",
+      "label" : "lobid Organisation"
+    }
+  } ],
   "medium" : [ {
     "id" : "http://rdaregistry.info/termList/RDAMediaType/1003",
     "label" : "Datenträger"
@@ -1754,7 +1898,7 @@
     },
     "resultOf" : {
       "type" : [ "CreateAction" ],
-      "endTime" : "2020-11-19T15:38:23",
+      "endTime" : "2020-11-19T17:45:47",
       "instrument" : {
         "id" : "https://github.com/hbz/lobid-resources",
         "type" : [ "SoftwareApplication" ],
@@ -1779,6 +1923,14 @@
 {
   "almaIdMMS" : "990033455520206443",
   "title" : "Horizon, vertige et Italie intercalaire",
+  "hasItem" : [ {
+    "id" : "https://dummy.hbz.de/DE-61_pchbz_todo_brauchen_wir_das",
+    "type" : [ "Item" ],
+    "heldBy" : {
+      "id" : "https://lobid.org/organisations/DE-61#!",
+      "label" : "lobid Organisation"
+    }
+  } ],
   "type" : [ "Book", "BibliographicResource" ],
   "collection_pchbz_eher_zu_item" : "DE-61",
   "@context" : "https://lobid.org/resources/context.jsonld",
@@ -1821,7 +1973,7 @@
     },
     "resultOf" : {
       "type" : [ "CreateAction" ],
-      "endTime" : "2020-11-19T15:38:23",
+      "endTime" : "2020-11-19T17:45:47",
       "instrument" : {
         "id" : "https://github.com/hbz/lobid-resources",
         "type" : [ "SoftwareApplication" ],
@@ -1846,6 +1998,14 @@
 {
   "almaIdMMS" : "990033458960206443",
   "title" : "Imi Knoebel in der Neuen Nationalgalerie Berlin",
+  "hasItem" : [ {
+    "id" : "https://dummy.hbz.de/DE-61_pchbz_todo_brauchen_wir_das",
+    "type" : [ "Item" ],
+    "heldBy" : {
+      "id" : "https://lobid.org/organisations/DE-61#!",
+      "label" : "lobid Organisation"
+    }
+  } ],
   "type" : [ "Book", "BibliographicResource" ],
   "collection_pchbz_eher_zu_item" : "DE-61",
   "@context" : "https://lobid.org/resources/context.jsonld",
@@ -1919,7 +2079,7 @@
     },
     "resultOf" : {
       "type" : [ "CreateAction" ],
-      "endTime" : "2020-11-19T15:38:23",
+      "endTime" : "2020-11-19T17:45:47",
       "instrument" : {
         "id" : "https://github.com/hbz/lobid-resources",
         "type" : [ "SoftwareApplication" ],
