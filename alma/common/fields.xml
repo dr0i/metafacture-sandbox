@@ -332,7 +332,7 @@
 
   <entity name="publication[]">
 		<entity name="" flushWith="record">
-      <call-macro name="regex-del-punctuation-end" dsource="260[ 23] .c|264[ 23][ 1].c" dname="startDate" />
+      <call-macro name="simplify-date" dsource="260[ 23] .c|264[ 23][ 1].c" dname="startDate" />
 			<entity name="type[]">
 			<data name="" source="260[ 23] .c|264[ 23][ 1].c">
 				<constant value="PublicationEvent"/>

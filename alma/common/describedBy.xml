@@ -13,8 +13,8 @@
 				<constant value="BibliographicDescription"/>
 			</data>
 		</entity>
-		<call-macro name="simplify-date" dname="dateCreated" source="MNG  .b"/>
-		<call-macro name="simplify-date" dname="dateModified" source="MNG  .d"/>
+		<call-macro name="simplify-date" dname="dateCreated" dsource="MNG  .b"/>
+		<call-macro name="simplify-date" dname="dateModified" dsource="MNG  .d"/>
 		<entity name="inDataset" >
 			<data name="id" source="@id">
 				<constant value="http://lobid.org/resources/dataset#!"/>

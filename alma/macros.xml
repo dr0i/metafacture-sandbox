@@ -88,9 +88,11 @@
   </macro>
 
   <macro name="simplify-date">
-    <data name="$[dname]" source="$[source]">
+    <data name="$[dname]" source="$[dsource]">
       <replace pattern="-" with="" />
-      <replace pattern=" .*" with="" />
+			<replace pattern=" .*" with="" />
+			<replace pattern="c|©|\s?|,|.|:|;|/|=" with="" />
+			<regexp match="\d{4}" />
     </data>
   </macro>
 

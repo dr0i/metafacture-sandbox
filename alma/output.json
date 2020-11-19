@@ -12,9 +12,6 @@
     "label" : "Online-Ressource"
   } ],
   "type" : [ "Book", "BibliographicResource" ],
-  "pchbz_date[]_wegmal" : {
-    "" : "2009"
-  },
   "collection_pchbz_eher_zu_item" : "DE-61",
   "@context" : "https://lobid.org/resources/context.jsonld",
   "hbzId" : "ALMA990042506090206443",
@@ -58,7 +55,7 @@
   "publication" : [ {
     "location" : "Redmond, Wash",
     "publishedBy" : "Microsoft Press",
-    "startDate" : "c2009",
+    "startDate" : "2009",
     "type" : [ "PublicationEvent" ]
   } ],
   "extent" : "1 v. (unpaged) : ill",
@@ -71,7 +68,8 @@
       "id" : "http://lobid.org/organisations/004250609-DUE01_todo",
       "label" : "lobid Organisation"
     },
-    "dateCreated" : "20200701",
+    "dateCreated" : "2020",
+    "dateCreated" : "0701",
     "id" : "https://lobid.org/resources/ALMA990042506090206443",
     "label" : "Webseite der hbz-Ressource ALMA990042506090206443",
     "type" : [ "BibliographicDescription" ],
@@ -81,7 +79,7 @@
     },
     "resultOf" : {
       "type" : [ "CreateAction" ],
-      "endTime" : "2020-11-19T10:20:01",
+      "endTime" : "2020-11-19T15:38:23",
       "instrument" : {
         "id" : "https://github.com/hbz/lobid-resources",
         "type" : [ "SoftwareApplication" ],
@@ -115,9 +113,6 @@
     "label" : "Online-Ressource"
   } ],
   "type" : [ "Book", "BibliographicResource" ],
-  "pchbz_date[]_wegmal" : {
-    "" : "2010"
-  },
   "collection_pchbz_eher_zu_item" : "DE-61",
   "@context" : "https://lobid.org/resources/context.jsonld",
   "hbzId" : "ALMA990042506810206443",
@@ -151,7 +146,7 @@
   "publication" : [ {
     "location" : "Sebastopol, Calif",
     "publishedBy" : "O'Reilly Media",
-    "startDate" : "c2010",
+    "startDate" : "2010",
     "type" : [ "PublicationEvent" ]
   } ],
   "extent" : "1 online resource (xxiii, 411 p.) : ill",
@@ -165,7 +160,8 @@
       "id" : "http://lobid.org/organisations/004250681-DUE01_todo",
       "label" : "lobid Organisation"
     },
-    "dateCreated" : "20200701",
+    "dateCreated" : "2020",
+    "dateCreated" : "0701",
     "id" : "https://lobid.org/resources/ALMA990042506810206443",
     "label" : "Webseite der hbz-Ressource ALMA990042506810206443",
     "type" : [ "BibliographicDescription" ],
@@ -175,7 +171,7 @@
     },
     "resultOf" : {
       "type" : [ "CreateAction" ],
-      "endTime" : "2020-11-19T10:20:01",
+      "endTime" : "2020-11-19T15:38:23",
       "instrument" : {
         "id" : "https://github.com/hbz/lobid-resources",
         "type" : [ "SoftwareApplication" ],
@@ -209,9 +205,6 @@
     "label" : "Online-Ressource"
   } ],
   "type" : [ "Book", "BibliographicResource" ],
-  "pchbz_date[]_wegmal" : {
-    "" : "2010"
-  },
   "collection_pchbz_eher_zu_item" : "DE-61",
   "@context" : "https://lobid.org/resources/context.jsonld",
   "hbzId" : "ALMA990042506550206443",
@@ -255,7 +248,7 @@
   "publication" : [ {
     "location" : "Redmond, Wash",
     "publishedBy" : "Microsoft Press",
-    "startDate" : "c2010",
+    "startDate" : "2010",
     "type" : [ "PublicationEvent" ]
   } ],
   "extent" : "1 online resource (xxix, 413 p.) : ill",
@@ -268,7 +261,8 @@
       "id" : "http://lobid.org/organisations/004250655-DUE01_todo",
       "label" : "lobid Organisation"
     },
-    "dateCreated" : "20200701",
+    "dateCreated" : "2020",
+    "dateCreated" : "0701",
     "id" : "https://lobid.org/resources/ALMA990042506550206443",
     "label" : "Webseite der hbz-Ressource ALMA990042506550206443",
     "type" : [ "BibliographicDescription" ],
@@ -278,7 +272,7 @@
     },
     "resultOf" : {
       "type" : [ "CreateAction" ],
-      "endTime" : "2020-11-19T10:20:01",
+      "endTime" : "2020-11-19T15:38:23",
       "instrument" : {
         "id" : "https://github.com/hbz/lobid-resources",
         "type" : [ "SoftwareApplication" ],
@@ -313,9 +307,6 @@
     "label" : "Online-Ressource"
   } ],
   "type" : [ "Book", "BibliographicResource" ],
-  "pchbz_date[]_wegmal" : {
-    "" : "2011"
-  },
   "collection_pchbz_eher_zu_item" : "DE-61",
   "@context" : "https://lobid.org/resources/context.jsonld",
   "hbzId" : "ALMA990042507240206443",
@@ -359,7 +350,7 @@
   "publication" : [ {
     "location" : "Redmond, WA",
     "publishedBy" : "Microsoft Press",
-    "startDate" : "c2011",
+    "startDate" : "2011",
     "type" : [ "PublicationEvent" ]
   } ],
   "extent" : "1 online resource (xxxi, 821 p.) : ill",
@@ -372,7 +363,8 @@
       "id" : "http://lobid.org/organisations/004250724-DUE01_todo",
       "label" : "lobid Organisation"
     },
-    "dateCreated" : "20200701",
+    "dateCreated" : "2020",
+    "dateCreated" : "0701",
     "id" : "https://lobid.org/resources/ALMA990042507240206443",
     "label" : "Webseite der hbz-Ressource ALMA990042507240206443",
     "type" : [ "BibliographicDescription" ],
@@ -382,7 +374,7 @@
     },
     "resultOf" : {
       "type" : [ "CreateAction" ],
-      "endTime" : "2020-11-19T10:20:01",
+      "endTime" : "2020-11-19T15:38:23",
       "instrument" : {
         "id" : "https://github.com/hbz/lobid-resources",
         "type" : [ "SoftwareApplication" ],
@@ -416,9 +408,6 @@
     "label" : "Online-Ressource"
   } ],
   "type" : [ "Book", "BibliographicResource" ],
-  "pchbz_date[]_wegmal" : {
-    "" : "2006"
-  },
   "collection_pchbz_eher_zu_item" : "DE-61",
   "@context" : "https://lobid.org/resources/context.jsonld",
   "hbzId" : "ALMA990042504730206443",
@@ -464,7 +453,8 @@
       "id" : "http://lobid.org/organisations/004250473-DUE01_todo",
       "label" : "lobid Organisation"
     },
-    "dateCreated" : "20200701",
+    "dateCreated" : "2020",
+    "dateCreated" : "0701",
     "id" : "https://lobid.org/resources/ALMA990042504730206443",
     "label" : "Webseite der hbz-Ressource ALMA990042504730206443",
     "type" : [ "BibliographicDescription" ],
@@ -474,7 +464,7 @@
     },
     "resultOf" : {
       "type" : [ "CreateAction" ],
-      "endTime" : "2020-11-19T10:20:01",
+      "endTime" : "2020-11-19T15:38:23",
       "instrument" : {
         "id" : "https://github.com/hbz/lobid-resources",
         "type" : [ "SoftwareApplication" ],
@@ -510,9 +500,6 @@
     "label" : "Online-Ressource"
   } ],
   "type" : [ "Book", "BibliographicResource" ],
-  "pchbz_date[]_wegmal" : {
-    "" : "2013"
-  },
   "collection_pchbz_eher_zu_item" : "DE-61",
   "@context" : "https://lobid.org/resources/context.jsonld",
   "hbzId" : "ALMA990042508330206443",
@@ -556,7 +543,7 @@
   "publication" : [ {
     "location" : "Redmond, WA",
     "publishedBy" : "Microsoft Press",
-    "startDate" : "c2013",
+    "startDate" : "2013",
     "type" : [ "PublicationEvent" ]
   } ],
   "extent" : "1 online resource (1 v.) : ill",
@@ -569,7 +556,8 @@
       "id" : "http://lobid.org/organisations/004250833-DUE01_todo",
       "label" : "lobid Organisation"
     },
-    "dateCreated" : "20200701",
+    "dateCreated" : "2020",
+    "dateCreated" : "0701",
     "id" : "https://lobid.org/resources/ALMA990042508330206443",
     "label" : "Webseite der hbz-Ressource ALMA990042508330206443",
     "type" : [ "BibliographicDescription" ],
@@ -579,7 +567,7 @@
     },
     "resultOf" : {
       "type" : [ "CreateAction" ],
-      "endTime" : "2020-11-19T10:20:01",
+      "endTime" : "2020-11-19T15:38:23",
       "instrument" : {
         "id" : "https://github.com/hbz/lobid-resources",
         "type" : [ "SoftwareApplication" ],
@@ -614,9 +602,6 @@
     "label" : "Online-Ressource"
   } ],
   "type" : [ "Book", "BibliographicResource" ],
-  "pchbz_date[]_wegmal" : {
-    "" : "2010"
-  },
   "collection_pchbz_eher_zu_item" : "DE-61",
   "@context" : "https://lobid.org/resources/context.jsonld",
   "hbzId" : "ALMA990042506710206443",
@@ -660,7 +645,7 @@
   "publication" : [ {
     "location" : "Redmond, Wash",
     "publishedBy" : "Microsoft",
-    "startDate" : "c2010",
+    "startDate" : "2010",
     "type" : [ "PublicationEvent" ]
   } ],
   "extent" : "1 online resource (xl, 867 p.) : ill",
@@ -673,7 +658,8 @@
       "id" : "http://lobid.org/organisations/004250671-DUE01_todo",
       "label" : "lobid Organisation"
     },
-    "dateCreated" : "20200701",
+    "dateCreated" : "2020",
+    "dateCreated" : "0701",
     "id" : "https://lobid.org/resources/ALMA990042506710206443",
     "label" : "Webseite der hbz-Ressource ALMA990042506710206443",
     "type" : [ "BibliographicDescription" ],
@@ -683,7 +669,7 @@
     },
     "resultOf" : {
       "type" : [ "CreateAction" ],
-      "endTime" : "2020-11-19T10:20:01",
+      "endTime" : "2020-11-19T15:38:23",
       "instrument" : {
         "id" : "https://github.com/hbz/lobid-resources",
         "type" : [ "SoftwareApplication" ],
@@ -717,9 +703,6 @@
     "label" : "Online-Ressource"
   } ],
   "type" : [ "Book", "BibliographicResource" ],
-  "pchbz_date[]_wegmal" : {
-    "" : "2001"
-  },
   "collection_pchbz_eher_zu_item" : "DE-61",
   "@context" : "https://lobid.org/resources/context.jsonld",
   "hbzId" : "ALMA990042512640206443",
@@ -774,7 +757,7 @@
   "publication" : [ {
     "location" : "Boston",
     "publishedBy" : "Newnes",
-    "startDate" : "c2001",
+    "startDate" : "2001",
     "type" : [ "PublicationEvent" ]
   } ],
   "extent" : "1 online resource (xiv, 402 p.) : ill",
@@ -787,7 +770,8 @@
       "id" : "http://lobid.org/organisations/004251264-DUE01_todo",
       "label" : "lobid Organisation"
     },
-    "dateCreated" : "20200701",
+    "dateCreated" : "2020",
+    "dateCreated" : "0701",
     "id" : "https://lobid.org/resources/ALMA990042512640206443",
     "label" : "Webseite der hbz-Ressource ALMA990042512640206443",
     "type" : [ "BibliographicDescription" ],
@@ -797,7 +781,7 @@
     },
     "resultOf" : {
       "type" : [ "CreateAction" ],
-      "endTime" : "2020-11-19T10:20:01",
+      "endTime" : "2020-11-19T15:38:23",
       "instrument" : {
         "id" : "https://github.com/hbz/lobid-resources",
         "type" : [ "SoftwareApplication" ],
@@ -832,9 +816,6 @@
     "label" : "Online-Ressource"
   } ],
   "type" : [ "Book", "BibliographicResource" ],
-  "pchbz_date[]_wegmal" : {
-    "" : "2009"
-  },
   "collection_pchbz_eher_zu_item" : "DE-61",
   "@context" : "https://lobid.org/resources/context.jsonld",
   "hbzId" : "ALMA990042506070206443",
@@ -898,7 +879,7 @@
   "publication" : [ {
     "location" : "Redmond, Wash",
     "publishedBy" : "Microsoft Press",
-    "startDate" : "c2009",
+    "startDate" : "2009",
     "type" : [ "PublicationEvent" ]
   } ],
   "extent" : "xxiii, 352 p. : ill., ports",
@@ -911,7 +892,8 @@
       "id" : "http://lobid.org/organisations/004250607-DUE01_todo",
       "label" : "lobid Organisation"
     },
-    "dateCreated" : "20200701",
+    "dateCreated" : "2020",
+    "dateCreated" : "0701",
     "id" : "https://lobid.org/resources/ALMA990042506070206443",
     "label" : "Webseite der hbz-Ressource ALMA990042506070206443",
     "type" : [ "BibliographicDescription" ],
@@ -921,7 +903,7 @@
     },
     "resultOf" : {
       "type" : [ "CreateAction" ],
-      "endTime" : "2020-11-19T10:20:01",
+      "endTime" : "2020-11-19T15:38:23",
       "instrument" : {
         "id" : "https://github.com/hbz/lobid-resources",
         "type" : [ "SoftwareApplication" ],
@@ -954,10 +936,6 @@
     "label" : "Online-Ressource"
   } ],
   "type" : [ "Book", "BibliographicResource" ],
-  "pchbz_date[]_wegmal" : {
-    "" : "2012",
-    "" : "1999"
-  },
   "collection_pchbz_eher_zu_item" : "DE-61",
   "@context" : "https://lobid.org/resources/context.jsonld",
   "hbzId" : "ALMA990042503270206443",
@@ -991,7 +969,7 @@
   "publication" : [ {
     "location" : "Princeton, N.J",
     "publishedBy" : "Princeton University Press",
-    "startDate" : "2012, c1999",
+    "startDate" : "2012",
     "type" : [ "PublicationEvent" ]
   } ],
   "extent" : "1 online resource (1 v.) : ill",
@@ -1004,7 +982,8 @@
       "id" : "http://lobid.org/organisations/004250327-DUE01_todo",
       "label" : "lobid Organisation"
     },
-    "dateCreated" : "20200701",
+    "dateCreated" : "2020",
+    "dateCreated" : "0701",
     "id" : "https://lobid.org/resources/ALMA990042503270206443",
     "label" : "Webseite der hbz-Ressource ALMA990042503270206443",
     "type" : [ "BibliographicDescription" ],
@@ -1014,7 +993,7 @@
     },
     "resultOf" : {
       "type" : [ "CreateAction" ],
-      "endTime" : "2020-11-19T10:20:01",
+      "endTime" : "2020-11-19T15:38:23",
       "instrument" : {
         "id" : "https://github.com/hbz/lobid-resources",
         "type" : [ "SoftwareApplication" ],
@@ -1049,9 +1028,6 @@
     "label" : "Online-Ressource"
   } ],
   "type" : [ "Book", "BibliographicResource" ],
-  "pchbz_date[]_wegmal" : {
-    "" : "2012"
-  },
   "collection_pchbz_eher_zu_item" : "DE-61",
   "@context" : "https://lobid.org/resources/context.jsonld",
   "hbzId" : "ALMA990042507600206443",
@@ -1098,7 +1074,8 @@
       "id" : "http://lobid.org/organisations/004250760-DUE01_todo",
       "label" : "lobid Organisation"
     },
-    "dateCreated" : "20200701",
+    "dateCreated" : "2020",
+    "dateCreated" : "0701",
     "id" : "https://lobid.org/resources/ALMA990042507600206443",
     "label" : "Webseite der hbz-Ressource ALMA990042507600206443",
     "type" : [ "BibliographicDescription" ],
@@ -1108,7 +1085,7 @@
     },
     "resultOf" : {
       "type" : [ "CreateAction" ],
-      "endTime" : "2020-11-19T10:20:01",
+      "endTime" : "2020-11-19T15:38:23",
       "instrument" : {
         "id" : "https://github.com/hbz/lobid-resources",
         "type" : [ "SoftwareApplication" ],
@@ -1142,9 +1119,6 @@
     "label" : "Online-Ressource"
   } ],
   "type" : [ "Book", "BibliographicResource" ],
-  "pchbz_date[]_wegmal" : {
-    "" : "2014"
-  },
   "collection_pchbz_eher_zu_item" : "DE-61",
   "@context" : "https://lobid.org/resources/context.jsonld",
   "hbzId" : "ALMA990042503540206443",
@@ -1178,7 +1152,7 @@
   "publication" : [ {
     "location" : "Princeton, N.J",
     "publishedBy" : "Princeton University Press",
-    "startDate" : "c2014",
+    "startDate" : "2014",
     "type" : [ "PublicationEvent" ]
   } ],
   "extent" : "1 online resource (x, 540 p.) : ill",
@@ -1191,7 +1165,8 @@
       "id" : "http://lobid.org/organisations/004250354-DUE01_todo",
       "label" : "lobid Organisation"
     },
-    "dateCreated" : "20200701",
+    "dateCreated" : "2020",
+    "dateCreated" : "0701",
     "id" : "https://lobid.org/resources/ALMA990042503540206443",
     "label" : "Webseite der hbz-Ressource ALMA990042503540206443",
     "type" : [ "BibliographicDescription" ],
@@ -1201,7 +1176,7 @@
     },
     "resultOf" : {
       "type" : [ "CreateAction" ],
-      "endTime" : "2020-11-19T10:20:01",
+      "endTime" : "2020-11-19T15:38:23",
       "instrument" : {
         "id" : "https://github.com/hbz/lobid-resources",
         "type" : [ "SoftwareApplication" ],
@@ -1235,9 +1210,6 @@
     "label" : "Online-Ressource"
   } ],
   "type" : [ "Book", "BibliographicResource" ],
-  "pchbz_date[]_wegmal" : {
-    "" : "2007"
-  },
   "collection_pchbz_eher_zu_item" : "DE-61",
   "@context" : "https://lobid.org/resources/context.jsonld",
   "hbzId" : "ALMA990042505030206443",
@@ -1281,7 +1253,7 @@
   "publication" : [ {
     "location" : "Redmond, Wash",
     "publishedBy" : "Microsoft Press",
-    "startDate" : "c2007",
+    "startDate" : "2007",
     "type" : [ "PublicationEvent" ]
   } ],
   "extent" : "xxxiii, 1272 p. : ill. ; 23 cm ; 1 CD-ROM (4 3/4 in.)",
@@ -1294,7 +1266,8 @@
       "id" : "http://lobid.org/organisations/004250503-DUE01_todo",
       "label" : "lobid Organisation"
     },
-    "dateCreated" : "20200701",
+    "dateCreated" : "2020",
+    "dateCreated" : "0701",
     "id" : "https://lobid.org/resources/ALMA990042505030206443",
     "label" : "Webseite der hbz-Ressource ALMA990042505030206443",
     "type" : [ "BibliographicDescription" ],
@@ -1304,7 +1277,7 @@
     },
     "resultOf" : {
       "type" : [ "CreateAction" ],
-      "endTime" : "2020-11-19T10:20:01",
+      "endTime" : "2020-11-19T15:38:23",
       "instrument" : {
         "id" : "https://github.com/hbz/lobid-resources",
         "type" : [ "SoftwareApplication" ],
@@ -1339,9 +1312,6 @@
     "label" : "Online-Ressource"
   } ],
   "type" : [ "Book", "BibliographicResource" ],
-  "pchbz_date[]_wegmal" : {
-    "" : "2011"
-  },
   "collection_pchbz_eher_zu_item" : "DE-61",
   "@context" : "https://lobid.org/resources/context.jsonld",
   "hbzId" : "ALMA990042506670206443",
@@ -1385,7 +1355,7 @@
   "publication" : [ {
     "location" : "Redmond, Wash",
     "publishedBy" : "Microsoft Press",
-    "startDate" : "c2011",
+    "startDate" : "2011",
     "type" : [ "PublicationEvent" ]
   } ],
   "extent" : "1 online resource (xxvii, 482 p.) : ill",
@@ -1398,7 +1368,8 @@
       "id" : "http://lobid.org/organisations/004250667-DUE01_todo",
       "label" : "lobid Organisation"
     },
-    "dateCreated" : "20200701",
+    "dateCreated" : "2020",
+    "dateCreated" : "0701",
     "id" : "https://lobid.org/resources/ALMA990042506670206443",
     "label" : "Webseite der hbz-Ressource ALMA990042506670206443",
     "type" : [ "BibliographicDescription" ],
@@ -1408,7 +1379,7 @@
     },
     "resultOf" : {
       "type" : [ "CreateAction" ],
-      "endTime" : "2020-11-19T10:20:01",
+      "endTime" : "2020-11-19T15:38:23",
       "instrument" : {
         "id" : "https://github.com/hbz/lobid-resources",
         "type" : [ "SoftwareApplication" ],
@@ -1442,9 +1413,6 @@
     "label" : "Online-Ressource"
   } ],
   "type" : [ "Book", "BibliographicResource" ],
-  "pchbz_date[]_wegmal" : {
-    "" : "2012"
-  },
   "collection_pchbz_eher_zu_item" : "DE-61",
   "@context" : "https://lobid.org/resources/context.jsonld",
   "hbzId" : "ALMA990042508140206443",
@@ -1492,7 +1460,8 @@
       "id" : "http://lobid.org/organisations/004250814-DUE01_todo",
       "label" : "lobid Organisation"
     },
-    "dateCreated" : "20200701",
+    "dateCreated" : "2020",
+    "dateCreated" : "0701",
     "id" : "https://lobid.org/resources/ALMA990042508140206443",
     "label" : "Webseite der hbz-Ressource ALMA990042508140206443",
     "type" : [ "BibliographicDescription" ],
@@ -1502,7 +1471,7 @@
     },
     "resultOf" : {
       "type" : [ "CreateAction" ],
-      "endTime" : "2020-11-19T10:20:01",
+      "endTime" : "2020-11-19T15:38:23",
       "instrument" : {
         "id" : "https://github.com/hbz/lobid-resources",
         "type" : [ "SoftwareApplication" ],
@@ -1536,9 +1505,6 @@
     "label" : "Online-Ressource"
   } ],
   "type" : [ "Book", "BibliographicResource" ],
-  "pchbz_date[]_wegmal" : {
-    "" : "2008"
-  },
   "collection_pchbz_eher_zu_item" : "DE-61",
   "@context" : "https://lobid.org/resources/context.jsonld",
   "hbzId" : "ALMA990042505520206443",
@@ -1582,7 +1548,7 @@
   "publication" : [ {
     "location" : "Redmond, Wash",
     "publishedBy" : "Microsoft Press",
-    "startDate" : "c2008",
+    "startDate" : "2008",
     "type" : [ "PublicationEvent" ]
   } ],
   "extent" : "xxv, 779 p. : ill. ; 23 cm ; 1 CD-ROM (4 3/4 in.)",
@@ -1596,7 +1562,8 @@
       "id" : "http://lobid.org/organisations/004250552-DUE01_todo",
       "label" : "lobid Organisation"
     },
-    "dateCreated" : "20200701",
+    "dateCreated" : "2020",
+    "dateCreated" : "0701",
     "id" : "https://lobid.org/resources/ALMA990042505520206443",
     "label" : "Webseite der hbz-Ressource ALMA990042505520206443",
     "type" : [ "BibliographicDescription" ],
@@ -1606,7 +1573,7 @@
     },
     "resultOf" : {
       "type" : [ "CreateAction" ],
-      "endTime" : "2020-11-19T10:20:01",
+      "endTime" : "2020-11-19T15:38:23",
       "instrument" : {
         "id" : "https://github.com/hbz/lobid-resources",
         "type" : [ "SoftwareApplication" ],
@@ -1639,9 +1606,6 @@
     "label" : "Online-Ressource"
   } ],
   "type" : [ "Book", "BibliographicResource" ],
-  "pchbz_date[]_wegmal" : {
-    "" : "2000"
-  },
   "collection_pchbz_eher_zu_item" : "DE-61",
   "@context" : "https://lobid.org/resources/context.jsonld",
   "hbzId" : "ALMA990042512190206443",
@@ -1688,7 +1652,8 @@
       "id" : "http://lobid.org/organisations/004251219-DUE01_todo",
       "label" : "lobid Organisation"
     },
-    "dateCreated" : "20200701",
+    "dateCreated" : "2020",
+    "dateCreated" : "0701",
     "id" : "https://lobid.org/resources/ALMA990042512190206443",
     "label" : "Webseite der hbz-Ressource ALMA990042512190206443",
     "type" : [ "BibliographicDescription" ],
@@ -1698,7 +1663,7 @@
     },
     "resultOf" : {
       "type" : [ "CreateAction" ],
-      "endTime" : "2020-11-19T10:20:01",
+      "endTime" : "2020-11-19T15:38:23",
       "instrument" : {
         "id" : "https://github.com/hbz/lobid-resources",
         "type" : [ "SoftwareApplication" ],
@@ -1733,9 +1698,6 @@
     "label" : "Online-Ressource"
   } ],
   "type" : [ "Book", "BibliographicResource" ],
-  "pchbz_date[]_wegmal" : {
-    "" : "2006"
-  },
   "collection_pchbz_eher_zu_item" : "DE-61",
   "@context" : "https://lobid.org/resources/context.jsonld",
   "hbzId" : "ALMA990042504890206443",
@@ -1781,7 +1743,8 @@
       "id" : "http://lobid.org/organisations/004250489-DUE01_todo",
       "label" : "lobid Organisation"
     },
-    "dateCreated" : "20200701",
+    "dateCreated" : "2020",
+    "dateCreated" : "0701",
     "id" : "https://lobid.org/resources/ALMA990042504890206443",
     "label" : "Webseite der hbz-Ressource ALMA990042504890206443",
     "type" : [ "BibliographicDescription" ],
@@ -1791,7 +1754,7 @@
     },
     "resultOf" : {
       "type" : [ "CreateAction" ],
-      "endTime" : "2020-11-19T10:20:01",
+      "endTime" : "2020-11-19T15:38:23",
       "instrument" : {
         "id" : "https://github.com/hbz/lobid-resources",
         "type" : [ "SoftwareApplication" ],
@@ -1817,9 +1780,6 @@
   "almaIdMMS" : "990033455520206443",
   "title" : "Horizon, vertige et Italie intercalaire",
   "type" : [ "Book", "BibliographicResource" ],
-  "pchbz_date[]_wegmal" : {
-    "" : "1986"
-  },
   "collection_pchbz_eher_zu_item" : "DE-61",
   "@context" : "https://lobid.org/resources/context.jsonld",
   "hbzId" : "HTHT018410339",
@@ -1850,7 +1810,8 @@
       "id" : "http://lobid.org/organisations/003345552-DUE01_todo",
       "label" : "lobid Organisation"
     },
-    "dateCreated" : "20200701",
+    "dateCreated" : "2020",
+    "dateCreated" : "0701",
     "id" : "https://lobid.org/resources/HTHT018410339",
     "label" : "Webseite der hbz-Ressource HTHT018410339",
     "type" : [ "BibliographicDescription" ],
@@ -1860,7 +1821,7 @@
     },
     "resultOf" : {
       "type" : [ "CreateAction" ],
-      "endTime" : "2020-11-19T10:20:01",
+      "endTime" : "2020-11-19T15:38:23",
       "instrument" : {
         "id" : "https://github.com/hbz/lobid-resources",
         "type" : [ "SoftwareApplication" ],
@@ -1886,9 +1847,6 @@
   "almaIdMMS" : "990033458960206443",
   "title" : "Imi Knoebel in der Neuen Nationalgalerie Berlin",
   "type" : [ "Book", "BibliographicResource" ],
-  "pchbz_date[]_wegmal" : {
-    "" : "2014"
-  },
   "collection_pchbz_eher_zu_item" : "DE-61",
   "@context" : "https://lobid.org/resources/context.jsonld",
   "hbzId" : "HTHT018411735",
@@ -1950,7 +1908,8 @@
       "id" : "http://lobid.org/organisations/003345896-DUE01_todo",
       "label" : "lobid Organisation"
     },
-    "dateCreated" : "20200701",
+    "dateCreated" : "2020",
+    "dateCreated" : "0701",
     "id" : "https://lobid.org/resources/HTHT018411735",
     "label" : "Webseite der hbz-Ressource HTHT018411735",
     "type" : [ "BibliographicDescription" ],
@@ -1960,7 +1919,7 @@
     },
     "resultOf" : {
       "type" : [ "CreateAction" ],
-      "endTime" : "2020-11-19T10:20:01",
+      "endTime" : "2020-11-19T15:38:23",
       "instrument" : {
         "id" : "https://github.com/hbz/lobid-resources",
         "type" : [ "SoftwareApplication" ],
